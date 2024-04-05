@@ -25,6 +25,17 @@
     grid-column: 4;
   }
 }
+.img__oNul2 {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  width: 200px;
+  justify-self: flex-start;
+  margin-top: 18px;
+}
+.img__oNul2 > picture > img {
+  object-fit: cover;
+}
 .section {
   display: grid;
   position: relative;
@@ -42,7 +53,7 @@
       calc(100% - var(--plsmc-viewport-gap) - var(--plsmc-viewport-gap))
     )
     minmax(0, var(--plsmc-wide-chunk)) 1fr var(--plsmc-viewport-gap);
-  padding: 64px 0px;
+  padding: 50px 0px 64px;
 }
 .section > * {
   grid-column: 4;

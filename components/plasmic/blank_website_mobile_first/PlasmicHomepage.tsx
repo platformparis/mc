@@ -168,6 +168,24 @@ function PlasmicHomepage__RenderFunc(props: {
             sty.root
           )}
         >
+          <PlasmicImg__
+            alt={""}
+            className={classNames(sty.img__oNul2)}
+            displayHeight={"auto"}
+            displayMaxHeight={"none"}
+            displayMaxWidth={"100%"}
+            displayMinHeight={"0"}
+            displayMinWidth={"0"}
+            displayWidth={"200px"}
+            loading={"lazy"}
+            src={{
+              src: "/plasmic/blank_website_mobile_first/images/logoBvrpng.png",
+              fullWidth: 1024,
+              fullHeight: 646,
+              aspectRatio: undefined
+            }}
+          />
+
           <section
             data-plasmic-name={"section"}
             data-plasmic-override={overrides.section}
@@ -204,7 +222,7 @@ function PlasmicHomepage__RenderFunc(props: {
                 sty.h2
               )}
             >
-              {"Les sources de la tribune de l'opposition"}
+              {"Les sources de notre tribune"}
             </h2>
             <h3
               className={classNames(
