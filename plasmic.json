@@ -612,6 +612,50 @@
           "componentImportPath": "./components/PhoneInput"
         }
       ],
+      "customFunctions": [],
+      "jsBundleThemes": []
+    },
+    {
+      "projectId": "8d21MsEaFrjU1q6tvNDHvf",
+      "projectApiToken": "4C8Hb8PhSV9yVE3ogNt9nDPnJULC47vBPDaJjvvuNvyqYM4RlHqONzwiCksKb87cs5pdboSB1hK3p5FH7Y3A",
+      "projectName": "Blank website (mobile-first)",
+      "version": "latest",
+      "cssFilePath": "plasmic/blank_website_mobile_first/plasmic.module.css",
+      "components": [
+        {
+          "id": "naIXsK3v5aem",
+          "name": "Homepage",
+          "type": "managed",
+          "projectId": "8d21MsEaFrjU1q6tvNDHvf",
+          "renderModuleFilePath": "plasmic/blank_website_mobile_first/PlasmicHomepage.tsx",
+          "importSpec": {
+            "modulePath": "../pages/index.tsx"
+          },
+          "cssFilePath": "plasmic/blank_website_mobile_first/PlasmicHomepage.module.css",
+          "scheme": "blackbox",
+          "componentType": "page",
+          "path": "/"
+        }
+      ],
+      "icons": [],
+      "images": [],
+      "indirect": false,
+      "globalContextsFilePath": "",
+      "splitsProviderFilePath": "",
+      "codeComponents": [
+        {
+          "id": "gx4Q4PjFFfow",
+          "name": "PlasmicHead",
+          "displayName": "hostless-plasmic-head",
+          "componentImportPath": "@plasmicapp/react-web"
+        },
+        {
+          "id": "x0-Lia-It7V2",
+          "name": "Fetcher",
+          "displayName": "plasmic-data-source-fetcher",
+          "componentImportPath": "@plasmicapp/react-web/lib/data-sources"
+        }
+      ],
       "customFunctions": []
     }
   ],
@@ -628,6 +672,12 @@
         "name": "Screen",
         "projectId": "3CxELhjTa5D7QCGXYnEjiH",
         "contextFilePath": "plasmic/senat_souvira_mdaeschlimann_com/PlasmicGlobalVariant__Screen.tsx"
+      },
+      {
+        "id": "9hyy9kzWn8qX",
+        "name": "Screen",
+        "projectId": "8d21MsEaFrjU1q6tvNDHvf",
+        "contextFilePath": "plasmic/blank_website_mobile_first/PlasmicGlobalVariant__Screen.tsx"
       }
     ]
   },
