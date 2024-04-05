@@ -78,6 +78,10 @@ export const PlasmicHomepage__ArgProps = new Array<ArgPropType>();
 export type PlasmicHomepage__OverridesType = {
   root?: Flex__<"div">;
   section?: Flex__<"section">;
+  h1?: Flex__<"h1">;
+  h2?: Flex__<"h2">;
+  text?: Flex__<"div">;
+  img?: Flex__<typeof PlasmicImg__>;
 };
 
 export interface DefaultHomepageProps {}
@@ -142,7 +146,114 @@ function PlasmicHomepage__RenderFunc(props: {
             data-plasmic-name={"section"}
             data-plasmic-override={overrides.section}
             className={classNames(projectcss.all, sty.section)}
-          />
+          >
+            <h1
+              data-plasmic-name={"h1"}
+              data-plasmic-override={overrides.h1}
+              className={classNames(
+                projectcss.all,
+                projectcss.h1,
+                projectcss.__wab_text,
+                sty.h1
+              )}
+            >
+              <React.Fragment>
+                <React.Fragment>{"Tribune du "}</React.Fragment>
+                <span
+                  className={"plasmic_default__all plasmic_default__span"}
+                  style={{ fontStyle: "italic" }}
+                >
+                  {"Magny Mag"}
+                </span>
+                <React.Fragment>{"\nmai 2024"}</React.Fragment>
+              </React.Fragment>
+            </h1>
+            <h2
+              data-plasmic-name={"h2"}
+              data-plasmic-override={overrides.h2}
+              className={classNames(
+                projectcss.all,
+                projectcss.h2,
+                projectcss.__wab_text,
+                sty.h2
+              )}
+            >
+              {"Les sources de la tribune de l'opposition"}
+            </h2>
+            <div
+              data-plasmic-name={"text"}
+              data-plasmic-override={overrides.text}
+              className={classNames(
+                projectcss.all,
+                projectcss.__wab_text,
+                sty.text
+              )}
+            >
+              <React.Fragment>
+                <React.Fragment>
+                  {
+                    "L'\u00e9tude de la Direction g\u00e9n\u00e9rale des finances publiques qui montre que "
+                  }
+                </React.Fragment>
+                <span
+                  className={"plasmic_default__all plasmic_default__span"}
+                  style={{ fontWeight: 700 }}
+                >
+                  {
+                    "Magny est l'une des rares communes \u00e0 avoir vot\u00e9 une augmentation de ses taux d'imposition en 2023"
+                  }
+                </span>
+                <React.Fragment>{" :"}</React.Fragment>
+              </React.Fragment>
+            </div>
+            <PlasmicLink__
+              className={classNames(
+                projectcss.all,
+                projectcss.a,
+                sty.link__ddoXj
+              )}
+              component={Link}
+              href={
+                "https://www.impots.gouv.fr/sites/default/files/media/9_statistiques/data_colloc/analyse_fdl/2023/taux_votes_2023_communes_epci.pdf"
+              }
+              platform={"nextjs"}
+            >
+              <PlasmicImg__
+                data-plasmic-name={"img"}
+                data-plasmic-override={overrides.img}
+                alt={""}
+                className={classNames(sty.img)}
+                displayHeight={"auto"}
+                displayMaxHeight={"none"}
+                displayMaxWidth={"100%"}
+                displayMinHeight={"0"}
+                displayMinWidth={"0"}
+                displayWidth={"auto"}
+                loading={"lazy"}
+                src={{
+                  src: "/plasmic/blank_website_mobile_first/images/etudeDgfipjpeg.jpg",
+                  fullWidth: 707,
+                  fullHeight: 361,
+                  aspectRatio: undefined
+                }}
+              />
+            </PlasmicLink__>
+            <PlasmicLink__
+              className={classNames(
+                projectcss.all,
+                projectcss.a,
+                projectcss.__wab_text,
+                sty.link__fozkj
+              )}
+              component={Link}
+              href={
+                "https://www.impots.gouv.fr/sites/default/files/media/9_statistiques/data_colloc/analyse_fdl/2023/taux_votes_2023_communes_epci.pdf"
+              }
+              platform={"nextjs"}
+            >
+              {"\u27a1\ufe0f Lire l'\u00e9tude compl\u00e8te (PDF)"}
+            </PlasmicLink__>
+          </section>
         </div>
       </div>
     </React.Fragment>
@@ -150,8 +261,12 @@ function PlasmicHomepage__RenderFunc(props: {
 }
 
 const PlasmicDescendants = {
-  root: ["root", "section"],
-  section: ["section"]
+  root: ["root", "section", "h1", "h2", "text", "img"],
+  section: ["section", "h1", "h2", "text", "img"],
+  h1: ["h1"],
+  h2: ["h2"],
+  text: ["text"],
+  img: ["img"]
 } as const;
 type NodeNameType = keyof typeof PlasmicDescendants;
 type DescendantsType<T extends NodeNameType> =
@@ -159,6 +274,10 @@ type DescendantsType<T extends NodeNameType> =
 type NodeDefaultElementType = {
   root: "div";
   section: "section";
+  h1: "h1";
+  h2: "h2";
+  text: "div";
+  img: typeof PlasmicImg__;
 };
 
 type ReservedPropsType = "variants" | "args" | "overrides";
@@ -222,6 +341,10 @@ export const PlasmicHomepage = Object.assign(
   {
     // Helper components rendering sub-elements
     section: makeNodeComponent("section"),
+    h1: makeNodeComponent("h1"),
+    h2: makeNodeComponent("h2"),
+    text: makeNodeComponent("text"),
+    img: makeNodeComponent("img"),
 
     // Metadata about props expected for PlasmicHomepage
     internalVariantProps: PlasmicHomepage__VariantProps,

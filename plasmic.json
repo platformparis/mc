@@ -638,7 +638,13 @@
         }
       ],
       "icons": [],
-      "images": [],
+      "images": [
+        {
+          "id": "_xhZJYsVVryJ",
+          "name": "etude-dgfip.jpeg",
+          "filePath": "../public/plasmic/blank_website_mobile_first/images/etudeDgfipjpeg.jpg"
+        }
+      ],
       "indirect": false,
       "globalContextsFilePath": "",
       "splitsProviderFilePath": "",
