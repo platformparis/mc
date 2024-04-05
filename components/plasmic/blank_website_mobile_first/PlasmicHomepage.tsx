@@ -312,9 +312,44 @@ function PlasmicHomepage__RenderFunc(props: {
               )}
             >
               {
-                "Les augmentations d'imp\u00f4ts communaux \u00e0 Magny depuis que M. Houillon est maire"
+                "Les augmentations d'imp\u00f4ts communaux \u00e0 Magny d\u00e9cid\u00e9es par M. Houillon depuis qu'il est maire"
               }
             </h3>
+            <div
+              className={classNames(
+                projectcss.all,
+                projectcss.__wab_text,
+                sty.text__btrUu
+              )}
+            >
+              <React.Fragment>
+                <React.Fragment>
+                  {
+                    "Les bases fiscales \u00e9tant revaloris\u00e9es par le Parlement pour compenser les effets de l'inflation (voir le titre suivant), ces augmentations sont de\u00a0"
+                  }
+                </React.Fragment>
+                <span
+                  className={"plasmic_default__all plasmic_default__span"}
+                  style={{ fontWeight: 700 }}
+                >
+                  {"la"}
+                </span>
+                <React.Fragment> </React.Fragment>
+                <span
+                  className={"plasmic_default__all plasmic_default__span"}
+                  style={{ fontWeight: 700 }}
+                >
+                  {
+                    "pression fiscale suppl\u00e9mentaire impos\u00e9e aux contribuables magnycois par M. Houillon et son \u00e9quipe"
+                  }
+                </span>
+                <React.Fragment>
+                  {
+                    ". Invoquer l'inflation pour les justifier serait malhonn\u00eate."
+                  }
+                </React.Fragment>
+              </React.Fragment>
+            </div>
             <div
               className={classNames(
                 projectcss.all,
@@ -569,6 +604,144 @@ function PlasmicHomepage__RenderFunc(props: {
             >
               {
                 "\u27a1\ufe0f Compte rendu du Conseil municipal du 8/04/15 (PDF)"
+              }
+            </PlasmicLink__>
+            <h3
+              className={classNames(
+                projectcss.all,
+                projectcss.h3,
+                projectcss.__wab_text,
+                sty.h3__dj3Lw
+              )}
+            >
+              {
+                "La revalorisation automatique des bases vot\u00e9e par le Parlement pour compenser les effets de l'inflation"
+              }
+            </h3>
+            <div
+              className={classNames(
+                projectcss.all,
+                projectcss.__wab_text,
+                sty.text__s0MRz
+              )}
+            >
+              <React.Fragment>
+                <span
+                  className={"plasmic_default__all plasmic_default__span"}
+                  style={{ fontWeight: 700 }}
+                >
+                  {"2023"}
+                </span>
+                <React.Fragment>{" : augmentation de 7,1%"}</React.Fragment>
+              </React.Fragment>
+            </div>
+            <PlasmicLink__
+              className={classNames(
+                projectcss.all,
+                projectcss.a,
+                sty.link__jJnH5
+              )}
+              component={Link}
+              href={
+                "https://www.impots.gouv.fr/particulier/questions/comment-est-calculee-ma-taxe-fonciere-pourquoi-t-elle-augmente-en-2023"
+              }
+              platform={"nextjs"}
+            >
+              <PlasmicImg__
+                alt={""}
+                className={classNames(sty.img__axck8)}
+                displayHeight={"auto"}
+                displayMaxHeight={"none"}
+                displayMaxWidth={"100%"}
+                displayMinHeight={"0"}
+                displayMinWidth={"0"}
+                displayWidth={"auto"}
+                loading={"lazy"}
+                src={{
+                  src: "/plasmic/blank_website_mobile_first/images/revalorisationTf2023Jpeg.jpg",
+                  fullWidth: 828,
+                  fullHeight: 1141,
+                  aspectRatio: undefined
+                }}
+              />
+            </PlasmicLink__>
+            <PlasmicLink__
+              className={classNames(
+                projectcss.all,
+                projectcss.a,
+                projectcss.__wab_text,
+                sty.link__eqp4U
+              )}
+              component={Link}
+              href={
+                "https://www.impots.gouv.fr/particulier/questions/comment-est-calculee-ma-taxe-fonciere-pourquoi-t-elle-augmente-en-2023"
+              }
+              platform={"nextjs"}
+            >
+              {"\u27a1\ufe0f Notice de l'administration fiscale du 3/8/23"}
+            </PlasmicLink__>
+            <div
+              className={classNames(
+                projectcss.all,
+                projectcss.__wab_text,
+                sty.text___2JLnD
+              )}
+            >
+              <React.Fragment>
+                <span
+                  className={"plasmic_default__all plasmic_default__span"}
+                  style={{ fontWeight: 700 }}
+                >
+                  {"2024"}
+                </span>
+                <React.Fragment>{" : augmentation de 3,9%"}</React.Fragment>
+              </React.Fragment>
+            </div>
+            <PlasmicLink__
+              className={classNames(
+                projectcss.all,
+                projectcss.a,
+                sty.link__wtvlv
+              )}
+              component={Link}
+              href={
+                "https://www.amf.asso.fr/webinaire%20finances%208%20fev%2024_MH.pdf"
+              }
+              platform={"nextjs"}
+            >
+              <PlasmicImg__
+                alt={""}
+                className={classNames(sty.img___2Ww7D)}
+                displayHeight={"auto"}
+                displayMaxHeight={"none"}
+                displayMaxWidth={"100%"}
+                displayMinHeight={"0"}
+                displayMinWidth={"0"}
+                displayWidth={"auto"}
+                loading={"lazy"}
+                src={{
+                  src: "/plasmic/blank_website_mobile_first/images/loiDeFinances24Jpeg.jpg",
+                  fullWidth: 828,
+                  fullHeight: 374,
+                  aspectRatio: undefined
+                }}
+              />
+            </PlasmicLink__>
+            <PlasmicLink__
+              className={classNames(
+                projectcss.all,
+                projectcss.a,
+                projectcss.__wab_text,
+                sty.link__zN1Ij
+              )}
+              component={Link}
+              href={
+                "https://www.amf.asso.fr/webinaire%20finances%208%20fev%2024_MH.pdf"
+              }
+              platform={"nextjs"}
+            >
+              {
+                "\u27a1\ufe0f Pr\u00e9sentation de la loi de finances, association des maires des France, 8/2/24 (PDF)"
               }
             </PlasmicLink__>
           </section>
