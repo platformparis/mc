@@ -67,29 +67,118 @@
   max-width: 100%;
   border-bottom-style: solid;
   border-bottom-width: 3px;
-  padding-bottom: 10px;
+  padding-bottom: 20px;
   min-width: 0;
 }
-.text {
+.h3__mkQ1 {
   position: relative;
   width: 100%;
   height: auto;
   max-width: 100%;
-  margin-top: 20px;
+  padding-left: 0px;
+  min-width: 0;
+}
+.text__p89A {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  margin-top: 15px;
   margin-bottom: 10px;
+  padding-top: 0px;
   min-width: 0;
 }
 .link__ddoXj {
   position: relative;
   display: flex;
 }
-.img {
+.img___3LnA {
   object-fit: cover;
   max-width: 100%;
 }
-.img > picture > img {
+.img___3LnA > picture > img {
   object-fit: cover;
 }
 .link__fozkj {
   position: relative;
+}
+.h3__casBt {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  padding-top: 30px;
+  min-width: 0;
+}
+.text___5WF {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  margin-top: 15px;
+  min-width: 0;
+}
+.link__sSrBc {
+  position: relative;
+  display: flex;
+}
+.img__sTCd {
+  object-fit: cover;
+  max-width: 100%;
+}
+.img__sTCd > picture > img {
+  object-fit: cover;
+}
+.link__ez46 {
+  position: relative;
+  justify-self: flex-start;
+  font-size: 14px;
+}
+.text__whUa3 {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  margin-top: 15px;
+  min-width: 0;
+}
+.link___8EpB7 {
+  position: relative;
+  display: flex;
+}
+.img__bWsl {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+}
+.img__bWsl > picture > img {
+  object-fit: cover;
+}
+.link__dlg7M {
+  position: relative;
+  justify-self: flex-start;
+  font-size: 14px;
+}
+.text___6Ily {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  margin-top: 15px;
+  min-width: 0;
+}
+.link___2MOpo {
+  display: flex;
+}
+.img__pAbqd {
+  object-fit: cover;
+  max-width: 100%;
+}
+.img__pAbqd > picture > img {
+  object-fit: cover;
+}
+.link__awlqs {
+  position: relative;
+  justify-self: flex-start;
+  font-size: 14px;
 }

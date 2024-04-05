@@ -80,8 +80,6 @@ export type PlasmicHomepage__OverridesType = {
   section?: Flex__<"section">;
   h1?: Flex__<"h1">;
   h2?: Flex__<"h2">;
-  text?: Flex__<"div">;
-  img?: Flex__<typeof PlasmicImg__>;
 };
 
 export interface DefaultHomepageProps {}
@@ -208,20 +206,28 @@ function PlasmicHomepage__RenderFunc(props: {
             >
               {"Les sources de la tribune de l'opposition"}
             </h2>
+            <h3
+              className={classNames(
+                projectcss.all,
+                projectcss.h3,
+                projectcss.__wab_text,
+                sty.h3__mkQ1
+              )}
+            >
+              {
+                "L'\u00e9tude de la Direction g\u00e9n\u00e9rale des finances publiques"
+              }
+            </h3>
             <div
-              data-plasmic-name={"text"}
-              data-plasmic-override={overrides.text}
               className={classNames(
                 projectcss.all,
                 projectcss.__wab_text,
-                sty.text
+                sty.text__p89A
               )}
             >
               <React.Fragment>
                 <React.Fragment>
-                  {
-                    "L'\u00e9tude de la Direction g\u00e9n\u00e9rale des finances publiques qui montre que "
-                  }
+                  {"Cette \u00e9tude montre que "}
                 </React.Fragment>
                 <span
                   className={"plasmic_default__all plasmic_default__span"}
@@ -247,10 +253,8 @@ function PlasmicHomepage__RenderFunc(props: {
               platform={"nextjs"}
             >
               <PlasmicImg__
-                data-plasmic-name={"img"}
-                data-plasmic-override={overrides.img}
                 alt={""}
-                className={classNames(sty.img)}
+                className={classNames(sty.img___3LnA)}
                 displayHeight={"auto"}
                 displayMaxHeight={"none"}
                 displayMaxWidth={"100%"}
@@ -281,6 +285,210 @@ function PlasmicHomepage__RenderFunc(props: {
             >
               {"\u27a1\ufe0f Lire l'\u00e9tude compl\u00e8te (PDF)"}
             </PlasmicLink__>
+            <h3
+              className={classNames(
+                projectcss.all,
+                projectcss.h3,
+                projectcss.__wab_text,
+                sty.h3__casBt
+              )}
+            >
+              {
+                "Les augmentations d'imp\u00f4ts communaux \u00e0 Magny depuis que M. Houillon est maire"
+              }
+            </h3>
+            <div
+              className={classNames(
+                projectcss.all,
+                projectcss.__wab_text,
+                sty.text___5WF
+              )}
+            >
+              <React.Fragment>
+                <span
+                  className={"plasmic_default__all plasmic_default__span"}
+                  style={{ fontWeight: 700 }}
+                >
+                  {"2024"}
+                </span>
+                <React.Fragment>{" : augmentation de 3%"}</React.Fragment>
+              </React.Fragment>
+            </div>
+            <PlasmicLink__
+              className={classNames(
+                projectcss.all,
+                projectcss.a,
+                sty.link__sSrBc
+              )}
+              component={Link}
+              href={
+                "https://magny-les-hameaux.fr/sites/magny-les-hameaux/files/document/2024-03/deliberation-n-2024-012-vote-des-taux-de-fiscalite-2024_0.pdf"
+              }
+              platform={"nextjs"}
+            >
+              <PlasmicImg__
+                alt={""}
+                className={classNames(sty.img__sTCd)}
+                displayHeight={"auto"}
+                displayMaxHeight={"none"}
+                displayMaxWidth={"100%"}
+                displayMinHeight={"0"}
+                displayMinWidth={"0"}
+                displayWidth={"auto"}
+                loading={"lazy"}
+                src={{
+                  src: "/plasmic/blank_website_mobile_first/images/delib27Mars2024Jpeg.jpg",
+                  fullWidth: 572,
+                  fullHeight: 165,
+                  aspectRatio: undefined
+                }}
+              />
+            </PlasmicLink__>
+            <PlasmicLink__
+              className={classNames(
+                projectcss.all,
+                projectcss.a,
+                projectcss.__wab_text,
+                sty.link__ez46
+              )}
+              component={Link}
+              href={
+                "https://magny-les-hameaux.fr/sites/magny-les-hameaux/files/document/2024-03/deliberation-n-2024-012-vote-des-taux-de-fiscalite-2024_0.pdf"
+              }
+              platform={"nextjs"}
+            >
+              {
+                "\u27a1\ufe0f D\u00e9lib\u00e9ration du Conseil municipal du 27/03/24 (PDF)"
+              }
+            </PlasmicLink__>
+            <div
+              className={classNames(
+                projectcss.all,
+                projectcss.__wab_text,
+                sty.text__whUa3
+              )}
+            >
+              <React.Fragment>
+                <span
+                  className={"plasmic_default__all plasmic_default__span"}
+                  style={{ fontWeight: 700 }}
+                >
+                  {"2023"}
+                </span>
+                <React.Fragment>{" : augmentation de 3%"}</React.Fragment>
+              </React.Fragment>
+            </div>
+            <PlasmicLink__
+              className={classNames(
+                projectcss.all,
+                projectcss.a,
+                sty.link___8EpB7
+              )}
+              component={Link}
+              href={
+                "https://magny-les-hameaux.fr/sites/magny-les-hameaux/files/document/2023-05/proces-verbal-du-conseil-municipal-du-27-mars-2023.pdf"
+              }
+              platform={"nextjs"}
+            >
+              <PlasmicImg__
+                alt={""}
+                className={classNames(sty.img__bWsl)}
+                displayHeight={"auto"}
+                displayMaxHeight={"none"}
+                displayMaxWidth={"100%"}
+                displayMinHeight={"0"}
+                displayMinWidth={"0"}
+                displayWidth={"auto"}
+                loading={"lazy"}
+                src={{
+                  src: "/plasmic/blank_website_mobile_first/images/pv29Mars2023Jpeg.jpg",
+                  fullWidth: 652,
+                  fullHeight: 120,
+                  aspectRatio: undefined
+                }}
+              />
+            </PlasmicLink__>
+            <PlasmicLink__
+              className={classNames(
+                projectcss.all,
+                projectcss.a,
+                projectcss.__wab_text,
+                sty.link__dlg7M
+              )}
+              component={Link}
+              href={
+                "https://magny-les-hameaux.fr/sites/magny-les-hameaux/files/document/2023-05/proces-verbal-du-conseil-municipal-du-27-mars-2023.pdf"
+              }
+              platform={"nextjs"}
+            >
+              {
+                "\u27a1\ufe0f Proc\u00e8s verbal du Conseil municipal du 27/03/23 (PDF)"
+              }
+            </PlasmicLink__>
+            <div
+              className={classNames(
+                projectcss.all,
+                projectcss.__wab_text,
+                sty.text___6Ily
+              )}
+            >
+              <React.Fragment>
+                <span
+                  className={"plasmic_default__all plasmic_default__span"}
+                  style={{ fontWeight: 700 }}
+                >
+                  {"2022"}
+                </span>
+                <React.Fragment>{" : augmentation de 3%"}</React.Fragment>
+              </React.Fragment>
+            </div>
+            <PlasmicLink__
+              className={classNames(
+                projectcss.all,
+                projectcss.a,
+                sty.link___2MOpo
+              )}
+              component={Link}
+              href={
+                "https://magny-les-hameaux.fr/sites/magny-les-hameaux/files/document/2022-03/C.R._sommaire_Conseil_Municipal_du_28_mars_2022.pdf"
+              }
+              platform={"nextjs"}
+            >
+              <PlasmicImg__
+                alt={""}
+                className={classNames(sty.img__pAbqd)}
+                displayHeight={"auto"}
+                displayMaxHeight={"none"}
+                displayMaxWidth={"100%"}
+                displayMinHeight={"0"}
+                displayMinWidth={"0"}
+                displayWidth={"auto"}
+                loading={"lazy"}
+                src={{
+                  src: "/plasmic/blank_website_mobile_first/images/cr29Mars2022Jpeg.jpg",
+                  fullWidth: 657,
+                  fullHeight: 123,
+                  aspectRatio: undefined
+                }}
+              />
+            </PlasmicLink__>
+            <PlasmicLink__
+              className={classNames(
+                projectcss.all,
+                projectcss.a,
+                projectcss.__wab_text,
+                sty.link__awlqs
+              )}
+              component={Link}
+              href={
+                "https://magny-les-hameaux.fr/sites/magny-les-hameaux/files/document/2022-03/C.R._sommaire_Conseil_Municipal_du_28_mars_2022.pdf"
+              }
+              platform={"nextjs"}
+            >
+              {
+                "\u27a1\ufe0f Compte rendu du Conseil municipal du 29/03/22 (PDF)"
+              }
+            </PlasmicLink__>
           </section>
         </div>
       </div>
@@ -289,12 +497,10 @@ function PlasmicHomepage__RenderFunc(props: {
 }
 
 const PlasmicDescendants = {
-  root: ["root", "section", "h1", "h2", "text", "img"],
-  section: ["section", "h1", "h2", "text", "img"],
+  root: ["root", "section", "h1", "h2"],
+  section: ["section", "h1", "h2"],
   h1: ["h1"],
-  h2: ["h2"],
-  text: ["text"],
-  img: ["img"]
+  h2: ["h2"]
 } as const;
 type NodeNameType = keyof typeof PlasmicDescendants;
 type DescendantsType<T extends NodeNameType> =
@@ -304,8 +510,6 @@ type NodeDefaultElementType = {
   section: "section";
   h1: "h1";
   h2: "h2";
-  text: "div";
-  img: typeof PlasmicImg__;
 };
 
 type ReservedPropsType = "variants" | "args" | "overrides";
@@ -371,8 +575,6 @@ export const PlasmicHomepage = Object.assign(
     section: makeNodeComponent("section"),
     h1: makeNodeComponent("h1"),
     h2: makeNodeComponent("h2"),
-    text: makeNodeComponent("text"),
-    img: makeNodeComponent("img"),
 
     // Metadata about props expected for PlasmicHomepage
     internalVariantProps: PlasmicHomepage__VariantProps,

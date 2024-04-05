@@ -61,10 +61,11 @@
   --mixin-Z_yI3tH31R6E_line-height: 1.1;
   --mixin-Z_yI3tH31R6E_letter-spacing: -0.5px;
   --mixin-Z_yI3tH31R6E_white-space: pre-wrap;
-  --mixin-iLTYj8k_NsMS_color: #000000;
-  --mixin-iLTYj8k_NsMS_font-size: 32px;
+  --mixin-iLTYj8k_NsMS_color: #ba1995;
+  --mixin-iLTYj8k_NsMS_font-size: 16px;
   --mixin-iLTYj8k_NsMS_font-weight: 600;
   --mixin-iLTYj8k_NsMS_line-height: 1.2;
+  --mixin-iLTYj8k_NsMS_padding-top: 20px;
   --mixin-iLTYj8k_NsMS_white-space: pre-wrap;
   --mixin-hRgTSOZ3ozqd_background: linear-gradient(#f8f8f8, #f8f8f8);
   --mixin-hRgTSOZ3ozqd_border-bottom-color: #dddddd;
@@ -543,6 +544,7 @@ h3:where(.root_reset_tags) {
   font-size: var(--mixin-iLTYj8k_NsMS_font-size);
   font-weight: var(--mixin-iLTYj8k_NsMS_font-weight);
   line-height: var(--mixin-iLTYj8k_NsMS_line-height);
+  padding-top: var(--mixin-iLTYj8k_NsMS_padding-top);
 }
 
 :where(.root_reset) code:where(.code),
