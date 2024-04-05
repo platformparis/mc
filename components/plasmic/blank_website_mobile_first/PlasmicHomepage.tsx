@@ -464,7 +464,7 @@ function PlasmicHomepage__RenderFunc(props: {
               className={classNames(
                 projectcss.all,
                 projectcss.a,
-                sty.link___2MOpo
+                sty.link___7BvVz
               )}
               component={Link}
               href={
@@ -474,7 +474,7 @@ function PlasmicHomepage__RenderFunc(props: {
             >
               <PlasmicImg__
                 alt={""}
-                className={classNames(sty.img__pAbqd)}
+                className={classNames(sty.img__pmZDn)}
                 displayHeight={"auto"}
                 displayMaxHeight={"none"}
                 displayMaxWidth={"100%"}
@@ -495,7 +495,7 @@ function PlasmicHomepage__RenderFunc(props: {
                 projectcss.all,
                 projectcss.a,
                 projectcss.__wab_text,
-                sty.link__awlqs
+                sty.link__isoP5
               )}
               component={Link}
               href={
@@ -505,6 +505,70 @@ function PlasmicHomepage__RenderFunc(props: {
             >
               {
                 "\u27a1\ufe0f Compte rendu du Conseil municipal du 29/03/22 (PDF)"
+              }
+            </PlasmicLink__>
+            <div
+              className={classNames(
+                projectcss.all,
+                projectcss.__wab_text,
+                sty.text__injJn
+              )}
+            >
+              <React.Fragment>
+                <span
+                  className={"plasmic_default__all plasmic_default__span"}
+                  style={{ fontWeight: 700 }}
+                >
+                  {"2015"}
+                </span>
+                <React.Fragment>{" : augmentation de 13%"}</React.Fragment>
+              </React.Fragment>
+            </div>
+            <PlasmicLink__
+              className={classNames(
+                projectcss.all,
+                projectcss.a,
+                sty.link___2MOpo
+              )}
+              component={Link}
+              href={
+                "https://magny-les-hameaux.fr/sites/magny-les-hameaux/files/document/2020-09/compte-rendu_cm_du_8_avril_2015.pdf"
+              }
+              platform={"nextjs"}
+            >
+              <PlasmicImg__
+                alt={""}
+                className={classNames(sty.img__gilE7)}
+                displayHeight={"auto"}
+                displayMaxHeight={"none"}
+                displayMaxWidth={"100%"}
+                displayMinHeight={"0"}
+                displayMinWidth={"0"}
+                displayWidth={"auto"}
+                loading={"lazy"}
+                src={{
+                  src: "/plasmic/blank_website_mobile_first/images/cr8Avril2015Jpeg.jpg",
+                  fullWidth: 655,
+                  fullHeight: 512,
+                  aspectRatio: undefined
+                }}
+              />
+            </PlasmicLink__>
+            <PlasmicLink__
+              className={classNames(
+                projectcss.all,
+                projectcss.a,
+                projectcss.__wab_text,
+                sty.link__awlqs
+              )}
+              component={Link}
+              href={
+                "https://magny-les-hameaux.fr/sites/magny-les-hameaux/files/document/2020-09/compte-rendu_cm_du_8_avril_2015.pdf"
+              }
+              platform={"nextjs"}
+            >
+              {
+                "\u27a1\ufe0f Compte rendu du Conseil municipal du 8/04/15 (PDF)"
               }
             </PlasmicLink__>
           </section>

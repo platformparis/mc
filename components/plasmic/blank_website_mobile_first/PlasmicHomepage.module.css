@@ -178,14 +178,38 @@
   margin-top: 15px;
   min-width: 0;
 }
-.link___2MOpo {
+.link___7BvVz {
   display: flex;
 }
-.img__pAbqd {
+.img__pmZDn {
   object-fit: cover;
   max-width: 100%;
 }
-.img__pAbqd > picture > img {
+.img__pmZDn > picture > img {
+  object-fit: cover;
+}
+.link__isoP5 {
+  position: relative;
+  justify-self: flex-start;
+  font-size: 14px;
+}
+.text__injJn {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  margin-top: 15px;
+  min-width: 0;
+}
+.link___2MOpo {
+  display: flex;
+}
+.img__gilE7 {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+}
+.img__gilE7 > picture > img {
   object-fit: cover;
 }
 .link__awlqs {
