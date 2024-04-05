@@ -119,7 +119,35 @@ function PlasmicHomepage__RenderFunc(props: {
 
   return (
     <React.Fragment>
-      <Head></Head>
+      <Head>
+        <meta name="twitter:card" content="summary" />
+        <title key="title">{PlasmicHomepage.pageMetadata.title}</title>
+        <meta
+          key="og:title"
+          property="og:title"
+          content={PlasmicHomepage.pageMetadata.title}
+        />
+        <meta
+          key="twitter:title"
+          name="twitter:title"
+          content={PlasmicHomepage.pageMetadata.title}
+        />
+        <meta
+          key="description"
+          name="description"
+          content={PlasmicHomepage.pageMetadata.description}
+        />
+        <meta
+          key="og:description"
+          property="og:description"
+          content={PlasmicHomepage.pageMetadata.description}
+        />
+        <meta
+          key="twitter:description"
+          name="twitter:description"
+          content={PlasmicHomepage.pageMetadata.description}
+        />
+      </Head>
 
       <style>{`
         body {
@@ -352,8 +380,8 @@ export const PlasmicHomepage = Object.assign(
 
     // Page metadata
     pageMetadata: {
-      title: "",
-      description: "",
+      title: "Magny Citoyens - Tribune du Magny Mag",
+      description: "Les sources de la tribune de l'opposition",
       ogImageSrc: "",
       canonical: ""
     }
