@@ -325,7 +325,7 @@ function PlasmicHomepage__RenderFunc(props: {
               <React.Fragment>
                 <React.Fragment>
                   {
-                    "Les bases fiscales \u00e9tant revaloris\u00e9es par le Parlement pour compenser les effets de l'inflation (voir ci-apr\u00e8s), ces augmentations sont donc de\u00a0"
+                    "Les bases fiscales \u00e9tant revaloris\u00e9es par le Parlement pour compenser les effets de l'inflation (voir ci-apr\u00e8s), ces augmentations sont de\u00a0"
                   }
                 </React.Fragment>
                 <span
@@ -343,7 +343,7 @@ function PlasmicHomepage__RenderFunc(props: {
                     "pression fiscale suppl\u00e9mentaire impos\u00e9e aux contribuables magnycois par M. Houillon et son \u00e9quipe"
                   }
                 </span>
-                <React.Fragment>{"."}</React.Fragment>
+                <React.Fragment>{". "}</React.Fragment>
               </React.Fragment>
             </div>
             <div
