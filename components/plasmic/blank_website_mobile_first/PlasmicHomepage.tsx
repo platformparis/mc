@@ -325,25 +325,18 @@ function PlasmicHomepage__RenderFunc(props: {
               <React.Fragment>
                 <React.Fragment>
                   {
-                    "Les bases fiscales \u00e9tant revaloris\u00e9es par le Parlement pour compenser les effets de l'inflation (voir ci-apr\u00e8s), ces augmentations sont de\u00a0"
+                    "La majorit\u00e9 municipale invoque notamment l'inflation pour faire \u00ab\u00a0passer la pilule\u00a0\u00bb de ces hausses. Or les bases fiscales sont revaloris\u00e9es chaque ann\u00e9e par le Parlement pour compenser les effets de l'inflation (voir ci-apr\u00e8s). La r\u00e9alit\u00e9 est que "
                   }
                 </React.Fragment>
                 <span
                   className={"plasmic_default__all plasmic_default__span"}
                   style={{ fontWeight: 700 }}
                 >
-                  {"la"}
-                </span>
-                <React.Fragment> </React.Fragment>
-                <span
-                  className={"plasmic_default__all plasmic_default__span"}
-                  style={{ fontWeight: 700 }}
-                >
                   {
-                    "pression fiscale suppl\u00e9mentaire impos\u00e9e aux contribuables magnycois par M. Houillon et son \u00e9quipe"
+                    "ces augmentations sont de\u00a0la\u00a0pression fiscale suppl\u00e9mentaire impos\u00e9e aux contribuables magnycois par M. Houillon et son \u00e9quipe"
                   }
                 </span>
-                <React.Fragment>{". "}</React.Fragment>
+                <React.Fragment>{"."}</React.Fragment>
               </React.Fragment>
             </div>
             <div
