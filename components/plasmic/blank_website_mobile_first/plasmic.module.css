@@ -1,6 +1,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700&family=Inconsolata%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700&display=swap");
 
 .plasmic_tokens {
+  --token-cFmhhOjrWFuI: #489556;
+  --plasmic-token-mc-vert: var(--token-cFmhhOjrWFuI);
+  --token-ZT5VzN9xsple: #e70075;
+  --plasmic-token-mc-violet: var(--token-ZT5VzN9xsple);
+}
+
+.plasmic_tokens {
   --plsmc-standard-width: 800px;
   --plsmc-wide-width: 1280px;
   --plsmc-viewport-gap: 16px;
@@ -55,13 +62,13 @@
   --mixin-gjtGAvfbwpcW_letter-spacing: -1px;
   --mixin-gjtGAvfbwpcW_line-height: 1;
   --mixin-gjtGAvfbwpcW_white-space: pre-wrap;
-  --mixin-Z_yI3tH31R6E_color: #000000;
+  --mixin-Z_yI3tH31R6E_color: var(--token-ZT5VzN9xsple);
   --mixin-Z_yI3tH31R6E_font-size: 18px;
   --mixin-Z_yI3tH31R6E_font-weight: 700;
   --mixin-Z_yI3tH31R6E_line-height: 1.1;
   --mixin-Z_yI3tH31R6E_letter-spacing: -0.5px;
   --mixin-Z_yI3tH31R6E_white-space: pre-wrap;
-  --mixin-iLTYj8k_NsMS_color: #ba1995;
+  --mixin-iLTYj8k_NsMS_color: #000000;
   --mixin-iLTYj8k_NsMS_font-size: 16px;
   --mixin-iLTYj8k_NsMS_font-weight: 600;
   --mixin-iLTYj8k_NsMS_line-height: 1.2;

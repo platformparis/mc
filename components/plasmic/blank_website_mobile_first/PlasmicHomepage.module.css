@@ -36,7 +36,7 @@
 .img__oNul2 > picture > img {
   object-fit: cover;
 }
-.section {
+.section__xewDs {
   display: grid;
   position: relative;
   width: 100%;
@@ -44,6 +44,7 @@
   max-width: 100%;
   align-content: flex-start;
   justify-items: center;
+  margin-top: 20px;
   grid-column-start: 1 !important;
   grid-column-end: -1 !important;
   grid-template-columns:
@@ -53,17 +54,17 @@
       calc(100% - var(--plsmc-viewport-gap) - var(--plsmc-viewport-gap))
     )
     minmax(0, var(--plsmc-wide-chunk)) 1fr var(--plsmc-viewport-gap);
-  padding: 50px 0px 64px;
+  padding: 28px 0px 64px;
 }
-.section > * {
+.section__xewDs > * {
   grid-column: 4;
 }
 @media (min-width: 768px) {
-  .section > * {
+  .section__xewDs > * {
     grid-column: 4;
   }
 }
-.h1 {
+.h1__fbea7 {
   position: relative;
   width: 100%;
   height: auto;
@@ -71,17 +72,194 @@
   margin-bottom: 10px;
   min-width: 0;
 }
-.h2 {
+.h3__s8ObF {
+  padding-top: 0px;
+  padding-left: 0px;
+}
+.h1__oVrfc {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+}
+.h2__qzNT {
+  width: auto;
+}
+.text__reGr8 {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  margin-top: 10px;
+  padding-left: 0px;
+}
+.h2__oIIl {
   position: relative;
   width: 100%;
   height: auto;
   max-width: 100%;
   border-bottom-style: solid;
   border-bottom-width: 3px;
-  padding-bottom: 20px;
+  padding-bottom: 15px;
+  padding-left: 0px;
+  padding-top: 10px;
   min-width: 0;
 }
+.h3__rVQcQ {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  padding-top: 10px;
+  text-align: left;
+  padding-left: 0px;
+}
+.img__qNqQs {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+}
+.img__qNqQs > picture > img {
+  object-fit: cover;
+}
 .h3__mkQ1 {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  padding-top: 20px;
+  text-align: left;
+}
+.text__sYgW {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+  margin: 5px 0px;
+}
+.text__mwzS {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+  margin: 5px 0px;
+}
+.img__f0TnY {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  margin-top: 5px;
+}
+.img__f0TnY > picture > img {
+  object-fit: cover;
+}
+.link___6ZVyh {
+  position: relative;
+}
+.h3__yYizo {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  padding-top: 20px;
+  text-align: left;
+}
+.text__zocfw {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  padding-right: 0px;
+  min-width: 0;
+  margin: 5px 0px;
+}
+.link___6MTss {
+  position: relative;
+}
+.h3__cQdfX {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  padding-top: 20px;
+  text-align: left;
+  padding-right: 0px;
+}
+.link__bEqrH {
+  position: relative;
+}
+.section___8Du2 {
+  display: grid;
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  align-content: flex-start;
+  justify-items: center;
+  margin-top: 20px;
+  grid-column-start: 1 !important;
+  grid-column-end: -1 !important;
+  grid-template-columns:
+    var(--plsmc-viewport-gap) 1fr minmax(0, var(--plsmc-wide-chunk))
+    min(
+      var(--plsmc-standard-width),
+      calc(100% - var(--plsmc-viewport-gap) - var(--plsmc-viewport-gap))
+    )
+    minmax(0, var(--plsmc-wide-chunk)) 1fr var(--plsmc-viewport-gap);
+  padding: 28px 0px 64px;
+  border-top: 5px solid var(--token-cFmhhOjrWFuI);
+}
+.section___8Du2 > * {
+  grid-column: 4;
+}
+@media (min-width: 768px) {
+  .section___8Du2 > * {
+    grid-column: 4;
+  }
+}
+.h1__seI4M {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  margin-bottom: 10px;
+  min-width: 0;
+}
+.h3__bh8WV {
+  padding-top: 0px;
+  padding-left: 0px;
+}
+.h1__r3TS {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+}
+.text__vdIek {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  margin-top: 10px;
+  min-width: 0;
+}
+.h2__bFuwZ {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  border-bottom-style: solid;
+  border-bottom-width: 3px;
+  padding-bottom: 15px;
+  padding-left: 0px;
+  padding-top: 10px;
+  min-width: 0;
+}
+.h3___2Ff80 {
   position: relative;
   width: 100%;
   height: auto;
@@ -89,7 +267,7 @@
   padding-left: 0px;
   min-width: 0;
 }
-.text__p89A {
+.text__bgFlN {
   position: relative;
   width: 100%;
   height: auto;
@@ -99,21 +277,21 @@
   padding-top: 0px;
   min-width: 0;
 }
-.link__ddoXj {
+.link__qPkb {
   position: relative;
   display: flex;
 }
-.img___3LnA {
+.img__lFcPs {
   object-fit: cover;
   max-width: 100%;
 }
-.img___3LnA > picture > img {
+.img__lFcPs > picture > img {
   object-fit: cover;
 }
-.link__fozkj {
+.link__kq0AX {
   position: relative;
 }
-.h3__casBt {
+.h3___6XvI8 {
   position: relative;
   width: 100%;
   height: auto;
@@ -121,7 +299,7 @@
   padding-top: 30px;
   min-width: 0;
 }
-.text__btrUu {
+.text__oH1B {
   position: relative;
   width: 100%;
   height: auto;
@@ -131,7 +309,7 @@
   padding-top: 0px;
   min-width: 0;
 }
-.text___5WF {
+.text___6KPTa {
   position: relative;
   width: 100%;
   height: auto;
@@ -139,23 +317,23 @@
   margin-top: 15px;
   min-width: 0;
 }
-.link__sSrBc {
+.link__o6Ppw {
   position: relative;
   display: flex;
 }
-.img__sTCd {
+.img__wpNoy {
   object-fit: cover;
   max-width: 100%;
 }
-.img__sTCd > picture > img {
+.img__wpNoy > picture > img {
   object-fit: cover;
 }
-.link__ez46 {
+.link__nAhx7 {
   position: relative;
   justify-self: flex-start;
   font-size: 14px;
 }
-.text__whUa3 {
+.text__dvqf {
   position: relative;
   width: 100%;
   height: auto;
@@ -163,24 +341,24 @@
   margin-top: 15px;
   min-width: 0;
 }
-.link___8EpB7 {
+.link__e07Sh {
   position: relative;
   display: flex;
 }
-.img__bWsl {
+.img__xzGNz {
   position: relative;
   object-fit: cover;
   max-width: 100%;
 }
-.img__bWsl > picture > img {
+.img__xzGNz > picture > img {
   object-fit: cover;
 }
-.link__dlg7M {
+.link__wLusx {
   position: relative;
   justify-self: flex-start;
   font-size: 14px;
 }
-.text___6Ily {
+.text__cZj4Z {
   position: relative;
   width: 100%;
   height: auto;
@@ -188,22 +366,22 @@
   margin-top: 15px;
   min-width: 0;
 }
-.link___7BvVz {
+.link__gumLr {
   display: flex;
 }
-.img__pmZDn {
+.img__urRT {
   object-fit: cover;
   max-width: 100%;
 }
-.img__pmZDn > picture > img {
+.img__urRT > picture > img {
   object-fit: cover;
 }
-.link__isoP5 {
+.link__xuGur {
   position: relative;
   justify-self: flex-start;
   font-size: 14px;
 }
-.text__injJn {
+.text__jCaaq {
   position: relative;
   width: 100%;
   height: auto;
@@ -211,23 +389,23 @@
   margin-top: 15px;
   min-width: 0;
 }
-.link___2MOpo {
+.link__xFmLz {
   display: flex;
 }
-.img__gilE7 {
+.img__iIs8 {
   position: relative;
   object-fit: cover;
   max-width: 100%;
 }
-.img__gilE7 > picture > img {
+.img__iIs8 > picture > img {
   object-fit: cover;
 }
-.link__awlqs {
+.link__vg8Ij {
   position: relative;
   justify-self: flex-start;
   font-size: 14px;
 }
-.h3__dj3Lw {
+.h3__nXaK0 {
   position: relative;
   width: 100%;
   height: auto;
@@ -235,7 +413,7 @@
   padding-top: 30px;
   min-width: 0;
 }
-.text__s0MRz {
+.text__lKyur {
   position: relative;
   width: 100%;
   height: auto;
@@ -243,23 +421,23 @@
   margin-top: 15px;
   min-width: 0;
 }
-.link__jJnH5 {
+.link__fzkGc {
   position: relative;
   display: flex;
 }
-.img__axck8 {
+.img__ij4AI {
   object-fit: cover;
   max-width: 100%;
 }
-.img__axck8 > picture > img {
+.img__ij4AI > picture > img {
   object-fit: cover;
 }
-.link__eqp4U {
+.link__tVyc8 {
   position: relative;
   justify-self: flex-start;
   font-size: 14px;
 }
-.text___2JLnD {
+.text__fxCSo {
   position: relative;
   width: 100%;
   height: auto;
@@ -267,18 +445,18 @@
   margin-top: 15px;
   min-width: 0;
 }
-.link__wtvlv {
+.link__zagij {
   position: relative;
   display: flex;
 }
-.img___2Ww7D {
+.img__zkgKi {
   object-fit: cover;
   max-width: 100%;
 }
-.img___2Ww7D > picture > img {
+.img__zkgKi > picture > img {
   object-fit: cover;
 }
-.link__zN1Ij {
+.link__vshw3 {
   position: relative;
   justify-self: flex-start;
   font-size: 14px;

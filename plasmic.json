@@ -678,6 +678,21 @@
           "id": "Qu3ePH1zT8xK",
           "name": "loi de finances 24.jpeg",
           "filePath": "../public/plasmic/blank_website_mobile_first/images/loiDeFinances24Jpeg.jpg"
+        },
+        {
+          "id": "1xCjpfkcJzyF",
+          "name": "IMG_3FF75E94B595-1.jpeg",
+          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/img3Ff75E94B5951Jpeg.jpg"
+        },
+        {
+          "id": "rhfhrYbXr0Ac",
+          "name": "classement.jpeg",
+          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/classementjpeg.jpg"
+        },
+        {
+          "id": "SaSqd2P8CzJa",
+          "name": "petit-facho.png",
+          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/petitFachopng.png"
         }
       ],
       "indirect": false,
@@ -726,6 +741,6 @@
   "nextjsConfig": {
     "pagesDir": "../pages"
   },
-  "cliVersion": "0.1.327",
-  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.327/dist/plasmic.schema.json"
+  "cliVersion": "0.1.330",
+  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.330/dist/plasmic.schema.json"
 }

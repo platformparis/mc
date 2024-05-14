@@ -59,6 +59,8 @@ import {
   useGlobalActions
 } from "@plasmicapp/react-web/lib/host";
 
+import { useScreenVariants as useScreenVariants_9Hyy9KzWn8QX } from "./PlasmicGlobalVariant__Screen"; // plasmic-import: 9hyy9kzWn8qX/globalVariant
+
 import "@plasmicapp/react-web/lib/plasmic.css";
 
 import projectcss from "./plasmic.module.css"; // plasmic-import: 8d21MsEaFrjU1q6tvNDHvf/projectcss
@@ -77,9 +79,6 @@ export const PlasmicHomepage__ArgProps = new Array<ArgPropType>();
 
 export type PlasmicHomepage__OverridesType = {
   root?: Flex__<"div">;
-  section?: Flex__<"section">;
-  h1?: Flex__<"h1">;
-  h2?: Flex__<"h2">;
 };
 
 export interface DefaultHomepageProps {}
@@ -114,6 +113,10 @@ function PlasmicHomepage__RenderFunc(props: {
   const $refs = refsRef.current;
 
   const currentUser = useCurrentUser?.() || {};
+
+  const globalVariants = ensureGlobalVariants({
+    screen: useScreenVariants_9Hyy9KzWn8QX()
+  });
 
   return (
     <React.Fragment>
@@ -186,40 +189,194 @@ function PlasmicHomepage__RenderFunc(props: {
             }}
           />
 
-          <section
-            data-plasmic-name={"section"}
-            data-plasmic-override={overrides.section}
-            className={classNames(projectcss.all, sty.section)}
-          >
+          <section className={classNames(projectcss.all, sty.section__xewDs)}>
             <h1
-              data-plasmic-name={"h1"}
-              data-plasmic-override={overrides.h1}
               className={classNames(
                 projectcss.all,
                 projectcss.h1,
                 projectcss.__wab_text,
-                sty.h1
+                sty.h1__fbea7
               )}
             >
               <React.Fragment>
-                <React.Fragment>{"Tribune du "}</React.Fragment>
+                <React.Fragment>{""}</React.Fragment>
+                {
+                  <h2
+                    className={classNames(
+                      projectcss.all,
+                      projectcss.h2,
+                      projectcss.__wab_text,
+                      sty.h2__r8S6F
+                    )}
+                  >
+                    <React.Fragment>
+                      <React.Fragment>{""}</React.Fragment>
+                      {
+                        <h3
+                          className={classNames(
+                            projectcss.all,
+                            projectcss.h3,
+                            projectcss.__wab_text,
+                            sty.h3__s8ObF
+                          )}
+                        >
+                          <React.Fragment>
+                            <React.Fragment>{"Tribune du "}</React.Fragment>
+                            <span
+                              className={
+                                "plasmic_default__all plasmic_default__span"
+                              }
+                              style={{ fontStyle: "italic" }}
+                            >
+                              {"Magny Mag - "}
+                            </span>
+                            <React.Fragment>
+                              {"juin 2024\nR\u00e9dig\u00e9e le 13 mai 2024"}
+                            </React.Fragment>
+                          </React.Fragment>
+                        </h3>
+                      }
+                      <React.Fragment>{""}</React.Fragment>
+                    </React.Fragment>
+                  </h2>
+                }
+                <React.Fragment>{""}</React.Fragment>
+              </React.Fragment>
+            </h1>
+            <h1
+              className={classNames(
+                projectcss.all,
+                projectcss.h1,
+                projectcss.__wab_text,
+                sty.h1__oVrfc
+              )}
+            >
+              <React.Fragment>
+                <React.Fragment>{""}</React.Fragment>
+                {
+                  <h2
+                    className={classNames(
+                      projectcss.all,
+                      projectcss.h2,
+                      projectcss.__wab_text,
+                      sty.h2__qzNT
+                    )}
+                  >
+                    {"Enfumage et opacit\u00e9, la suite"}
+                  </h2>
+                }
+                <React.Fragment>{""}</React.Fragment>
+              </React.Fragment>
+            </h1>
+            <div
+              className={classNames(
+                projectcss.all,
+                projectcss.__wab_text,
+                sty.text__reGr8
+              )}
+            >
+              <React.Fragment>
+                <React.Fragment>
+                  {
+                    "Pour garantir un minimum de d\u00e9mocratie locale, la loi impose au maire de publier notre tribune. Mais m\u00eame ce modeste espace est de trop pour M.\u00a0Houillon. Alors il nous \u00e9crit pour s\u2019en plaindre et exiger des excuses.\n\n"
+                  }
+                </React.Fragment>
+                <span
+                  className={"plasmic_default__all plasmic_default__span"}
+                  style={{ fontWeight: 700 }}
+                >
+                  {"Nous ne nous laisserons pas intimider !"}
+                </span>
+                <React.Fragment>
+                  {
+                    "\n\nDans son courrier, qui reprend l\u2019une de ses publications Facebook, M. Houillon confirme en r\u00e9alit\u00e9 ce que nous \u00e9crivions en mars 2024. "
+                  }
+                </React.Fragment>
+                <span
+                  className={"plasmic_default__all plasmic_default__span"}
+                  style={{ fontWeight: 700 }}
+                >
+                  {
+                    "La plainte qu\u2019il a d\u00e9pos\u00e9e contre un ancien membre de la majorit\u00e9 municipale a bien \u00e9t\u00e9 class\u00e9e sans suite."
+                  }
+                </span>
+                <React.Fragment>
+                  {
+                    "\n\nFace \u00e0 une telle d\u00e9convenue, beaucoup seraient pass\u00e9s \u00e0 des choses plus utiles pour les Magnycois. Pas M. Houillon, qui s\u2019ent\u00eate et pr\u00e9f\u00e8re jouer sur les mots. Il indique ainsi avoir re\u00e7u un \u00ab\u00a0"
+                  }
+                </React.Fragment>
                 <span
                   className={"plasmic_default__all plasmic_default__span"}
                   style={{ fontStyle: "italic" }}
                 >
-                  {"Magny Mag"}
+                  {"avis de classement \u00e0 victime"}
                 </span>
-                <React.Fragment>{"\nmai 2024"}</React.Fragment>
+                <React.Fragment>
+                  {"\u00a0\u00bb ce qui, selon lui, serait \u00ab\u00a0"}
+                </React.Fragment>
+                <span
+                  className={"plasmic_default__all plasmic_default__span"}
+                  style={{ fontStyle: "italic" }}
+                >
+                  {"bien diff\u00e9rent"}
+                </span>
+                <React.Fragment>
+                  {
+                    "\u00a0\u00bb. C\u2019est pourtant tr\u00e8s exactement la proc\u00e9dure judiciaire du classement sans suite : la personne qui a port\u00e9 plainte re\u00e7oit g\u00e9n\u00e9ralement un avis de classement "
+                  }
+                </React.Fragment>
+                <span
+                  className={"plasmic_default__all plasmic_default__span"}
+                  style={{ fontStyle: "italic" }}
+                >
+                  {"\u00e0 victime"}
+                </span>
+                <React.Fragment>
+                  {
+                    ", et celle qui a fait l\u2019objet de la plainte un avis de classement "
+                  }
+                </React.Fragment>
+                <span
+                  className={"plasmic_default__all plasmic_default__span"}
+                  style={{ fontStyle: "italic" }}
+                >
+                  {"\u00e0 auteur"}
+                </span>
+                <React.Fragment>
+                  {
+                    ".\n\nM. Houillon \u00ab oublie \u00bb \u00e9galement d\u2019apporter un autre \u00e9l\u00e9ment capital. Il a trait\u00e9 son ancien coll\u00e8gue, sur les r\u00e9seaux sociaux, de \u00ab\u00a0petit facho\u00a0\u00bb, sans que celui-ci ne d\u00e9pose plainte pour cette insulte \u00e9vidente. C\u2019est donc bien M. Houillon qui entra\u00eene notre commune dans ce que nous d\u00e9noncions : \u00ab "
+                  }
+                </React.Fragment>
+                <span
+                  className={"plasmic_default__all plasmic_default__span"}
+                  style={{ fontStyle: "italic" }}
+                >
+                  {
+                    "un risque \u00e9vident de judiciarisation de la vie politique, o\u00f9 les conflits politiques ne se r\u00e8glent plus devant les \u00e9lecteurs, mais devant les tribunaux."
+                  }
+                </span>
+                <React.Fragment>
+                  {
+                    " \u00bb\n\nDe la m\u00eame fa\u00e7on, o\u00f9 sont les excuses de M. Houillon pour avoir diffus\u00e9 un tract dans toute la commune, aux frais des Magnycois, avec des accusations tr\u00e8s graves sur \u00ab une opposition tr\u00e8s politique \u00bb ? Nous avons \u00e9t\u00e9 amalgam\u00e9s \u00e0 cela, ce qui a eu des cons\u00e9quences personnelles douloureuses pour certains d\u2019entre nous, au point d\u2019envisager de cesser leur engagement pour la commune.\n\n"
+                  }
+                </React.Fragment>
+                <span
+                  className={"plasmic_default__all plasmic_default__span"}
+                  style={{ fontWeight: 700 }}
+                >
+                  {
+                    "Ces m\u00e9thodes d\u2019extr\u00eame-gauche qui consistent \u00e0 traiter tout opposant de facho, et \u00e0 se faire passer ensuite pour la victime doivent cesser."
+                  }
+                </span>
+                <React.Fragment>{"\n"}</React.Fragment>
               </React.Fragment>
-            </h1>
+            </div>
             <h2
-              data-plasmic-name={"h2"}
-              data-plasmic-override={overrides.h2}
               className={classNames(
                 projectcss.all,
                 projectcss.h2,
                 projectcss.__wab_text,
-                sty.h2
+                sty.h2__oIIl
               )}
             >
               {"Les sources de notre tribune"}
@@ -229,7 +386,392 @@ function PlasmicHomepage__RenderFunc(props: {
                 projectcss.all,
                 projectcss.h3,
                 projectcss.__wab_text,
+                sty.h3__rVQcQ
+              )}
+            >
+              <React.Fragment>
+                <React.Fragment>
+                  {
+                    "Le tweet o\u00f9 M.\u00a0Houillon traite son ancien coll\u00e8gue de \u00ab\u00a0"
+                  }
+                </React.Fragment>
+                <span
+                  className={"plasmic_default__all plasmic_default__span"}
+                  style={{ fontStyle: "italic" }}
+                >
+                  {"petit facho"}
+                </span>
+                <React.Fragment>{"\u00a0\u00bb"}</React.Fragment>
+              </React.Fragment>
+            </h3>
+            <PlasmicImg__
+              alt={""}
+              className={classNames(sty.img__qNqQs)}
+              displayHeight={"auto"}
+              displayMaxHeight={"none"}
+              displayMaxWidth={"100%"}
+              displayMinHeight={"0"}
+              displayMinWidth={"0"}
+              displayWidth={"auto"}
+              loading={"lazy"}
+              src={{
+                src: "/plasmic/tribune_magnycitoyens_fr/images/petitFachopng.png",
+                fullWidth: 828,
+                fullHeight: 1627,
+                aspectRatio: undefined
+              }}
+            />
+
+            <h3
+              className={classNames(
+                projectcss.all,
+                projectcss.h3,
+                projectcss.__wab_text,
                 sty.h3__mkQ1
+              )}
+            >
+              {"La d\u00e9monstration que M. Houillon joue sur les mots :"}
+            </h3>
+            <div
+              className={classNames(
+                projectcss.all,
+                projectcss.__wab_text,
+                sty.text__sYgW
+              )}
+            >
+              <React.Fragment>
+                <React.Fragment>{"L'\u00ab\u00a0"}</React.Fragment>
+                <span
+                  className={"plasmic_default__all plasmic_default__span"}
+                  style={{ fontStyle: "italic" }}
+                >
+                  {"avis de classement \u00e0 victime"}
+                </span>
+                <React.Fragment>
+                  {
+                    "\u00a0\u00bb dont il se pr\u00e9vaut confirme ce que nous \u00e9crivions : "
+                  }
+                </React.Fragment>
+                <span
+                  className={"plasmic_default__all plasmic_default__span"}
+                  style={{ fontWeight: 700 }}
+                >
+                  {
+                    "sa plainte a bien \u00e9t\u00e9 class\u00e9e sans suite par le Procureur de la R\u00e9publique."
+                  }
+                </span>
+              </React.Fragment>
+            </div>
+            <div
+              className={classNames(
+                projectcss.all,
+                projectcss.__wab_text,
+                sty.text__mwzS
+              )}
+            >
+              {
+                "D\u00e8s lors, nul ne peut pr\u00e9tendre que l'adversaire de M. Houillon est coupable de quoi que ce soit. Ce serait, pour le coup, diffamatoire, et m\u00eame une atteinte \u00e0 ses droits fondamentaux."
+              }
+            </div>
+            <PlasmicImg__
+              alt={""}
+              className={classNames(sty.img__f0TnY)}
+              displayHeight={"auto"}
+              displayMaxHeight={"none"}
+              displayMaxWidth={"100%"}
+              displayMinHeight={"0"}
+              displayMinWidth={"0"}
+              displayWidth={"auto"}
+              loading={"lazy"}
+              src={{
+                src: "/plasmic/tribune_magnycitoyens_fr/images/classementjpeg.jpg",
+                fullWidth: 828,
+                fullHeight: 1265,
+                aspectRatio: undefined
+              }}
+            />
+
+            <PlasmicLink__
+              className={classNames(
+                projectcss.all,
+                projectcss.a,
+                projectcss.__wab_text,
+                sty.link___6ZVyh
+              )}
+              component={Link}
+              href={
+                "https://www.avocat-lexvox.com/avis-a-victime-de-se-constituer-partie-civile_ad1451.html"
+              }
+              platform={"nextjs"}
+            >
+              {"\u27a1\ufe0f Source"}
+            </PlasmicLink__>
+            <h3
+              className={classNames(
+                projectcss.all,
+                projectcss.h3,
+                projectcss.__wab_text,
+                sty.h3__yYizo
+              )}
+            >
+              {"Le courrier de M. Houillon :"}
+            </h3>
+            <div
+              className={classNames(
+                projectcss.all,
+                projectcss.__wab_text,
+                sty.text__zocfw
+              )}
+            >
+              {hasVariant(globalVariants, "screen", "desktopOnly") ? (
+                <React.Fragment>
+                  <React.Fragment>
+                    {
+                      "Afin que chacun se fasse sa propre opinion, nous publions le courrier que nous a adress\u00e9 M. Houillon. Il y reprend l'essentiel de ce qu'il "
+                    }
+                  </React.Fragment>
+                  {
+                    <PlasmicLink__
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.a,
+                        projectcss.__wab_text,
+                        projectcss.plasmic_default__inline,
+                        sty.link__jPVs1
+                      )}
+                      component={Link}
+                      href={"https://www.facebook.com/share/araTrmV3GYvxz8nz/"}
+                      platform={"nextjs"}
+                    >
+                      {hasVariant(globalVariants, "screen", "desktopOnly")
+                        ? "avait d\u00e9j\u00e0 publi\u00e9 sur son compte Facebook il y a plusieurs mois."
+                        : "avait d\u00e9j\u00e0 publi\u00e9 sur son compte Facebook il y a plusieurs mois."}
+                    </PlasmicLink__>
+                  }
+                  <React.Fragment>{""}</React.Fragment>
+                </React.Fragment>
+              ) : (
+                <React.Fragment>
+                  <React.Fragment>
+                    {
+                      "Afin que chacun se fasse sa propre opinion, nous publions le courrier que nous a adress\u00e9 M. Houillon. Il y reprend l'essentiel de ce qu'il "
+                    }
+                  </React.Fragment>
+                  {
+                    <PlasmicLink__
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.a,
+                        projectcss.__wab_text,
+                        projectcss.plasmic_default__inline,
+                        sty.link__jPVs1
+                      )}
+                      component={Link}
+                      href={"https://www.facebook.com/share/araTrmV3GYvxz8nz/"}
+                      platform={"nextjs"}
+                    >
+                      {hasVariant(globalVariants, "screen", "desktopOnly")
+                        ? "avait d\u00e9j\u00e0 publi\u00e9 sur son compte Facebook il y a plusieurs mois."
+                        : "avait d\u00e9j\u00e0 publi\u00e9 sur son compte Facebook il y a plusieurs mois."}
+                    </PlasmicLink__>
+                  }
+                  <React.Fragment>{""}</React.Fragment>
+                </React.Fragment>
+              )}
+            </div>
+            <PlasmicLink__
+              className={classNames(
+                projectcss.all,
+                projectcss.a,
+                projectcss.__wab_text,
+                sty.link___6MTss
+              )}
+              component={Link}
+              href={
+                "https://drive.google.com/file/d/13wVgvGPrhmh_T13oYGBOlV9iPHEw-J0b/view"
+              }
+              platform={"nextjs"}
+            >
+              {"\u27a1\ufe0f Source"}
+            </PlasmicLink__>
+            <h3
+              className={classNames(
+                projectcss.all,
+                projectcss.h3,
+                projectcss.__wab_text,
+                sty.h3__cQdfX
+              )}
+            >
+              {"Notre tribune initiale de mars 2024 :"}
+            </h3>
+            <PlasmicLink__
+              className={classNames(
+                projectcss.all,
+                projectcss.a,
+                projectcss.__wab_text,
+                sty.link__bEqrH
+              )}
+              component={Link}
+              href={"https://www.facebook.com/share/p/M5mh68CSrkZRAgFp/"}
+              platform={"nextjs"}
+            >
+              {"\u27a1\ufe0f Source"}
+            </PlasmicLink__>
+          </section>
+          <section className={classNames(projectcss.all, sty.section___8Du2)}>
+            <h1
+              className={classNames(
+                projectcss.all,
+                projectcss.h1,
+                projectcss.__wab_text,
+                sty.h1__seI4M
+              )}
+            >
+              <React.Fragment>
+                <React.Fragment>{""}</React.Fragment>
+                {
+                  <h2
+                    className={classNames(
+                      projectcss.all,
+                      projectcss.h2,
+                      projectcss.__wab_text,
+                      sty.h2__xHw9R
+                    )}
+                  >
+                    <React.Fragment>
+                      <React.Fragment>{""}</React.Fragment>
+                      {
+                        <h3
+                          className={classNames(
+                            projectcss.all,
+                            projectcss.h3,
+                            projectcss.__wab_text,
+                            sty.h3__bh8WV
+                          )}
+                        >
+                          <React.Fragment>
+                            <React.Fragment>{"Tribune du "}</React.Fragment>
+                            <span
+                              className={
+                                "plasmic_default__all plasmic_default__span"
+                              }
+                              style={{ fontStyle: "italic" }}
+                            >
+                              {"Magny Mag - "}
+                            </span>
+                            <React.Fragment>{"mai 2024"}</React.Fragment>
+                          </React.Fragment>
+                        </h3>
+                      }
+                      <React.Fragment>{""}</React.Fragment>
+                    </React.Fragment>
+                  </h2>
+                }
+                <React.Fragment>{""}</React.Fragment>
+              </React.Fragment>
+            </h1>
+            <h1
+              className={classNames(
+                projectcss.all,
+                projectcss.h1,
+                projectcss.__wab_text,
+                sty.h1__r3TS
+              )}
+            >
+              <React.Fragment>
+                <React.Fragment>{""}</React.Fragment>
+                {
+                  <h2
+                    className={classNames(
+                      projectcss.all,
+                      projectcss.h2,
+                      projectcss.__wab_text,
+                      sty.h2__hrFaU
+                    )}
+                  >
+                    {
+                      "Budget 2024 : la majorit\u00e9 municipale vote une nouvelle hausse de vos imp\u00f4ts communaux"
+                    }
+                  </h2>
+                }
+                <React.Fragment>{""}</React.Fragment>
+              </React.Fragment>
+            </h1>
+            <div
+              className={classNames(
+                projectcss.all,
+                projectcss.__wab_text,
+                sty.text__vdIek
+              )}
+            >
+              <React.Fragment>
+                <React.Fragment>{"Le mois dernier, le "}</React.Fragment>
+                <span
+                  className={"plasmic_default__all plasmic_default__span"}
+                  style={{ fontStyle: "italic" }}
+                >
+                  {"Magny Mag"}
+                </span>
+                <React.Fragment>
+                  {
+                    " s\u2019est livr\u00e9 \u00e0 un formidable num\u00e9ro de propagande. Vous vanter les m\u00e9rites du budget \u00ab "
+                  }
+                </React.Fragment>
+                <span
+                  className={"plasmic_default__all plasmic_default__span"}
+                  style={{ fontStyle: "italic" }}
+                >
+                  {"vot\u00e9 mercredi 27 mars 2024"}
+                </span>
+                <React.Fragment>
+                  {
+                    " \u00bb (pages 3 et 10) sans jamais vous fournir une information capitale : la nouvelle hausse de votre fiscalit\u00e9 communale d\u00e9cid\u00e9e par la majorit\u00e9 municipale. On vous abreuve de chiffres sur ce qui sera r\u00e9alis\u00e9 (avec votre argent), mais on \u00ab oublie \u00bb de vous dire combien \u00e7a va vous co\u00fbter. \n\nIntrigu\u00e9s par cet \u00ab oubli \u00bb, nous nous sommes plong\u00e9s dans ce que l\u2019on trouve hors des publications municipales. "
+                  }
+                </React.Fragment>
+                <span
+                  className={"plasmic_default__all plasmic_default__span"}
+                  style={{ fontStyle: "italic" }}
+                >
+                  {
+                    "L\u2019\u00e9tude sur les taux de fiscalit\u00e9 vot\u00e9s en 2023"
+                  }
+                </span>
+                <React.Fragment>
+                  {
+                    " par la direction g\u00e9n\u00e9rale des finances publiques constate par exemple que 85 \u00e0 90% des communes de France n\u2019avaient pas augment\u00e9 leur taux de fiscalit\u00e9, et que m\u00eame 3% l\u2019avaient baiss\u00e9. Il faut bien se rendre \u00e0 l\u2019\u00e9vidence : Magny faisait partie l\u2019an dernier de l\u2019infime minorit\u00e9 \u00e0 avoir augment\u00e9 ses taux de fiscalit\u00e9 communale.\n\nEt pour cause : le Parlement compense chaque ann\u00e9e les effets de l\u2019inflation en revalorisant les bases fiscales. Pour 2023, il les a augment\u00e9es de 7,1% ! L\u2019immense majorit\u00e9 des maires a donc eu la sagesse de ne pas alourdir encore la facture. Mais \u00e0 Magny, ce n\u2019\u00e9tait pas assez. Et, non contents de cette \u00ab performance \u00bb, la majorit\u00e9 remet le couvert cette ann\u00e9e encore. Les +3,9% vot\u00e9s par le Parlement pour 2024, ce n\u2019est toujours pas assez.\n\nReconnaissons que ces hausses sont distill\u00e9es avec beaucoup d\u2019habilet\u00e9 en d\u00e9but de mandat. Mais quand on fait les comptes depuis que M. Houillon est maire, les choses deviennent tr\u00e8s claires : +13% en 2015, +3% en 2022, +3% en 2023 et +3% en 2024. "
+                  }
+                </React.Fragment>
+                <span
+                  className={"plasmic_default__all plasmic_default__span"}
+                  style={{ fontWeight: 700 }}
+                >
+                  {
+                    "La r\u00e9alit\u00e9 est que M. Houillon et ses acolytes ne savent pas tenir un budget sans augmenter continuellement la pression fiscale."
+                  }
+                </span>
+                <React.Fragment>
+                  {
+                    " Et ce n\u2019est bien s\u00fbr jamais assum\u00e9 avant les \u00e9lections, et jamais de leur faute ensuite."
+                  }
+                </React.Fragment>
+              </React.Fragment>
+            </div>
+            <h2
+              className={classNames(
+                projectcss.all,
+                projectcss.h2,
+                projectcss.__wab_text,
+                sty.h2__bFuwZ
+              )}
+            >
+              {"Les sources de notre tribune"}
+            </h2>
+            <h3
+              className={classNames(
+                projectcss.all,
+                projectcss.h3,
+                projectcss.__wab_text,
+                sty.h3___2Ff80
               )}
             >
               {
@@ -240,7 +782,7 @@ function PlasmicHomepage__RenderFunc(props: {
               className={classNames(
                 projectcss.all,
                 projectcss.__wab_text,
-                sty.text__p89A
+                sty.text__bgFlN
               )}
             >
               <React.Fragment>
@@ -262,7 +804,7 @@ function PlasmicHomepage__RenderFunc(props: {
               className={classNames(
                 projectcss.all,
                 projectcss.a,
-                sty.link__ddoXj
+                sty.link__qPkb
               )}
               component={Link}
               href={
@@ -272,7 +814,7 @@ function PlasmicHomepage__RenderFunc(props: {
             >
               <PlasmicImg__
                 alt={""}
-                className={classNames(sty.img___3LnA)}
+                className={classNames(sty.img__lFcPs)}
                 displayHeight={"auto"}
                 displayMaxHeight={"none"}
                 displayMaxWidth={"100%"}
@@ -293,7 +835,7 @@ function PlasmicHomepage__RenderFunc(props: {
                 projectcss.all,
                 projectcss.a,
                 projectcss.__wab_text,
-                sty.link__fozkj
+                sty.link__kq0AX
               )}
               component={Link}
               href={
@@ -308,7 +850,7 @@ function PlasmicHomepage__RenderFunc(props: {
                 projectcss.all,
                 projectcss.h3,
                 projectcss.__wab_text,
-                sty.h3__casBt
+                sty.h3___6XvI8
               )}
             >
               {
@@ -319,7 +861,7 @@ function PlasmicHomepage__RenderFunc(props: {
               className={classNames(
                 projectcss.all,
                 projectcss.__wab_text,
-                sty.text__btrUu
+                sty.text__oH1B
               )}
             >
               <React.Fragment>
@@ -343,7 +885,7 @@ function PlasmicHomepage__RenderFunc(props: {
               className={classNames(
                 projectcss.all,
                 projectcss.__wab_text,
-                sty.text___5WF
+                sty.text___6KPTa
               )}
             >
               <React.Fragment>
@@ -360,7 +902,7 @@ function PlasmicHomepage__RenderFunc(props: {
               className={classNames(
                 projectcss.all,
                 projectcss.a,
-                sty.link__sSrBc
+                sty.link__o6Ppw
               )}
               component={Link}
               href={
@@ -370,7 +912,7 @@ function PlasmicHomepage__RenderFunc(props: {
             >
               <PlasmicImg__
                 alt={""}
-                className={classNames(sty.img__sTCd)}
+                className={classNames(sty.img__wpNoy)}
                 displayHeight={"auto"}
                 displayMaxHeight={"none"}
                 displayMaxWidth={"100%"}
@@ -391,7 +933,7 @@ function PlasmicHomepage__RenderFunc(props: {
                 projectcss.all,
                 projectcss.a,
                 projectcss.__wab_text,
-                sty.link__ez46
+                sty.link__nAhx7
               )}
               component={Link}
               href={
@@ -407,7 +949,7 @@ function PlasmicHomepage__RenderFunc(props: {
               className={classNames(
                 projectcss.all,
                 projectcss.__wab_text,
-                sty.text__whUa3
+                sty.text__dvqf
               )}
             >
               <React.Fragment>
@@ -424,7 +966,7 @@ function PlasmicHomepage__RenderFunc(props: {
               className={classNames(
                 projectcss.all,
                 projectcss.a,
-                sty.link___8EpB7
+                sty.link__e07Sh
               )}
               component={Link}
               href={
@@ -434,7 +976,7 @@ function PlasmicHomepage__RenderFunc(props: {
             >
               <PlasmicImg__
                 alt={""}
-                className={classNames(sty.img__bWsl)}
+                className={classNames(sty.img__xzGNz)}
                 displayHeight={"auto"}
                 displayMaxHeight={"none"}
                 displayMaxWidth={"100%"}
@@ -455,7 +997,7 @@ function PlasmicHomepage__RenderFunc(props: {
                 projectcss.all,
                 projectcss.a,
                 projectcss.__wab_text,
-                sty.link__dlg7M
+                sty.link__wLusx
               )}
               component={Link}
               href={
@@ -471,7 +1013,7 @@ function PlasmicHomepage__RenderFunc(props: {
               className={classNames(
                 projectcss.all,
                 projectcss.__wab_text,
-                sty.text___6Ily
+                sty.text__cZj4Z
               )}
             >
               <React.Fragment>
@@ -488,7 +1030,7 @@ function PlasmicHomepage__RenderFunc(props: {
               className={classNames(
                 projectcss.all,
                 projectcss.a,
-                sty.link___7BvVz
+                sty.link__gumLr
               )}
               component={Link}
               href={
@@ -498,7 +1040,7 @@ function PlasmicHomepage__RenderFunc(props: {
             >
               <PlasmicImg__
                 alt={""}
-                className={classNames(sty.img__pmZDn)}
+                className={classNames(sty.img__urRT)}
                 displayHeight={"auto"}
                 displayMaxHeight={"none"}
                 displayMaxWidth={"100%"}
@@ -519,7 +1061,7 @@ function PlasmicHomepage__RenderFunc(props: {
                 projectcss.all,
                 projectcss.a,
                 projectcss.__wab_text,
-                sty.link__isoP5
+                sty.link__xuGur
               )}
               component={Link}
               href={
@@ -535,7 +1077,7 @@ function PlasmicHomepage__RenderFunc(props: {
               className={classNames(
                 projectcss.all,
                 projectcss.__wab_text,
-                sty.text__injJn
+                sty.text__jCaaq
               )}
             >
               <React.Fragment>
@@ -552,7 +1094,7 @@ function PlasmicHomepage__RenderFunc(props: {
               className={classNames(
                 projectcss.all,
                 projectcss.a,
-                sty.link___2MOpo
+                sty.link__xFmLz
               )}
               component={Link}
               href={
@@ -562,7 +1104,7 @@ function PlasmicHomepage__RenderFunc(props: {
             >
               <PlasmicImg__
                 alt={""}
-                className={classNames(sty.img__gilE7)}
+                className={classNames(sty.img__iIs8)}
                 displayHeight={"auto"}
                 displayMaxHeight={"none"}
                 displayMaxWidth={"100%"}
@@ -583,7 +1125,7 @@ function PlasmicHomepage__RenderFunc(props: {
                 projectcss.all,
                 projectcss.a,
                 projectcss.__wab_text,
-                sty.link__awlqs
+                sty.link__vg8Ij
               )}
               component={Link}
               href={
@@ -600,7 +1142,7 @@ function PlasmicHomepage__RenderFunc(props: {
                 projectcss.all,
                 projectcss.h3,
                 projectcss.__wab_text,
-                sty.h3__dj3Lw
+                sty.h3__nXaK0
               )}
             >
               {
@@ -611,7 +1153,7 @@ function PlasmicHomepage__RenderFunc(props: {
               className={classNames(
                 projectcss.all,
                 projectcss.__wab_text,
-                sty.text__s0MRz
+                sty.text__lKyur
               )}
             >
               <React.Fragment>
@@ -628,7 +1170,7 @@ function PlasmicHomepage__RenderFunc(props: {
               className={classNames(
                 projectcss.all,
                 projectcss.a,
-                sty.link__jJnH5
+                sty.link__fzkGc
               )}
               component={Link}
               href={
@@ -638,7 +1180,7 @@ function PlasmicHomepage__RenderFunc(props: {
             >
               <PlasmicImg__
                 alt={""}
-                className={classNames(sty.img__axck8)}
+                className={classNames(sty.img__ij4AI)}
                 displayHeight={"auto"}
                 displayMaxHeight={"none"}
                 displayMaxWidth={"100%"}
@@ -659,7 +1201,7 @@ function PlasmicHomepage__RenderFunc(props: {
                 projectcss.all,
                 projectcss.a,
                 projectcss.__wab_text,
-                sty.link__eqp4U
+                sty.link__tVyc8
               )}
               component={Link}
               href={
@@ -673,7 +1215,7 @@ function PlasmicHomepage__RenderFunc(props: {
               className={classNames(
                 projectcss.all,
                 projectcss.__wab_text,
-                sty.text___2JLnD
+                sty.text__fxCSo
               )}
             >
               <React.Fragment>
@@ -690,7 +1232,7 @@ function PlasmicHomepage__RenderFunc(props: {
               className={classNames(
                 projectcss.all,
                 projectcss.a,
-                sty.link__wtvlv
+                sty.link__zagij
               )}
               component={Link}
               href={
@@ -700,7 +1242,7 @@ function PlasmicHomepage__RenderFunc(props: {
             >
               <PlasmicImg__
                 alt={""}
-                className={classNames(sty.img___2Ww7D)}
+                className={classNames(sty.img__zkgKi)}
                 displayHeight={"auto"}
                 displayMaxHeight={"none"}
                 displayMaxWidth={"100%"}
@@ -721,7 +1263,7 @@ function PlasmicHomepage__RenderFunc(props: {
                 projectcss.all,
                 projectcss.a,
                 projectcss.__wab_text,
-                sty.link__zN1Ij
+                sty.link__vshw3
               )}
               component={Link}
               href={
@@ -741,19 +1283,13 @@ function PlasmicHomepage__RenderFunc(props: {
 }
 
 const PlasmicDescendants = {
-  root: ["root", "section", "h1", "h2"],
-  section: ["section", "h1", "h2"],
-  h1: ["h1"],
-  h2: ["h2"]
+  root: ["root"]
 } as const;
 type NodeNameType = keyof typeof PlasmicDescendants;
 type DescendantsType<T extends NodeNameType> =
   (typeof PlasmicDescendants)[T][number];
 type NodeDefaultElementType = {
   root: "div";
-  section: "section";
-  h1: "h1";
-  h2: "h2";
 };
 
 type ReservedPropsType = "variants" | "args" | "overrides";
@@ -816,9 +1352,6 @@ export const PlasmicHomepage = Object.assign(
   makeNodeComponent("root"),
   {
     // Helper components rendering sub-elements
-    section: makeNodeComponent("section"),
-    h1: makeNodeComponent("h1"),
-    h2: makeNodeComponent("h2"),
 
     // Metadata about props expected for PlasmicHomepage
     internalVariantProps: PlasmicHomepage__VariantProps,
