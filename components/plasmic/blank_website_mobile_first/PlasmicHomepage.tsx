@@ -616,29 +616,6 @@ function PlasmicHomepage__RenderFunc(props: {
             >
               {"\u27a1\ufe0f Source"}
             </PlasmicLink__>
-            <h3
-              className={classNames(
-                projectcss.all,
-                projectcss.h3,
-                projectcss.__wab_text,
-                sty.h3__cQdfX
-              )}
-            >
-              {"Notre tribune initiale de mars 2024 :"}
-            </h3>
-            <PlasmicLink__
-              className={classNames(
-                projectcss.all,
-                projectcss.a,
-                projectcss.__wab_text,
-                sty.link__bEqrH
-              )}
-              component={Link}
-              href={"https://www.facebook.com/share/p/M5mh68CSrkZRAgFp/"}
-              platform={"nextjs"}
-            >
-              {"\u27a1\ufe0f Source"}
-            </PlasmicLink__>
           </section>
           <section className={classNames(projectcss.all, sty.section___8Du2)}>
             <h1
