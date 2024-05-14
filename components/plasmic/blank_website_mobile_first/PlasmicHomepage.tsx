@@ -357,7 +357,18 @@ function PlasmicHomepage__RenderFunc(props: {
                 </span>
                 <React.Fragment>
                   {
-                    " \u00bb\n\nDe la m\u00eame fa\u00e7on, o\u00f9 sont les excuses de M. Houillon pour avoir diffus\u00e9 un tract dans toute la commune, aux frais des Magnycois, avec des accusations tr\u00e8s graves sur \u00ab une opposition tr\u00e8s politique \u00bb ? Nous avons \u00e9t\u00e9 amalgam\u00e9s \u00e0 cela, ce qui a eu des cons\u00e9quences personnelles douloureuses pour certains d\u2019entre nous, au point d\u2019envisager de cesser leur engagement pour la commune.\n\n"
+                    " \u00bb\n\nDe la m\u00eame fa\u00e7on, o\u00f9 sont les excuses de M. Houillon pour avoir diffus\u00e9 un tract dans toute la commune, aux frais des Magnycois, avec des accusations tr\u00e8s graves sur \u00ab "
+                  }
+                </React.Fragment>
+                <span
+                  className={"plasmic_default__all plasmic_default__span"}
+                  style={{ fontStyle: "italic" }}
+                >
+                  {"une opposition tr\u00e8s politique "}
+                </span>
+                <React.Fragment>
+                  {
+                    "\u00bb ? Nous avons \u00e9t\u00e9 amalgam\u00e9s \u00e0 cela, ce qui a eu des cons\u00e9quences personnelles douloureuses pour certains d\u2019entre nous, au point d\u2019envisager de cesser leur engagement pour la commune.\n\n"
                   }
                 </React.Fragment>
                 <span
@@ -469,9 +480,20 @@ function PlasmicHomepage__RenderFunc(props: {
                 sty.text__mwzS
               )}
             >
-              {
-                "D\u00e8s lors, nul ne peut pr\u00e9tendre que l'adversaire de M. Houillon est coupable de quoi que ce soit. Ce serait, pour le coup, diffamatoire, et m\u00eame une atteinte \u00e0 ses droits fondamentaux."
-              }
+              <React.Fragment>
+                <React.Fragment>
+                  {
+                    "D\u00e8s lors, nul ne peut pr\u00e9tendre que l'adversaire de M. Houillon est coupable de quoi que ce soit. Ce serait, pour le coup, diffamatoire, et m\u00eame "
+                  }
+                </React.Fragment>
+                <span
+                  className={"plasmic_default__all plasmic_default__span"}
+                  style={{ fontWeight: 700 }}
+                >
+                  {"une atteinte \u00e0 ses droits fondamentaux"}
+                </span>
+                <React.Fragment>{"."}</React.Fragment>
+              </React.Fragment>
             </div>
             <PlasmicImg__
               alt={""}
