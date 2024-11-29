@@ -642,7 +642,7 @@
         {
           "id": "_xhZJYsVVryJ",
           "name": "etude-dgfip.jpeg",
-          "filePath": "../public/plasmic/blank_website_mobile_first/images/etudeDgfipjpeg.jpg"
+          "filePath": "../public/plasmic/blank_website_mobile_first/images/etudeDgfipJpeg.jpg"
         },
         {
           "id": "j8w45dtUW_G7",
@@ -662,7 +662,7 @@
         {
           "id": "n4YMfR2vg50H",
           "name": "logo-bvr.png",
-          "filePath": "../public/plasmic/blank_website_mobile_first/images/logoBvrpng.png"
+          "filePath": "../public/plasmic/blank_website_mobile_first/images/logoBvrPng.png"
         },
         {
           "id": "GKTFFg0W6Ghi",
@@ -687,12 +687,37 @@
         {
           "id": "rhfhrYbXr0Ac",
           "name": "classement.jpeg",
-          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/classementjpeg.jpg"
+          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/classementJpeg.jpg"
         },
         {
           "id": "SaSqd2P8CzJa",
           "name": "petit-facho.png",
-          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/petitFachopng.png"
+          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/petitFachoPng.png"
+        },
+        {
+          "id": "uggnEUUegoDF",
+          "name": "1.png",
+          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/_1Png.png"
+        },
+        {
+          "id": "kHLf1tz0Gaee",
+          "name": "10.jpeg",
+          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/_10Jpeg.jpg"
+        },
+        {
+          "id": "4iRaGC0XuEEn",
+          "name": "IMG_BA06E51DFA69-1.jpeg",
+          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/imgBa06E51Dfa691Jpeg.jpg"
+        },
+        {
+          "id": "wJoJD9h1nb9B",
+          "name": "IMG_2600.jpg",
+          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/img2600Jpg.jpg"
+        },
+        {
+          "id": "DHo2wVu55nnc",
+          "name": "IMG_2600.jpg 2",
+          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/img2600Jpg2.jpg"
         }
       ],
       "indirect": false,
@@ -741,6 +766,6 @@
   "nextjsConfig": {
     "pagesDir": "../pages"
   },
-  "cliVersion": "0.1.330",
-  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.330/dist/plasmic.schema.json"
+  "cliVersion": "0.1.334",
+  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.334/dist/plasmic.schema.json"
 }
