@@ -126,7 +126,16 @@ function PlasmicHomepage__RenderFunc(props: {
 }) {
   const { variants, overrides, forNode } = props;
 
-  const args = React.useMemo(() => Object.assign({}, props.args), [props.args]);
+  const args = React.useMemo(
+    () =>
+      Object.assign(
+        {},
+        Object.fromEntries(
+          Object.entries(props.args).filter(([_, v]) => v !== undefined)
+        )
+      ),
+    [props.args]
+  );
 
   const $props = {
     ...args,
@@ -137,8 +146,6 @@ function PlasmicHomepage__RenderFunc(props: {
   const $ctx = useDataEnv?.() || {};
   const refsRef = React.useRef({});
   const $refs = refsRef.current;
-
-  const currentUser = useCurrentUser?.() || {};
 
   const stateSpecs: Parameters<typeof useDollarState>[0] = React.useMemo(
     () => [
@@ -261,12 +268,23 @@ function PlasmicHomepage__RenderFunc(props: {
                 )}
               >
                 {
-                  "Inscription au Comit\u00e9 des experts\navec Anne Souvira\n13 mars 2024"
+                  "Conf\u00e9rence sur la cybers\u00e9curit\u00e9\navec Anne Souvira"
                 }
               </h1>
             </div>
           </div>
           <div className={classNames(projectcss.all, sty.freeBox__ois6M)}>
+            <div
+              className={classNames(
+                projectcss.all,
+                projectcss.__wab_text,
+                sty.text__q9LSc
+              )}
+            >
+              {
+                "Mercredi 13 mars 2024 \u00e0 19h30\nau S\u00e9nat, Palais du Luxembourg"
+              }
+            </div>
             {(() => {
               try {
                 return (() => {

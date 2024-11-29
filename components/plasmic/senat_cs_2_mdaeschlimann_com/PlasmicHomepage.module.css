@@ -77,7 +77,7 @@
     object-fit: cover;
   }
 }
-.h1 {
+.h1__yo6Jb {
   position: relative;
   width: 100%;
   height: auto;
@@ -85,6 +85,18 @@
   text-align: center;
   color: var(--token-9CDxn0hpnzzB);
   line-height: 1.2;
+  min-width: 0;
+}
+.h1__b9Qo3 {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  text-align: center;
+  color: var(--token-9CDxn0hpnzzB);
+  line-height: 1.2;
+  font-size: var(--token-hYndcje43OGL);
+  margin-top: 10px;
   min-width: 0;
 }
 .freeBox___7Iee {
