@@ -1,0 +1,165 @@
+{
+  "platform": "nextjs",
+  "code": {
+    "lang": "ts",
+    "scheme": "blackbox",
+    "reactRuntime": "classic"
+  },
+  "style": {
+    "scheme": "css-modules",
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.css"
+  },
+  "images": {
+    "scheme": "public-files",
+    "publicDir": "../public",
+    "publicUrlPrefix": "/"
+  },
+  "tokens": {
+    "scheme": "theo",
+    "tokensFilePath": "plasmic-tokens.theo.json"
+  },
+  "srcDir": "components",
+  "defaultPlasmicDir": "./plasmic",
+  "projects": [
+    {
+      "projectId": "8d21MsEaFrjU1q6tvNDHvf",
+      "projectApiToken": "4C8Hb8PhSV9yVE3ogNt9nDPnJULC47vBPDaJjvvuNvyqYM4RlHqONzwiCksKb87cs5pdboSB1hK3p5FH7Y3A",
+      "projectName": "tribune.magnycitoyens.fr",
+      "version": "latest",
+      "cssFilePath": "plasmic/tribune_magnycitoyens_fr/plasmic.module.css",
+      "components": [
+        {
+          "id": "naIXsK3v5aem",
+          "name": "Homepage",
+          "type": "managed",
+          "projectId": "8d21MsEaFrjU1q6tvNDHvf",
+          "renderModuleFilePath": "plasmic/tribune_magnycitoyens_fr/PlasmicHomepage.tsx",
+          "importSpec": {
+            "modulePath": "../pages/index.tsx"
+          },
+          "cssFilePath": "plasmic/tribune_magnycitoyens_fr/PlasmicHomepage.module.css",
+          "scheme": "blackbox",
+          "componentType": "page",
+          "path": "/"
+        }
+      ],
+      "icons": [],
+      "images": [
+        {
+          "id": "_xhZJYsVVryJ",
+          "name": "etude-dgfip.jpeg",
+          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/etudeDgfipJpeg.jpg"
+        },
+        {
+          "id": "j8w45dtUW_G7",
+          "name": "CR 29 mars 2022.jpeg",
+          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/cr29Mars2022Jpeg.jpg"
+        },
+        {
+          "id": "zM0W2OAHrCye",
+          "name": "PV 29 mars 2023.jpeg",
+          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/pv29Mars2023Jpeg.jpg"
+        },
+        {
+          "id": "Km1cvc606hw_",
+          "name": "Delib 27 mars 2024.jpeg",
+          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/delib27Mars2024Jpeg.jpg"
+        },
+        {
+          "id": "n4YMfR2vg50H",
+          "name": "logo-bvr.png",
+          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/logoBvrPng.png"
+        },
+        {
+          "id": "GKTFFg0W6Ghi",
+          "name": "CR 8 avril 2015.jpeg",
+          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/cr8Avril2015Jpeg.jpg"
+        },
+        {
+          "id": "W6DfuZdEw3dI",
+          "name": "revalorisation TF2023.jpeg",
+          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/revalorisationTf2023Jpeg.jpg"
+        },
+        {
+          "id": "Qu3ePH1zT8xK",
+          "name": "loi de finances 24.jpeg",
+          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/loiDeFinances24Jpeg.jpg"
+        },
+        {
+          "id": "1xCjpfkcJzyF",
+          "name": "IMG_3FF75E94B595-1.jpeg",
+          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/img3Ff75E94B5951Jpeg.jpg"
+        },
+        {
+          "id": "rhfhrYbXr0Ac",
+          "name": "classement.jpeg",
+          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/classementJpeg.jpg"
+        },
+        {
+          "id": "SaSqd2P8CzJa",
+          "name": "petit-facho.png",
+          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/petitFachoPng.png"
+        },
+        {
+          "id": "uggnEUUegoDF",
+          "name": "1.png",
+          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/_1Png.png"
+        },
+        {
+          "id": "kHLf1tz0Gaee",
+          "name": "10.jpeg",
+          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/_10Jpeg.jpg"
+        },
+        {
+          "id": "4iRaGC0XuEEn",
+          "name": "IMG_BA06E51DFA69-1.jpeg",
+          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/imgBa06E51Dfa691Jpeg.jpg"
+        },
+        {
+          "id": "wJoJD9h1nb9B",
+          "name": "IMG_2600.jpg",
+          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/img2600Jpg.jpg"
+        },
+        {
+          "id": "DHo2wVu55nnc",
+          "name": "IMG_2600.jpg 2",
+          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/img2600Jpg2.jpg"
+        }
+      ],
+      "indirect": false,
+      "globalContextsFilePath": "",
+      "splitsProviderFilePath": "",
+      "codeComponents": [
+        {
+          "id": "gx4Q4PjFFfow",
+          "name": "PlasmicHead",
+          "displayName": "hostless-plasmic-head",
+          "componentImportPath": "@plasmicapp/react-web"
+        },
+        {
+          "id": "x0-Lia-It7V2",
+          "name": "Fetcher",
+          "displayName": "plasmic-data-source-fetcher",
+          "componentImportPath": "@plasmicapp/react-web/lib/data-sources"
+        }
+      ],
+      "customFunctions": []
+    }
+  ],
+  "globalVariants": {
+    "variantGroups": [
+      {
+        "id": "9hyy9kzWn8qX",
+        "name": "Screen",
+        "projectId": "8d21MsEaFrjU1q6tvNDHvf",
+        "contextFilePath": "plasmic/tribune_magnycitoyens_fr/PlasmicGlobalVariant__Screen.tsx"
+      }
+    ]
+  },
+  "wrapPagesWithGlobalContexts": true,
+  "nextjsConfig": {
+    "pagesDir": "../pages"
+  },
+  "cliVersion": "0.1.334",
+  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.334/dist/plasmic.schema.json"
+}

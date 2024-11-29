@@ -1,0 +1,29 @@
+{
+  "props": [
+    {
+      "name": "MC Vert",
+      "type": "color",
+      "value": "#489556",
+      "category": "color",
+      "meta": {
+        "projectId": "8d21MsEaFrjU1q6tvNDHvf",
+        "id": "cFmhhOjrWFuI"
+      }
+    },
+    {
+      "name": "MC Violet",
+      "type": "color",
+      "value": "#E70075",
+      "category": "color",
+      "meta": {
+        "projectId": "8d21MsEaFrjU1q6tvNDHvf",
+        "id": "ZT5VzN9xsple"
+      }
+    }
+  ],
+  "global": {
+    "meta": {
+      "source": "plasmic.app"
+    }
+  }
+}
