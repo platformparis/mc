@@ -1,10 +1,9 @@
 name: Build and deploy Plasmic app
 
 on:
-  workflow_run:
-    workflows: ["Sync, build and deploy Plasmic app"]
-    types:
-      - completed
+  push:
+    branches:
+      - main
 
 jobs:
   job:
@@ -18,10 +17,10 @@ jobs:
           persist-credentials: false
           fetch-depth: 0
       - id: node
-        name: Setting up node v18...
-        uses: actions/setup-node@v3
+        name: Set up node v16
+        uses: actions/setup-node@v2
         with:
-          node-version: "18"
+          node-version: '16'
       - id: cache
         name: Recover cache
         uses: actions/cache@v2
@@ -34,6 +33,7 @@ jobs:
         with:
           run: build
           branch: main
+          skip_if_plasmic: true
       - id: gh-pages
         name: Publish to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@4.1.0
