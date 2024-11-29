@@ -463,17 +463,17 @@
         {
           "id": "o6sAmiN8uTfK",
           "name": "2023-449-120-SK.jpg",
-          "filePath": "../public/plasmic/senat_cs_2_mdaeschlimann_com/images/_2023449120SKjpg.jpg"
+          "filePath": "../public/plasmic/senat_cs_2_mdaeschlimann_com/images/_2023449120SkJpg.jpg"
         },
         {
           "id": "n7Y1ERMcuK7M",
           "name": "2023-0499-096-CL.jpg",
-          "filePath": "../public/plasmic/senat_cs_2_mdaeschlimann_com/images/_20230499096CLjpg.jpg"
+          "filePath": "../public/plasmic/senat_cs_2_mdaeschlimann_com/images/_20230499096ClJpg.jpg"
         },
         {
           "id": "4rMbRWQbAbS0",
           "name": "conseil-senatorial.jpg",
-          "filePath": "../public/plasmic/senat_cs_2_mdaeschlimann_com/images/conseilSenatorialjpg.jpg"
+          "filePath": "../public/plasmic/senat_cs_2_mdaeschlimann_com/images/conseilSenatorialJpg.jpg"
         }
       ],
       "indirect": false,
@@ -499,8 +499,7 @@
           "componentImportPath": "./components/PhoneInput"
         }
       ],
-      "customFunctions": [],
-      "jsBundleThemes": []
+      "customFunctions": []
     },
     {
       "projectId": "8PtdGodUbexNYgkuyBUcWu",
@@ -566,22 +565,22 @@
         {
           "id": "o0w7jkXlFM_z",
           "name": "2023-449-120-SK.jpg",
-          "filePath": "../public/plasmic/senat_souvira_mdaeschlimann_com/images/_2023449120SKjpg.jpg"
+          "filePath": "../public/plasmic/senat_souvira_mdaeschlimann_com/images/_2023449120SkJpg.jpg"
         },
         {
           "id": "oY8O9CHC58xF",
           "name": "2023-0499-096-CL.jpg",
-          "filePath": "../public/plasmic/senat_souvira_mdaeschlimann_com/images/_20230499096CLjpg.jpg"
+          "filePath": "../public/plasmic/senat_souvira_mdaeschlimann_com/images/_20230499096ClJpg.jpg"
         },
         {
           "id": "Gne_Z4wPUIix",
           "name": "conseil-senatorial.jpg",
-          "filePath": "../public/plasmic/senat_souvira_mdaeschlimann_com/images/conseilSenatorialjpg.jpg"
+          "filePath": "../public/plasmic/senat_souvira_mdaeschlimann_com/images/conseilSenatorialJpg.jpg"
         },
         {
           "id": "aMYzomXPYuaI",
           "name": "Eric mestrallet.jpeg",
-          "filePath": "../public/plasmic/senat_souvira_mdaeschlimann_com/images/ericMestralletjpeg.jpg"
+          "filePath": "../public/plasmic/senat_souvira_mdaeschlimann_com/images/ericMestralletJpeg.jpg"
         },
         {
           "id": "Ejci3hUI2nqQ",
@@ -612,8 +611,7 @@
           "componentImportPath": "./components/PhoneInput"
         }
       ],
-      "customFunctions": [],
-      "jsBundleThemes": []
+      "customFunctions": []
     },
     {
       "projectId": "8d21MsEaFrjU1q6tvNDHvf",
