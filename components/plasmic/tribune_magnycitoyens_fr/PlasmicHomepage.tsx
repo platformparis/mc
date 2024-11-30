@@ -226,7 +226,7 @@ function PlasmicHomepage__RenderFunc(props: {
                   style={{ fontWeight: 700 }}
                 >
                   {
-                    "M. Houillon a publi\u00e9 sur son compte Facebook une lettre non sign\u00e9e qui nous \u00e9tait adress\u00e9e. Nous avons depuis r\u00e9cup\u00e9r\u00e9 ce courrier en Mairie et connaissons d\u00e9sormais son auteur. Conform\u00e9ment \u00e0 son souhait, nous ne diffuserons pas son nom. Voici notre r\u00e9ponse. "
+                    "M. Houillon a publi\u00e9 sur son compte Facebook une lettre ouverte non sign\u00e9e qui nous \u00e9tait adress\u00e9e. Nous avons depuis r\u00e9cup\u00e9r\u00e9 ce courrier en Mairie et connaissons d\u00e9sormais son auteur. Conform\u00e9ment \u00e0 son souhait, nous ne diffuserons pas son nom. Voici notre r\u00e9ponse. "
                   }
                 </span>
                 <React.Fragment>
@@ -480,7 +480,7 @@ function PlasmicHomepage__RenderFunc(props: {
                     {"Vous pouvez le v\u00e9rifier par vous-m\u00eame"}
                   </PlasmicLink__>
                 }
-                <React.Fragment>{" :\n"}</React.Fragment>
+                <React.Fragment>{"\u00a0:\n"}</React.Fragment>
                 {
                   <ul
                     className={classNames(
@@ -1007,7 +1007,7 @@ function PlasmicHomepage__RenderFunc(props: {
               )}
             >
               {hasVariant(globalVariants, "screen", "desktopOnly")
-                ? "Annexe"
+                ? "Annexes"
                 : "Annexes"}
             </h2>
             <div
@@ -1263,6 +1263,199 @@ function PlasmicHomepage__RenderFunc(props: {
                 </React.Fragment>
               </React.Fragment>
             </div>
+            <div
+              className={classNames(
+                projectcss.all,
+                projectcss.__wab_text,
+                sty.text__c6Rnn
+              )}
+            >
+              <React.Fragment>
+                <span
+                  className={"plasmic_default__all plasmic_default__span"}
+                  style={{ fontWeight: 700 }}
+                >
+                  {""}
+                </span>
+                <React.Fragment>{"\n"}</React.Fragment>
+                <span
+                  className={"plasmic_default__all plasmic_default__span"}
+                  style={{ fontWeight: 700 }}
+                >
+                  {
+                    "Liste non exhaustive des attaques de M. Houillon et de son \u00e9quipe"
+                  }
+                </span>
+                <React.Fragment>
+                  {
+                    "\n\nVous pr\u00f4nez un d\u00e9bat public courtois et sans attaques personnelles. Pourtant, ici aussi, votre courrier aurait gagn\u00e9 en \u00e9quilibre en mentionnant \u00e9galement les attaques que ceux qui ne partagent pas l\u2019avis de la majorit\u00e9 municipale ont d\u00fb subir.\n\nNous nous permettons donc de compl\u00e9ter avec une liste non exhaustive\u00a0:\n\n"
+                  }
+                </React.Fragment>
+                {
+                  <ul
+                    className={classNames(
+                      projectcss.all,
+                      projectcss.ul,
+                      sty.ul___1H1Ml
+                    )}
+                  >
+                    <li
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.li,
+                        projectcss.__wab_text,
+                        sty.li__pEs03
+                      )}
+                    >
+                      {
+                        'M. Houillon a qualifi\u00e9 un ancien \u00e9lu, pourtant issu de la m\u00eame majorit\u00e9 que lui, de "petit facho".'
+                      }
+                    </li>
+                    <li
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.li,
+                        projectcss.__wab_text,
+                        sty.li__iVoCh
+                      )}
+                    >
+                      <React.Fragment>
+                        <React.Fragment>
+                          {
+                            "Un tract distribu\u00e9 dans toute la ville, aux frais des contribuables magnycois, sign\u00e9 par l'ensemble de la majorit\u00e9 municipale, comportait les propos suivants : \""
+                          }
+                        </React.Fragment>
+                        <span
+                          className={
+                            "plasmic_default__all plasmic_default__span"
+                          }
+                          style={{ fontStyle: "italic" }}
+                        >
+                          {
+                            "Cette haine est orchestr\u00e9e par une opposition tr\u00e8s politique qui cherche \u00e0 s'implanter sur notre commune en faisant mention d'informations mensong\u00e8res et en attisant les peurs, sur fond de x\u00e9nophobie. C'est abject."
+                          }
+                        </span>
+                        <React.Fragment>
+                          {
+                            "\" Bien que M. Houillon ait affirm\u00e9 en Conseil municipal que ces propos ne nous visaient pas, ce n'est pas ainsi qu'ils ont \u00e9t\u00e9 interpr\u00e9t\u00e9s. Certains d\u2019entre nous ont m\u00eame subi des r\u00e9percussions dans leur vie personnelle \u00e0 cause de ce texte."
+                          }
+                        </React.Fragment>
+                      </React.Fragment>
+                    </li>
+                  </ul>
+                }
+                <React.Fragment>
+                  {
+                    "\nM. Houillon a relay\u00e9 votre courrier en se posant en victime de son opposition, mais semble peu enclin \u00e0 appliquer \u00e0 lui-m\u00eame ou \u00e0 son \u00e9quipe votre appel au d\u00e9bat courtois. \n\nVoici quelques exemples suppl\u00e9mentaires depuis\u00a0: \n\n"
+                  }
+                </React.Fragment>
+                {
+                  <ul
+                    className={classNames(
+                      projectcss.all,
+                      projectcss.ul,
+                      sty.ul__akcI
+                    )}
+                  >
+                    <li
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.li,
+                        projectcss.__wab_text,
+                        sty.li__xZo7
+                      )}
+                    >
+                      <React.Fragment>
+                        <React.Fragment>{"M. Houillon : "}</React.Fragment>
+                        <span
+                          className={
+                            "plasmic_default__all plasmic_default__span"
+                          }
+                          style={{ fontStyle: "italic" }}
+                        >
+                          {
+                            '"\u00c0 l\'heure o\u00f9 certains d\u00e9magogues locaux utilisent des sites adeptes de fausses informations et tenants de la destruction du service public, pour mettre violemment en cause la gestion communale."'
+                          }
+                        </span>
+                        <React.Fragment>
+                          {
+                            " Comme dans le cas du tract, aucun nom ni pr\u00e9cision n\u2019accompagne ces propos, laissant libre cours aux interpr\u00e9tations et permettant \u00e0 l\u2019auteur de se d\u00e9douaner de toute responsabilit\u00e9 en cas de contestation."
+                          }
+                        </React.Fragment>
+                      </React.Fragment>
+                    </li>
+                    <li
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.li,
+                        projectcss.__wab_text,
+                        sty.li__fxHqH
+                      )}
+                    >
+                      <React.Fragment>
+                        <span
+                          className={
+                            "plasmic_default__all plasmic_default__span"
+                          }
+                          style={{ fontStyle: "italic" }}
+                        >
+                          {'"Incomp\u00e9tence et malhonn\u00eatet\u00e9"'}
+                        </span>
+                        <React.Fragment>
+                          {
+                            ". Cette fois, ce propos de Mme Dulac \u00e9tait explicitement dirig\u00e9 contre nous. Contentons-nous de peu et saluons donc un progr\u00e8s : voil\u00e0 au moins quelqu\u2019un qui assume. Et reconnaissons que nous l\u2019avons lu avec amusement, car, quand on y r\u00e9fl\u00e9chit, c\u2019est l\u2019un ou l\u2019autre, mais pas les deux en m\u00eame temps."
+                          }
+                        </React.Fragment>
+                      </React.Fragment>
+                    </li>
+                  </ul>
+                }
+                <React.Fragment>{""}</React.Fragment>
+              </React.Fragment>
+            </div>
+            <div
+              className={classNames(
+                projectcss.all,
+                projectcss.__wab_text,
+                sty.text___7HoL8
+              )}
+            >
+              <React.Fragment>
+                <span
+                  className={"plasmic_default__all plasmic_default__span"}
+                  style={{ fontWeight: 700 }}
+                >
+                  {""}
+                </span>
+                <React.Fragment>{"\n"}</React.Fragment>
+                <span
+                  className={"plasmic_default__all plasmic_default__span"}
+                  style={{ fontWeight: 700 }}
+                >
+                  {
+                    "La lettre ouverte non sign\u00e9e publi\u00e9e initialement sur le compte Facebook de M. Houillon :"
+                  }
+                </span>
+                <React.Fragment>{"\n\n"}</React.Fragment>
+              </React.Fragment>
+            </div>
+            <PlasmicImg__
+              alt={""}
+              className={classNames(sty.img__piuh5)}
+              displayHeight={"auto"}
+              displayMaxHeight={"none"}
+              displayMaxWidth={"100%"}
+              displayMinHeight={"0"}
+              displayMinWidth={"0"}
+              displayWidth={"auto"}
+              loading={"lazy"}
+              src={{
+                src: "/plasmic/tribune_magnycitoyens_fr/images/photo20241029141549Jpg.jpg",
+                fullWidth: 1206,
+                fullHeight: 1377,
+                aspectRatio: undefined
+              }}
+            />
           </section>
           <section className={classNames(projectcss.all, sty.section__hpW0Z)}>
             <h1
