@@ -196,6 +196,22 @@ function PlasmicHomepage__RenderFunc(props: {
             }}
           />
 
+          <div
+            className={classNames(
+              projectcss.all,
+              projectcss.__wab_text,
+              sty.text__wymrA
+            )}
+          >
+            <React.Fragment>
+              <span
+                className={"plasmic_default__all plasmic_default__span"}
+                style={{ fontWeight: 700 }}
+              >
+                {""}
+              </span>
+            </React.Fragment>
+          </div>
           <section className={classNames(projectcss.all, sty.section__xewDs)}>
             <div
               className={classNames(
@@ -210,7 +226,7 @@ function PlasmicHomepage__RenderFunc(props: {
                   style={{ fontWeight: 700 }}
                 >
                   {
-                    "M. Houillon a publi\u00e9 sur son compte Facebook une lettre non sign\u00e9e qui nous \u00e9tait adress\u00e9e. Nous avons depuis r\u00e9cup\u00e9r\u00e9 ce courrier en Mairie et connaissons d\u00e9sormais son auteur. Conform\u00e9ment \u00e0 son souhait, nous ne r\u00e9v\u00e8lerons pas son nom. Voici notre r\u00e9ponse.  "
+                    "M. Houillon a publi\u00e9 sur son compte Facebook une lettre non sign\u00e9e qui nous \u00e9tait adress\u00e9e. Nous avons depuis r\u00e9cup\u00e9r\u00e9 ce courrier en Mairie et connaissons d\u00e9sormais son auteur. Conform\u00e9ment \u00e0 son souhait, nous ne diffuserons pas son nom. Voici notre r\u00e9ponse. "
                   }
                 </span>
                 <React.Fragment>
