@@ -1141,7 +1141,7 @@ function PlasmicHomepage__RenderFunc(props: {
                 }
                 <React.Fragment>
                   {
-                    ". Vous noterez que, contrairement \u00e0 ce \u00e0 quoi nous sommes habitu\u00e9s \u00e0 Magny, le style est tr\u00e8s sobre. Visiblement, quand la fiscalit\u00e9 est raisonnable, on peut m\u00eame faire des \u00e9conomies de communication.\n\n"
+                    ". Vous noterez que, contrairement \u00e0 ce \u00e0 quoi nous sommes habitu\u00e9s \u00e0 Magny, le style est sobre. Visiblement, quand la fiscalit\u00e9 est raisonnable, on peut m\u00eame faire des \u00e9conomies de communication.\n\n"
                   }
                 </React.Fragment>
                 {
