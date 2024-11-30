@@ -210,7 +210,7 @@ function PlasmicHomepage__RenderFunc(props: {
                   style={{ fontWeight: 700 }}
                 >
                   {
-                    "M. Houillon a publi\u00e9 sur son compte Facebook une lettre non sign\u00e9e qui nous \u00e9tait adress\u00e9e. Nous avons depuis r\u00e9cup\u00e9r\u00e9 ce courrier en Mairie et connaissons d\u00e9sormais son auteur, qui souhaite rester anonyme. Voici notre r\u00e9ponse.  "
+                    "M. Houillon a publi\u00e9 sur son compte Facebook une lettre non sign\u00e9e qui nous \u00e9tait adress\u00e9e. Nous avons depuis r\u00e9cup\u00e9r\u00e9 ce courrier en Mairie et connaissons d\u00e9sormais son auteur. Conform\u00e9ment \u00e0 son souhait, nous ne r\u00e9v\u00e8lerons pas son nom. Voici notre r\u00e9ponse.  "
                   }
                 </span>
                 <React.Fragment>
@@ -909,7 +909,7 @@ function PlasmicHomepage__RenderFunc(props: {
                 </span>
                 <React.Fragment>
                   {
-                    ".\n\nUn bon maire doit veiller \u00e0 ne porter aucun pr\u00e9judice aux associations qu'il soutient financi\u00e8rement, en les pr\u00e9servant de ses diff\u00e9rents politiques avec l\u2019opposition. Agir autrement risque de fragiliser l\u2019ensemble du tissu associatif de la commune.\n\nNous sommes favorables \u00e0 ces subventions, car nous consid\u00e9rons que les associations sont le c\u0153ur battant de notre commune. Cependant, il ne faut pas oublier que ce sont les Magnycois qui financent. M. Houillon doit donc veiller \u00e0 ne pas alimenter le discours de ceux qui estiment en avoir assez de payer pour des associations per\u00e7ues comme politis\u00e9es.\n\nUn bon maire se serait abstenu de publier votre courrier dans de telles conditions. Nous l\u2019aurions publi\u00e9 de nous-m\u00eames ainsi que notre r\u00e9ponse, car ils participent \u00e0 \u00e9clairer le d\u00e9bat public.\n\nCordialement.\n"
+                    ".\n\nUn bon maire doit veiller \u00e0 ne porter aucun pr\u00e9judice aux associations qu'il soutient financi\u00e8rement, en les pr\u00e9servant de ses diff\u00e9rents politiques avec l\u2019opposition. Agir autrement risque de fragiliser l\u2019ensemble du tissu associatif de la commune.\n\nNous sommes favorables \u00e0 ces subventions, car nous consid\u00e9rons que les associations sont le c\u0153ur battant de notre commune. Cependant, il ne faut pas oublier que ce sont les Magnycois qui financent. M. Houillon doit donc veiller \u00e0 ne pas alimenter le discours de ceux qui estiment en avoir assez de payer pour des associations per\u00e7ues comme politis\u00e9es.\n\nUn bon maire se serait abstenu de publier votre courrier dans de telles conditions. Nous l\u2019aurions publi\u00e9 de nous-m\u00eames ainsi que notre r\u00e9ponse, car ils participent \u00e0 \u00e9clairer le d\u00e9bat public.\n\nCordialement."
                   }
                 </React.Fragment>
               </React.Fragment>
@@ -926,6 +926,242 @@ function PlasmicHomepage__RenderFunc(props: {
                 ? "Annexe"
                 : "Annexes"}
             </h2>
+            <div
+              className={classNames(
+                projectcss.all,
+                projectcss.__wab_text,
+                sty.text__zHym
+              )}
+            >
+              <React.Fragment>
+                <span
+                  className={"plasmic_default__all plasmic_default__span"}
+                  style={{ fontWeight: 700 }}
+                >
+                  {""}
+                </span>
+                <React.Fragment>{"\n"}</React.Fragment>
+                <span
+                  className={"plasmic_default__all plasmic_default__span"}
+                  style={{ fontWeight: 700 }}
+                >
+                  {"Sources pour l'\u00e9volution des taux de fiscalit\u00e9"}
+                </span>
+                <React.Fragment>
+                  {
+                    "\n\nVous nous avez relanc\u00e9 afin de v\u00e9rifier par vous-m\u00eame nos informations sur la hausse du taux de taxe fonci\u00e8re \u00e0 Magny et sa baisse \u00e0 Saint-R\u00e9my.\n\nPourtant, pour ce qui concerne Magny, des r\u00e9f\u00e9rences incontestables \u00e9taient fournies dans les sources de notre tribune de mai dernier. Elles sont toujours accessibles via "
+                  }
+                </React.Fragment>
+                {
+                  <PlasmicLink__
+                    className={classNames(
+                      projectcss.all,
+                      projectcss.a,
+                      projectcss.__wab_text,
+                      projectcss.plasmic_default__inline,
+                      sty.link___6LQ3
+                    )}
+                    component={Link}
+                    href={"#source_taux"}
+                    platform={"nextjs"}
+                  >
+                    {"ce lien"}
+                  </PlasmicLink__>
+                }
+                <React.Fragment>
+                  {
+                    ".\n\nSi vous faites le total de chaque hausse (attention, il s'agit de pourcentages), d\u00fbment corrobor\u00e9e par la d\u00e9lib\u00e9ration municipale correspondante, vous parviendrez \u00e0 un total de 23,48% de hausse du taux communal de taxe fonci\u00e8re depuis que M.\u00a0Houillon est maire. \n\nComme M. Houillon a fait une partie de ces hausses en forte p\u00e9riode d'inflation et que le taux s'applique "
+                  }
+                </React.Fragment>
+                <span
+                  className={"plasmic_default__all plasmic_default__span"}
+                  style={{ fontWeight: 700 }}
+                >
+                  {"apr\u00e8s"}
+                </span>
+                <React.Fragment>
+                  {
+                    " l'augmentation des bases d\u00e9cid\u00e9e par le Parlement, l'effet au niveau du contribuable est un peu sup\u00e9rieur. \n\nVous pourrez vous en rendre compte en consultant vos avis de taxe fonci\u00e8re ces trois derni\u00e8res ann\u00e9es, disponibles dans votre espace impots.gouv : la hausse de la part communale de la taxe fonci\u00e8re est de 25,6% en 3 ans, alors que l'augmentation des bases vot\u00e9e par le Parlement sur la p\u00e9riode \u00e9tait de 15%. La diff\u00e9rence correspond \u00e0 l'augmentation du taux par M.\u00a0Houillon sur ces 3 ann\u00e9es (3% chaque ann\u00e9e).\n\nParler de "
+                  }
+                </React.Fragment>
+                <span
+                  className={"plasmic_default__all plasmic_default__span"}
+                  style={{ fontStyle: "italic" }}
+                >
+                  {"pr\u00e8s de 25% de hausse"}
+                </span>
+                <React.Fragment>
+                  {
+                    " depuis qu'il est maire offre l'avantage de prendre en compte cet effet, tout en \u00e9tant exact.\n\nEn ce qui concerne Saint-R\u00e9my-l\u00e8s-Chevreuse, comparer le taux de 2012 \u00e0 celui d'aujourd'hui ne vous permettra pas de d\u00e9terminer directement si le taux de taxe fonci\u00e8re a augment\u00e9 ou pas, puisque depuis la suppression de la taxe d'habitation en 2021, l'ancien taux d\u00e9partemental est ajout\u00e9 au taux communal.\n\n"
+                  }
+                </React.Fragment>
+                {
+                  <PlasmicLink__
+                    className={classNames(
+                      projectcss.all,
+                      projectcss.a,
+                      projectcss.__wab_text,
+                      projectcss.plasmic_default__inline,
+                      sty.link__htFJu
+                    )}
+                    component={Link}
+                    href={"/str2012"}
+                    platform={"nextjs"}
+                  >
+                    {
+                      "Le taux en 2012 \u00e0 Saint-R\u00e9my \u00e9tait de 13,19 %"
+                    }
+                  </PlasmicLink__>
+                }
+                <React.Fragment>
+                  {
+                    ". En 2020, derni\u00e8re ann\u00e9e avant suppression de la taxe d'habitation, "
+                  }
+                </React.Fragment>
+                {
+                  <PlasmicLink__
+                    className={classNames(
+                      projectcss.all,
+                      projectcss.a,
+                      projectcss.__wab_text,
+                      projectcss.plasmic_default__inline,
+                      sty.link__vTkuX
+                    )}
+                    component={Link}
+                    href={"/str2020"}
+                    platform={"nextjs"}
+                  >
+                    {"il \u00e9tait de 12,90 %"}
+                  </PlasmicLink__>
+                }
+                <React.Fragment>{". Vous avez ici "}</React.Fragment>
+                {
+                  <PlasmicLink__
+                    className={classNames(
+                      projectcss.all,
+                      projectcss.a,
+                      projectcss.__wab_text,
+                      projectcss.plasmic_default__inline,
+                      sty.link__e2QYt
+                    )}
+                    component={Link}
+                    href={
+                      "https://www.ville-st-remy-chevreuse.fr/actualite/baisse-des-impots-locaux/"
+                    }
+                    platform={"nextjs"}
+                  >
+                    {
+                      "une communication de la commune de Saint R\u00e9my qui fait \u00e9tat de cette baisse"
+                    }
+                  </PlasmicLink__>
+                }
+                <React.Fragment>
+                  {
+                    ". Vous noterez que, contrairement \u00e0 ce \u00e0 quoi nous sommes habitu\u00e9s \u00e0 Magny, le style est tr\u00e8s sobre. Visiblement, quand la fiscalit\u00e9 est raisonnable, on peut m\u00eame faire des \u00e9conomies de communication.\n\n"
+                  }
+                </React.Fragment>
+                {
+                  <PlasmicLink__
+                    className={classNames(
+                      projectcss.all,
+                      projectcss.a,
+                      projectcss.__wab_text,
+                      projectcss.plasmic_default__inline,
+                      sty.link__zqJpf
+                    )}
+                    component={Link}
+                    href={"/str2021"}
+                    platform={"nextjs"}
+                  >
+                    {"Le nouveau taux depuis 2021 est de 24,36%"}
+                  </PlasmicLink__>
+                }
+                <React.Fragment>
+                  {
+                    " et n'a pas boug\u00e9 depuis. Il faut donc juste s'assurer que le taux communal n'a pas \u00e9t\u00e9 augment\u00e9 en 2021. Ce qui est confirm\u00e9 par "
+                  }
+                </React.Fragment>
+                {
+                  <PlasmicLink__
+                    className={classNames(
+                      projectcss.all,
+                      projectcss.a,
+                      projectcss.__wab_text,
+                      projectcss.plasmic_default__inline,
+                      sty.link__vk34E
+                    )}
+                    component={Link}
+                    href={
+                      "https://www.ville-st-remy-chevreuse.fr/wp-content/uploads/2021/03/CR-du-CM-du-18-mars-2021.pdf"
+                    }
+                    platform={"nextjs"}
+                  >
+                    {"cette d\u00e9lib\u00e9ration"}
+                  </PlasmicLink__>
+                }
+                <React.Fragment>
+                  {" qui fait \u00e9tat d'une baisse de 1% en 2021 :\n"}
+                </React.Fragment>
+              </React.Fragment>
+            </div>
+            <PlasmicImg__
+              alt={""}
+              className={classNames(sty.img__hOwJm)}
+              displayHeight={"auto"}
+              displayMaxHeight={"none"}
+              displayMaxWidth={"100%"}
+              displayMinHeight={"0"}
+              displayMinWidth={"0"}
+              displayWidth={"auto"}
+              loading={"lazy"}
+              src={{
+                src: "/plasmic/tribune_magnycitoyens_fr/images/strDelib2021Png.png",
+                fullWidth: 2302,
+                fullHeight: 798,
+                aspectRatio: undefined
+              }}
+            />
+
+            <div
+              className={classNames(
+                projectcss.all,
+                projectcss.__wab_text,
+                sty.text__iHpWy
+              )}
+            >
+              <React.Fragment>
+                <React.Fragment>
+                  {
+                    "\nPour \u00e9viter que cette complexit\u00e9 ne produise un nouvel \u00ab\u00a0effet Dulac\u00a0\u00bb, voici "
+                  }
+                </React.Fragment>
+                {
+                  <PlasmicLink__
+                    className={classNames(
+                      projectcss.all,
+                      projectcss.a,
+                      projectcss.__wab_text,
+                      projectcss.plasmic_default__inline,
+                      sty.link__l07F
+                    )}
+                    component={Link}
+                    href={
+                      "https://www.impots.gouv.fr/particulier/questions/un-message-sur-mon-avis-de-taxe-fonciere-mentionne-le-transfert-de-la-part"
+                    }
+                    platform={"nextjs"}
+                  >
+                    {
+                      "une note des imp\u00f4ts qui confirme que l'effet de la r\u00e9forme sur le contribuable est neutre"
+                    }
+                  </PlasmicLink__>
+                }
+                <React.Fragment>
+                  {
+                    ".\n\nVous pouvez proc\u00e9der de m\u00eame pour Magny. Le taux en 2012 \u00e0 Magny-les-Hameaux \u00e9tait de 19,35\u00a0%. En 2020, il \u00e9tait de 23,19\u00a0%. En 2021, apr\u00e8s la suppression de la taxe d'habitation, il \u00e9tait de 34,77 %. Et en 2024, il s'\u00e9tablit \u00e0 37,99%.\n\nM\u00eame si ces \u00e9volutions de taux entre les deux communes confirment de mani\u00e8re spectaculaire notre propos, vous noterez que nous n'y avons pas recours, car nous avons constat\u00e9 que cela pouvait \u00eatre trompeur. En l'occurrence, en 2016, le taux de taxe fonci\u00e8re a augment\u00e9 \u00e0 Magny, or, cette ann\u00e9e-l\u00e0, c'est une erreur de l'imputer \u00e0 la municipalit\u00e9.\n\nIl est donc pr\u00e9f\u00e9rable de proc\u00e9der comme nous l'avons fait, en regardant les d\u00e9lib\u00e9rations des Conseils municipaux.\n\nCe sont donc bien les habitants de Magny \u00e0 qui M.\u00a0Houillon et son \u00e9quipe ont inflig\u00e9 une hausse de pr\u00e8s de 25%, pendant que ceux de Saint-R\u00e9my ont b\u00e9n\u00e9fici\u00e9 d'une baisse de 3%."
+                  }
+                </React.Fragment>
+              </React.Fragment>
+            </div>
           </section>
           <section className={classNames(projectcss.all, sty.section__hpW0Z)}>
             <h1
@@ -1500,6 +1736,7 @@ function PlasmicHomepage__RenderFunc(props: {
                 projectcss.__wab_text,
                 sty.h2__bFuwZ
               )}
+              id={"source_taux"}
             >
               {"Les sources de notre tribune"}
             </h2>

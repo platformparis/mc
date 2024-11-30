@@ -41,6 +41,48 @@
           "scheme": "blackbox",
           "componentType": "page",
           "path": "/"
+        },
+        {
+          "id": "U2Kerc5XLq-k",
+          "name": "Str2012",
+          "type": "managed",
+          "projectId": "8d21MsEaFrjU1q6tvNDHvf",
+          "renderModuleFilePath": "plasmic/tribune_magnycitoyens_fr/PlasmicStr2012.tsx",
+          "importSpec": {
+            "modulePath": "../pages/str2012.tsx"
+          },
+          "cssFilePath": "plasmic/tribune_magnycitoyens_fr/PlasmicStr2012.module.css",
+          "scheme": "blackbox",
+          "componentType": "page",
+          "path": "/str2012"
+        },
+        {
+          "id": "OpQMM9AUOZ_Z",
+          "name": "Str2020",
+          "type": "managed",
+          "projectId": "8d21MsEaFrjU1q6tvNDHvf",
+          "renderModuleFilePath": "plasmic/tribune_magnycitoyens_fr/PlasmicStr2020.tsx",
+          "importSpec": {
+            "modulePath": "../pages/str2020.tsx"
+          },
+          "cssFilePath": "plasmic/tribune_magnycitoyens_fr/PlasmicStr2020.module.css",
+          "scheme": "blackbox",
+          "componentType": "page",
+          "path": "/str2020"
+        },
+        {
+          "id": "TiCcXgd4KHla",
+          "name": "Str2021",
+          "type": "managed",
+          "projectId": "8d21MsEaFrjU1q6tvNDHvf",
+          "renderModuleFilePath": "plasmic/tribune_magnycitoyens_fr/PlasmicStr2021.tsx",
+          "importSpec": {
+            "modulePath": "../pages/str2021.tsx"
+          },
+          "cssFilePath": "plasmic/tribune_magnycitoyens_fr/PlasmicStr2021.module.css",
+          "scheme": "blackbox",
+          "componentType": "page",
+          "path": "/str2021"
         }
       ],
       "icons": [],
@@ -124,6 +166,26 @@
           "id": "DHo2wVu55nnc",
           "name": "IMG_2600.jpg 2",
           "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/img2600Jpg2.jpg"
+        },
+        {
+          "id": "mo5o34JYnE-Q",
+          "name": "str 2012.png",
+          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/str2012Png.png"
+        },
+        {
+          "id": "BU9BkrF1rFFf",
+          "name": "str2020.png",
+          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/str2020Png.png"
+        },
+        {
+          "id": "k1BauLETKNa-",
+          "name": "str2021.png",
+          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/str2021Png.png"
+        },
+        {
+          "id": "CeqAbVOMJu-X",
+          "name": "str delib 2021.png",
+          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/strDelib2021Png.png"
         }
       ],
       "indirect": false,
