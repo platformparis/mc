@@ -917,7 +917,7 @@ function PlasmicHomepage__RenderFunc(props: {
                 </span>
                 <React.Fragment>
                   {
-                    " il y a dix ans, bien en \u00e9vidence sous son \u00e9ditorial.\n\nEn refusant d\u2019assumer leurs choix, en s\u2019attribuent le m\u00e9rite de tout ce qui est positif et en rejetant syst\u00e9matiquement la responsabilit\u00e9 de tout ce qui est n\u00e9gatif sur autrui, M. Houillon et son \u00e9quipe tentent d\u2019\u00e9touffer tout d\u00e9bat \u00e9clair\u00e9 sur la gestion de notre commune. \n\nCes pratiques ne se limitent \u00e9videmment pas aux seules questions financi\u00e8res.\n\nIl n\u2019y a chez nous aucune animosit\u00e9 personnelle \u00e0 son encontre, mais un constat clair : lui et son \u00e9quipe conduisent notre commune dans une direction tr\u00e8s pr\u00e9occupante.\n\nSon pr\u00e9d\u00e9cesseur \u2014 \u00e0 bien des \u00e9gards son mentor \u2014, qui pr\u00e9sidait son comit\u00e9 de soutien lors de sa premi\u00e8re \u00e9lection comme maire par les Magnycois, est m\u00eame encore plus dur que nous :\n"
+                    " il y a dix ans, bien en \u00e9vidence sous son \u00e9ditorial.\n\nEn refusant d\u2019assumer leurs choix, en s\u2019attribuant le m\u00e9rite de tout ce qui est positif et en rejetant syst\u00e9matiquement la responsabilit\u00e9 de tout ce qui est n\u00e9gatif sur autrui, M. Houillon et son \u00e9quipe tentent d\u2019\u00e9touffer tout d\u00e9bat \u00e9clair\u00e9 sur la gestion de notre commune. \n\nCes pratiques ne se limitent \u00e9videmment pas aux seules questions financi\u00e8res.\n\nIl n\u2019y a chez nous aucune animosit\u00e9 personnelle \u00e0 son encontre, mais un constat clair : lui et son \u00e9quipe conduisent notre commune dans une direction tr\u00e8s pr\u00e9occupante.\n\nSon pr\u00e9d\u00e9cesseur \u2014 \u00e0 bien des \u00e9gards son mentor \u2014, qui pr\u00e9sidait son comit\u00e9 de soutien lors de sa premi\u00e8re \u00e9lection comme maire par les Magnycois, est m\u00eame encore plus dur que nous :\n"
                   }
                 </React.Fragment>
               </React.Fragment>
@@ -1239,9 +1239,26 @@ function PlasmicHomepage__RenderFunc(props: {
                     }
                   </PlasmicLink__>
                 }
+                <React.Fragment>{".\n\n"}</React.Fragment>
+                {
+                  <PlasmicLink__
+                    className={classNames(
+                      projectcss.all,
+                      projectcss.a,
+                      projectcss.__wab_text,
+                      projectcss.plasmic_default__inline,
+                      sty.link__mWpcQ
+                    )}
+                    component={Link}
+                    href={"/mhtaux"}
+                    platform={"nextjs"}
+                  >
+                    {"Vous pouvez proc\u00e9der de m\u00eame pour Magny."}
+                  </PlasmicLink__>
+                }
                 <React.Fragment>
                   {
-                    ".\n\nVous pouvez proc\u00e9der de m\u00eame pour Magny. Le taux en 2012 \u00e0 Magny-les-Hameaux \u00e9tait de 19,35\u00a0%. En 2020, il \u00e9tait de 23,19\u00a0%. En 2021, apr\u00e8s la suppression de la taxe d'habitation, il \u00e9tait de 34,77 %. Et en 2024, il s'\u00e9tablit \u00e0 37,99%.\n\nM\u00eame si ces \u00e9volutions de taux entre les deux communes confirment de mani\u00e8re spectaculaire notre propos, vous noterez que nous n'y avons pas recours, car nous avons constat\u00e9 que cela pouvait \u00eatre trompeur. En l'occurrence, en 2016, le taux de taxe fonci\u00e8re a augment\u00e9 \u00e0 Magny, or, cette ann\u00e9e-l\u00e0, c'est une erreur de l'imputer \u00e0 la municipalit\u00e9.\n\nIl est donc pr\u00e9f\u00e9rable de proc\u00e9der comme nous l'avons fait, en regardant les d\u00e9lib\u00e9rations des Conseils municipaux.\n\nCe sont donc bien les habitants de Magny \u00e0 qui M.\u00a0Houillon et son \u00e9quipe ont inflig\u00e9 une hausse de pr\u00e8s de 25%, pendant que ceux de Saint-R\u00e9my ont b\u00e9n\u00e9fici\u00e9 d'une baisse de 3%."
+                    " Le taux en 2012 \u00e0 Magny-les-Hameaux \u00e9tait de 19,35\u00a0%. En 2020, il \u00e9tait de 23,19\u00a0%. En 2021, apr\u00e8s la suppression de la taxe d'habitation, il \u00e9tait de 34,77 %. Et en 2024, il s'\u00e9tablit \u00e0 37,99%.\n\nM\u00eame si ces \u00e9volutions de taux entre les deux communes confirment de mani\u00e8re spectaculaire notre propos, vous noterez que nous n'y avons pas recours, car nous avons constat\u00e9 que cela pouvait \u00eatre trompeur. En l'occurrence, en 2016, le taux de taxe fonci\u00e8re a augment\u00e9 \u00e0 Magny, or, cette ann\u00e9e-l\u00e0, c'est une erreur de l'imputer \u00e0 la municipalit\u00e9.\n\nIl est donc pr\u00e9f\u00e9rable de proc\u00e9der comme nous l'avons fait, en regardant les d\u00e9lib\u00e9rations des Conseils municipaux.\n\nCe sont donc bien les habitants de Magny \u00e0 qui M.\u00a0Houillon et son \u00e9quipe ont inflig\u00e9 une hausse de pr\u00e8s de 25%, pendant que ceux de Saint-R\u00e9my ont b\u00e9n\u00e9fici\u00e9 d'une baisse de 3%."
                   }
                 </React.Fragment>
               </React.Fragment>

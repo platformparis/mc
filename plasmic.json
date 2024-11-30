@@ -111,6 +111,20 @@
           "scheme": "blackbox",
           "componentType": "page",
           "path": "/fb2023"
+        },
+        {
+          "id": "7vGKiFAlWbiu",
+          "name": "Mhtaux",
+          "type": "managed",
+          "projectId": "8d21MsEaFrjU1q6tvNDHvf",
+          "renderModuleFilePath": "plasmic/tribune_magnycitoyens_fr/PlasmicMhtaux.tsx",
+          "importSpec": {
+            "modulePath": "../pages/mhtaux.tsx"
+          },
+          "cssFilePath": "plasmic/tribune_magnycitoyens_fr/PlasmicMhtaux.module.css",
+          "scheme": "blackbox",
+          "componentType": "page",
+          "path": "/mhtaux"
         }
       ],
       "icons": [],
@@ -234,6 +248,21 @@
           "id": "0nD8kkN5drtH",
           "name": "STFB2023.png",
           "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/stfb2023Png.png"
+        },
+        {
+          "id": "dVlSAYhj_Uyk",
+          "name": "MHTX2012.png",
+          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/mhtx2012Png.png"
+        },
+        {
+          "id": "3e4claG-mW_t",
+          "name": "MHTX2020.png",
+          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/mhtx2020Png.png"
+        },
+        {
+          "id": "QeIpUd1_5gqq",
+          "name": "MHTX2021.png",
+          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/mhtx2021Png.png"
         }
       ],
       "indirect": false,
