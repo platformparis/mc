@@ -1076,7 +1076,7 @@ function PlasmicHomepage__RenderFunc(props: {
                 </span>
                 <React.Fragment>
                   {
-                    " depuis qu'il est maire offre l'avantage de prendre en compte cet effet, tout en \u00e9tant exact.\n\nEn ce qui concerne Saint-R\u00e9my-l\u00e8s-Chevreuse, comparer le taux de 2012 \u00e0 celui d'aujourd'hui ne vous permettra pas de d\u00e9terminer directement si le taux de taxe fonci\u00e8re a augment\u00e9 ou pas, puisque depuis la suppression de la taxe d'habitation en 2021, l'ancien taux d\u00e9partemental est ajout\u00e9 au taux communal.\n\n"
+                    " depuis qu'il est maire offre l'avantage de prendre en compte cet effet, tout en \u00e9tant exact.\n\nEn ce qui concerne Saint-R\u00e9my-l\u00e8s-Chevreuse, comparer le taux de 2012 \u00e0 celui d'aujourd'hui ne vous permettra pas de d\u00e9terminer directement si le taux communal de taxe fonci\u00e8re a augment\u00e9 ou pas, puisque depuis la suppression de la taxe d'habitation en 2021, l'ancien taux d\u00e9partemental est ajout\u00e9 au taux communal.\n\n"
                   }
                 </React.Fragment>
                 {
