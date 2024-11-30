@@ -83,6 +83,34 @@
           "scheme": "blackbox",
           "componentType": "page",
           "path": "/str2021"
+        },
+        {
+          "id": "i-SY_4Jw_zXO",
+          "name": "Fb2020",
+          "type": "managed",
+          "projectId": "8d21MsEaFrjU1q6tvNDHvf",
+          "renderModuleFilePath": "plasmic/tribune_magnycitoyens_fr/PlasmicFb2020.tsx",
+          "importSpec": {
+            "modulePath": "../pages/fb2020.tsx"
+          },
+          "cssFilePath": "plasmic/tribune_magnycitoyens_fr/PlasmicFb2020.module.css",
+          "scheme": "blackbox",
+          "componentType": "page",
+          "path": "/fb2020"
+        },
+        {
+          "id": "grc1NiYiwh6V",
+          "name": "Fb2023",
+          "type": "managed",
+          "projectId": "8d21MsEaFrjU1q6tvNDHvf",
+          "renderModuleFilePath": "plasmic/tribune_magnycitoyens_fr/PlasmicFb2023.tsx",
+          "importSpec": {
+            "modulePath": "../pages/fb2023.tsx"
+          },
+          "cssFilePath": "plasmic/tribune_magnycitoyens_fr/PlasmicFb2023.module.css",
+          "scheme": "blackbox",
+          "componentType": "page",
+          "path": "/fb2023"
         }
       ],
       "icons": [],
@@ -186,6 +214,26 @@
           "id": "CeqAbVOMJu-X",
           "name": "str delib 2021.png",
           "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/strDelib2021Png.png"
+        },
+        {
+          "id": "tl6fdO68IsE0",
+          "name": "MHFB2020.png",
+          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/mhfb2020Png.png"
+        },
+        {
+          "id": "M_E6h-nF-jot",
+          "name": "STFB2020.png",
+          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/stfb2020Png.png"
+        },
+        {
+          "id": "m7nomYOaKM1O",
+          "name": "MHFB2023.png",
+          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/mhfb2023Png.png"
+        },
+        {
+          "id": "0nD8kkN5drtH",
+          "name": "STFB2023.png",
+          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/stfb2023Png.png"
         }
       ],
       "indirect": false,

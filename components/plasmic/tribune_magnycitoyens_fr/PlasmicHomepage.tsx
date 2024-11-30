@@ -313,9 +313,26 @@ function PlasmicHomepage__RenderFunc(props: {
                 </span>
                 <React.Fragment>
                   {
-                    " \u00bb\n\nQue va comprendre le lecteur ? Qu\u2019il y a peut-\u00eatre eu une l\u00e9g\u00e8re hausse \u00e0 Magny, mais que c\u2019est un simple rattrapage et qu\u2019il reste encore de la marge par rapport \u00e0 Saint-R\u00e9my. Or, Mme Dulac n\u2019a pas indiqu\u00e9 la date de ces chiffres. Nous le faisons pour elle : il s\u2019agit de ceux de 2022.\n\nVoici maintenant les chiffres de 2020, que vous pouvez v\u00e9rifier par vous-m\u00eame :\n"
+                    " \u00bb\n\nQue va comprendre le lecteur ? Qu\u2019il y a peut-\u00eatre eu une l\u00e9g\u00e8re hausse \u00e0 Magny, mais que c\u2019est un simple rattrapage et qu\u2019il reste encore de la marge par rapport \u00e0 Saint-R\u00e9my. Or, Mme Dulac n\u2019a pas indiqu\u00e9 la date de ces chiffres. Nous le faisons pour elle : il s\u2019agit de ceux de 2022.\n\nVoici maintenant les chiffres de 2020, "
                   }
                 </React.Fragment>
+                {
+                  <PlasmicLink__
+                    className={classNames(
+                      projectcss.all,
+                      projectcss.a,
+                      projectcss.__wab_text,
+                      projectcss.plasmic_default__inline,
+                      sty.link___061Tx
+                    )}
+                    component={Link}
+                    href={"/fb2020"}
+                    platform={"nextjs"}
+                  >
+                    {"que vous pouvez v\u00e9rifier par vous-m\u00eame"}
+                  </PlasmicLink__>
+                }
+                <React.Fragment>{" :\n"}</React.Fragment>
                 {
                   <ul
                     className={classNames(
@@ -361,9 +378,26 @@ function PlasmicHomepage__RenderFunc(props: {
                 }
                 <React.Fragment>
                   {
-                    "\nVous avez bien lu : en 2020, le pr\u00e9l\u00e8vement de taxe fonci\u00e8re par habitant \u00e9tait 60 % plus \u00e9lev\u00e9 \u00e0 Magny qu\u2019\u00e0 Saint-R\u00e9my. Et soudain, deux ans plus tard, on voudrait nous faire croire que la tendance s\u2019est invers\u00e9e. Alors que Magny est la seule commune du \u00ab panel \u00bb de Mme Dulac \u00e0 avoir augment\u00e9 son taux de taxe fonci\u00e8re !\n\nIl est consternant de voir des \u00e9lus, investis de la confiance des habitants pour g\u00e9rer les deniers publics, recourir \u00e0 de telles pratiques.\n\nEn 2021, la taxe d\u2019habitation a \u00e9t\u00e9 supprim\u00e9e, et les communes ont r\u00e9cup\u00e9r\u00e9 en compensation la part de la taxe fonci\u00e8re auparavant per\u00e7ue par le d\u00e9partement. Pour \u00e9viter que cette suppression n\u2019impacte les budgets des communes, l\u2019\u00c9tat a mis en place un m\u00e9canisme complexe de compensation, ce que Mme Dulac appelle \u00ab les correctifs de l\u2019\u00c9tat \u00bb.\n\nVoici la taxe d\u2019habitation qui \u00e9tait pr\u00e9lev\u00e9e en 2020, que vous pouvez \u00e9galement v\u00e9rifier :\n"
+                    "\nVous avez bien lu : en 2020, le pr\u00e9l\u00e8vement de taxe fonci\u00e8re par habitant \u00e9tait 60 % plus \u00e9lev\u00e9 \u00e0 Magny qu\u2019\u00e0 Saint-R\u00e9my. Et soudain, deux ans plus tard, on voudrait nous faire croire que la tendance s\u2019est invers\u00e9e. Alors que Magny est la seule commune du \u00ab panel \u00bb de Mme Dulac \u00e0 avoir augment\u00e9 son taux de taxe fonci\u00e8re !\n\nIl est consternant de voir des \u00e9lus, investis de la confiance des habitants pour g\u00e9rer les deniers publics, recourir \u00e0 de telles pratiques.\n\nEn 2021, la taxe d\u2019habitation a \u00e9t\u00e9 supprim\u00e9e, et les communes ont r\u00e9cup\u00e9r\u00e9 en compensation la part de la taxe fonci\u00e8re auparavant per\u00e7ue par le d\u00e9partement. Pour \u00e9viter que cette suppression n\u2019impacte les budgets des communes, l\u2019\u00c9tat a mis en place un m\u00e9canisme complexe de compensation, ce que Mme Dulac appelle \u00ab les correctifs de l\u2019\u00c9tat \u00bb.\n\nVoici la taxe d\u2019habitation qui \u00e9tait pr\u00e9lev\u00e9e en 2020, "
                   }
                 </React.Fragment>
+                {
+                  <PlasmicLink__
+                    className={classNames(
+                      projectcss.all,
+                      projectcss.a,
+                      projectcss.__wab_text,
+                      projectcss.plasmic_default__inline,
+                      sty.link__qqhmb
+                    )}
+                    component={Link}
+                    href={"/fb2020"}
+                    platform={"nextjs"}
+                  >
+                    {"que vous pouvez \u00e9galement v\u00e9rifier"}
+                  </PlasmicLink__>
+                }
+                <React.Fragment>{" :\n"}</React.Fragment>
                 {
                   <ul
                     className={classNames(
@@ -427,9 +461,26 @@ function PlasmicHomepage__RenderFunc(props: {
                 </span>
                 <React.Fragment>
                   {
-                    " \u00bb. Ce montant est inf\u00e9rieur \u00e0 celui de Saint-R\u00e9my parce que la taxe d\u2019habitation \u00e9tait historiquement plus faible \u00e0 Magny.\n\nQu\u2019est-ce qui a r\u00e9ellement \u00e9t\u00e9 pr\u00e9lev\u00e9 sur les habitants en 2023 ? Vous pouvez le v\u00e9rifier par vous-m\u00eame :\n"
+                    " \u00bb. Ce montant est inf\u00e9rieur \u00e0 celui de Saint-R\u00e9my parce que la taxe d\u2019habitation \u00e9tait historiquement plus faible \u00e0 Magny.\n\nQu\u2019est-ce qui a r\u00e9ellement \u00e9t\u00e9 pr\u00e9lev\u00e9 sur les habitants en 2023 ? "
                   }
                 </React.Fragment>
+                {
+                  <PlasmicLink__
+                    className={classNames(
+                      projectcss.all,
+                      projectcss.a,
+                      projectcss.__wab_text,
+                      projectcss.plasmic_default__inline,
+                      sty.link__zdQow
+                    )}
+                    component={Link}
+                    href={"/fb2023"}
+                    platform={"nextjs"}
+                  >
+                    {"Vous pouvez le v\u00e9rifier par vous-m\u00eame"}
+                  </PlasmicLink__>
+                }
+                <React.Fragment>{" :\n"}</React.Fragment>
                 {
                   <ul
                     className={classNames(
@@ -475,9 +526,26 @@ function PlasmicHomepage__RenderFunc(props: {
                 }
                 <React.Fragment>
                   {
-                    "\nEt qu\u2019en est-il de la moyenne des communes comparables \u00e0 Magny ? Elle s\u2019\u00e9l\u00e8ve \u00e0 548 \u20ac par habitant, un chiffre que vous pouvez \u00e9galement v\u00e9rifier.\n\nLe lecteur du "
+                    "\nEt qu\u2019en est-il de la moyenne des communes comparables \u00e0 Magny ? Elle s\u2019\u00e9l\u00e8ve \u00e0 548 \u20ac par habitant, "
                   }
                 </React.Fragment>
+                {
+                  <PlasmicLink__
+                    className={classNames(
+                      projectcss.all,
+                      projectcss.a,
+                      projectcss.__wab_text,
+                      projectcss.plasmic_default__inline,
+                      sty.link__vnSu
+                    )}
+                    component={Link}
+                    href={"/fb2023"}
+                    platform={"nextjs"}
+                  >
+                    {"un chiffre que vous pouvez \u00e9galement v\u00e9rifier"}
+                  </PlasmicLink__>
+                }
+                <React.Fragment>{".\n\nLe lecteur du "}</React.Fragment>
                 <span
                   className={"plasmic_default__all plasmic_default__span"}
                   style={{ fontStyle: "italic" }}
