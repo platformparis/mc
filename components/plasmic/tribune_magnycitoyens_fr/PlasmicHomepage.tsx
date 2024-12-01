@@ -206,10 +206,31 @@ function PlasmicHomepage__RenderFunc(props: {
             <React.Fragment>
               <span
                 className={"plasmic_default__all plasmic_default__span"}
-                style={{ fontWeight: 700 }}
+                style={{ fontWeight: 700, color: "var(--token-cFmhhOjrWFuI)" }}
               >
-                {""}
+                {"Tribune du "}
               </span>
+              <React.Fragment>{""}</React.Fragment>
+              <span
+                className={"plasmic_default__all plasmic_default__span"}
+                style={{
+                  fontWeight: 700,
+                  fontStyle: "italic",
+                  color: "var(--token-cFmhhOjrWFuI)"
+                }}
+              >
+                {"Magny Mag"}
+              </span>
+              <React.Fragment>{""}</React.Fragment>
+              <span
+                className={"plasmic_default__all plasmic_default__span"}
+                style={{ fontWeight: 700, color: "var(--token-cFmhhOjrWFuI)" }}
+              >
+                {" de d\u00e9cembre 2024"}
+              </span>
+              <React.Fragment>
+                {"\nCompl\u00e9ment publi\u00e9 le 1er d\u00e9cembre 2024"}
+              </React.Fragment>
             </React.Fragment>
           </div>
           <section className={classNames(projectcss.all, sty.section__xewDs)}>
@@ -1258,7 +1279,7 @@ function PlasmicHomepage__RenderFunc(props: {
                 }
                 <React.Fragment>
                   {
-                    " Le taux en 2012 \u00e0 Magny-les-Hameaux \u00e9tait de 19,35\u00a0%. En 2020, il \u00e9tait de 23,19\u00a0%. En 2021, apr\u00e8s la suppression de la taxe d'habitation, il \u00e9tait de 34,77 %. Et en 2024, il s'\u00e9tablit \u00e0 37,99%.\n\nBien que ces \u00e9volutions de taux entre les deux communes confirment de mani\u00e8re spectaculaire notre analyse, il reste pr\u00e9f\u00e9rable de proc\u00e9der comme nous l'avons fait, en examinant les d\u00e9lib\u00e9rations des Conseils municipaux. En effet, en 2016, le taux communal de la taxe fonci\u00e8re a augment\u00e9 \u00e0 Magny. Cependant, cette hausse n'\u00e9tait pas imputable \u00e0 la municipalit\u00e9 cette ann\u00e9e-l\u00e0.\n\nCe sont donc bien les habitants de Magny \u00e0 qui M.\u00a0Houillon et son \u00e9quipe ont inflig\u00e9 une hausse de pr\u00e8s de 25%, pendant que ceux de Saint-R\u00e9my ont b\u00e9n\u00e9fici\u00e9 d'une baisse de 3%."
+                    " Le taux en 2012 \u00e0 Magny-les-Hameaux \u00e9tait de 19,35\u00a0%. En 2020, il \u00e9tait de 23,19\u00a0%. En 2021, apr\u00e8s la suppression de la taxe d'habitation, il \u00e9tait de 34,77 %. Et en 2024, il s'\u00e9tablit \u00e0 37,99%.\n\nBien que ces \u00e9volutions de taux entre les deux communes confirment de mani\u00e8re spectaculaire notre analyse, il reste pr\u00e9f\u00e9rable de proc\u00e9der comme nous l'avons fait, en examinant les d\u00e9lib\u00e9rations des Conseils municipaux. En effet, en 2016, le taux communal de la taxe fonci\u00e8re a augment\u00e9 \u00e0 Magny. Cependant, cette hausse n'\u00e9tait pas imputable \u00e0 la municipalit\u00e9 cette ann\u00e9e-l\u00e0. Nous ne la prenons donc pas en compte dans notre calcul.\n\nCe sont donc bien les habitants de Magny \u00e0 qui M.\u00a0Houillon et son \u00e9quipe ont inflig\u00e9 une hausse de pr\u00e8s de 25%, pendant que ceux de Saint-R\u00e9my ont b\u00e9n\u00e9fici\u00e9 d'une baisse de 3%."
                   }
                 </React.Fragment>
               </React.Fragment>
@@ -1366,7 +1387,20 @@ function PlasmicHomepage__RenderFunc(props: {
                       )}
                     >
                       <React.Fragment>
-                        <React.Fragment>{"M. Houillon : "}</React.Fragment>
+                        <React.Fragment>
+                          {"M. Houillon, dans le "}
+                        </React.Fragment>
+                        <span
+                          className={
+                            "plasmic_default__all plasmic_default__span"
+                          }
+                          style={{ fontStyle: "italic" }}
+                        >
+                          {"Magny Mag"}
+                        </span>
+                        <React.Fragment>
+                          {" de novembre 2024 : "}
+                        </React.Fragment>
                         <span
                           className={
                             "plasmic_default__all plasmic_default__span"
@@ -1393,6 +1427,18 @@ function PlasmicHomepage__RenderFunc(props: {
                       )}
                     >
                       <React.Fragment>
+                        <React.Fragment>
+                          {"Dans le m\u00eame num\u00e9ro du "}
+                        </React.Fragment>
+                        <span
+                          className={
+                            "plasmic_default__all plasmic_default__span"
+                          }
+                          style={{ fontStyle: "italic" }}
+                        >
+                          {"Magny Mag"}
+                        </span>
+                        <React.Fragment>{"\u00a0: "}</React.Fragment>
                         <span
                           className={
                             "plasmic_default__all plasmic_default__span"

@@ -42,7 +42,9 @@
   height: auto;
   max-width: 100%;
   padding-top: 29px;
+  padding-left: 0px;
   min-width: 0;
+  border-bottom: 2px solid var(--token-cFmhhOjrWFuI);
 }
 .section__xewDs {
   display: grid;
