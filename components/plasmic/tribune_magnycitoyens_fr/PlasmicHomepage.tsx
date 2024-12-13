@@ -230,7 +230,7 @@ function PlasmicHomepage__RenderFunc(props: {
               </span>
               <React.Fragment>
                 {
-                  "\nCompl\u00e9ment publi\u00e9 le 1er d\u00e9cembre 2024.\nModifi\u00e9 le 13 d\u00e9cembre 2024."
+                  "\nCompl\u00e9ment publi\u00e9 le 1er d\u00e9cembre 2024.\nMis \u00e0 jour le 13 d\u00e9cembre 2024."
                 }
               </React.Fragment>
             </React.Fragment>

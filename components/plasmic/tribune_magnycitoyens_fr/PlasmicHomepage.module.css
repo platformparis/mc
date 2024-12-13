@@ -43,6 +43,7 @@
   max-width: 100%;
   padding-top: 29px;
   padding-left: 0px;
+  padding-bottom: 0px;
   min-width: 0;
   border-bottom: 2px solid var(--token-cFmhhOjrWFuI);
 }
