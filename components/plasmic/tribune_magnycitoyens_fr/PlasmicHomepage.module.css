@@ -281,6 +281,13 @@
 .img__piuh5 > picture > img {
   object-fit: cover;
 }
+.text__zjEcM {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+}
 .section__hpW0Z {
   display: grid;
   position: relative;

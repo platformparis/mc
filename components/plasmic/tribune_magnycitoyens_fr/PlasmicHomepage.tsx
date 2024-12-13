@@ -229,7 +229,9 @@ function PlasmicHomepage__RenderFunc(props: {
                 {" de d\u00e9cembre 2024"}
               </span>
               <React.Fragment>
-                {"\nCompl\u00e9ment publi\u00e9 le 1er d\u00e9cembre 2024"}
+                {
+                  "\nCompl\u00e9ment publi\u00e9 le 1er d\u00e9cembre 2024.\nModifi\u00e9 le 13 d\u00e9cembre 2024."
+                }
               </React.Fragment>
             </React.Fragment>
           </div>
@@ -1502,6 +1504,29 @@ function PlasmicHomepage__RenderFunc(props: {
                 aspectRatio: undefined
               }}
             />
+
+            <div
+              className={classNames(
+                projectcss.all,
+                projectcss.__wab_text,
+                sty.text__zjEcM
+              )}
+            >
+              <React.Fragment>
+                <React.Fragment>{"\n"}</React.Fragment>
+                <span
+                  className={"plasmic_default__all plasmic_default__span"}
+                  style={{ fontWeight: 700 }}
+                >
+                  {"Mise \u00e0 jour du 13 d\u00e9cembre 2024"}
+                </span>
+                <React.Fragment>
+                  {
+                    "\n\nL'auteur de ce courrier nous a contact\u00e9s le 12 d\u00e9cembre 2024 pour demander une rectification de notre introduction.\n\nNous r\u00e9affirmons avoir d\u00e9couvert son courrier, sous forme non sign\u00e9e, sur le compte Facebook de M. Houillon, dans une publication dat\u00e9e du 27 octobre 2024.\n\nNous n'avons identifi\u00e9 l'auteur qu'apr\u00e8s avoir r\u00e9cup\u00e9r\u00e9 son courrier en Mairie, \u00e0 la suite de cette publication par M. Houillon.\n\nSi l'auteur souhaite contribuer au d\u00e9bat public de mani\u00e8re transparente, nous ajouterons tr\u00e8s volontiers son nom \u00e0 son courrier."
+                  }
+                </React.Fragment>
+              </React.Fragment>
+            </div>
           </section>
           <section className={classNames(projectcss.all, sty.section__hpW0Z)}>
             <h1
