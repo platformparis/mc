@@ -282,7 +282,7 @@ function PlasmicHomepage__RenderFunc(props: {
                           className={
                             "plasmic_default__all plasmic_default__span"
                           }
-                          style={{ color: "#535353" }}
+                          style={{ color: "#535353", fontStyle: "italic" }}
                         >
                           {
                             "\u00ab Comme c\u2019est le maire qui d\u00e9cide de la fa\u00e7on dont cela se fait en pratique, il est int\u00e9ressant de vous dire qu\u2019au moment o\u00f9 nous \u00e9crivons ces lignes, nous n\u2019avons qu\u2019une tr\u00e8s vague id\u00e9e de ce que ce suppl\u00e9ment contient. Nous devons commenter un document, sans le conna\u00eetre. Comme toujours \u00e0 Magny, la d\u00e9mocratie, la concertation et le respect de l\u2019opposition, c\u2019est en paroles, pas en actes.\u00a0\u00bb\u00a0"
@@ -453,7 +453,7 @@ function PlasmicHomepage__RenderFunc(props: {
                           className={
                             "plasmic_default__all plasmic_default__span"
                           }
-                          style={{ color: "#535353" }}
+                          style={{ color: "#535353", fontStyle: "italic" }}
                         >
                           {
                             "\u00ab\u00a0La commune va \u00e9diter un document en compl\u00e9ment du Magny Mag' d\u2019avril, un document p\u00e9dagogique synth\u00e9tique sur les comp\u00e9tences et missions de la commune, en lien avec les autres collectivit\u00e9s et l\u2019\u00c9tat, ainsi que sur les questions budg\u00e9taires associ\u00e9es. Il compl\u00e8te les dossiers d\u00e9j\u00e0 publi\u00e9s sur ces sujets dans le Magny Mag\u2019.\u00a0\u00bb"
@@ -569,7 +569,7 @@ function PlasmicHomepage__RenderFunc(props: {
                           className={
                             "plasmic_default__all plasmic_default__span"
                           }
-                          style={{ color: "#535353" }}
+                          style={{ color: "#535353", fontStyle: "italic" }}
                         >
                           {
                             "\u00ab Comme c\u2019est le maire qui d\u00e9cide de la fa\u00e7on dont cela se fait en pratique, il est int\u00e9ressant de vous dire qu\u2019au moment o\u00f9 nous \u00e9crivons ces lignes, nous n\u2019avons qu\u2019une tr\u00e8s vague id\u00e9e de ce que ce suppl\u00e9ment contient. Nous devons commenter un document, sans le conna\u00eetre. Comme toujours \u00e0 Magny, la d\u00e9mocratie, la concertation et le respect de l\u2019opposition, c\u2019est en paroles, pas en actes.\u00a0\u00bb\u00a0"
@@ -580,7 +580,7 @@ function PlasmicHomepage__RenderFunc(props: {
                   </blockquote>
                 }
                 <React.Fragment>
-                  {"\nLes faits parlent d\u2019eux-m\u00eames :\n\n"}
+                  {"\nLes faits sont \u00e9difiants :\n\n"}
                 </React.Fragment>
                 {
                   <ul
@@ -740,7 +740,7 @@ function PlasmicHomepage__RenderFunc(props: {
                           className={
                             "plasmic_default__all plasmic_default__span"
                           }
-                          style={{ color: "#535353" }}
+                          style={{ color: "#535353", fontStyle: "italic" }}
                         >
                           {
                             "\u00ab\u00a0La commune va \u00e9diter un document en compl\u00e9ment du Magny Mag' d\u2019avril, un document p\u00e9dagogique synth\u00e9tique sur les comp\u00e9tences et missions de la commune, en lien avec les autres collectivit\u00e9s et l\u2019\u00c9tat, ainsi que sur les questions budg\u00e9taires associ\u00e9es. Il compl\u00e8te les dossiers d\u00e9j\u00e0 publi\u00e9s sur ces sujets dans le Magny Mag\u2019.\u00a0\u00bb"
