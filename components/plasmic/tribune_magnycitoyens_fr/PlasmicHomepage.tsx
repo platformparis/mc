@@ -596,7 +596,7 @@ function PlasmicHomepage__RenderFunc(props: {
                 style={{ fontWeight: 700 }}
               >
                 {
-                  "Ce suppl\u00e9ment peu respectueux de l\u2019environnement, financ\u00e9 par l\u2019argent public, illustre une nouvelle fois le m\u00e9pris de la majorit\u00e9 municipale pour la transparence et le d\u00e9bat d\u00e9mocratique. En ne fournissant pas \u00e0 l\u2019opposition les \u00e9l\u00e9ments n\u00e9cessaires pour sa tribune, la municipalit\u00e9 prouve que la concertation dont elle se gargarise n\u2019est qu\u2019une fa\u00e7ade."
+                  "Ce suppl\u00e9ment co\u00fbteux financ\u00e9 par l\u2019argent public, peu respectueux de l\u2019environnement, illustre une nouvelle fois le m\u00e9pris de la majorit\u00e9 municipale pour la transparence et le d\u00e9bat d\u00e9mocratique. En ne fournissant pas \u00e0 l\u2019opposition les \u00e9l\u00e9ments n\u00e9cessaires pour sa tribune, la municipalit\u00e9 prouve que la concertation dont elle se gargarise n\u2019est qu\u2019une fa\u00e7ade."
                 }
               </span>
               <React.Fragment>{"\n\n"}</React.Fragment>
