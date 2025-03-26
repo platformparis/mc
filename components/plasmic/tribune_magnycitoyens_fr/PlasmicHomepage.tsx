@@ -249,16 +249,9 @@ function PlasmicHomepage__RenderFunc(props: {
                   "Faute de pouvoir contester la hausse de pr\u00e8s de 25% du taux communal de taxe fonci\u00e8re depuis qu\u2019il est maire, M. Houillon a choisi d\u2019utiliser vos imp\u00f4ts pour financer un document somptuaire de propagande, distribu\u00e9 en avril 2025 \u00e0 tous les habitants de la commune."
                 }
               </span>
-              <React.Fragment>{""}</React.Fragment>
-              <span
-                className={"plasmic_default__all plasmic_default__span"}
-                style={{ fontWeight: 700 }}
-              >
-                {"\u00a0"}
-              </span>
               <React.Fragment>
                 {
-                  "\n\nCe document \u00e9tant pay\u00e9 par les contribuables de Magny, la loi impose d\u2019y inclure une tribune de l\u2019opposition. Mais comme nous l\u2019avons \u00e9crit dans cette tribune :\n\n"
+                  "\u00a0\n\nCe document \u00e9tant pay\u00e9 par les contribuables de Magny, la loi impose d\u2019y inclure une tribune de l\u2019opposition. Mais comme nous l\u2019avons \u00e9crit dans cette tribune :\n\n"
                 }
               </React.Fragment>
               {
@@ -603,7 +596,16 @@ function PlasmicHomepage__RenderFunc(props: {
                 style={{ fontWeight: 700 }}
               >
                 {
-                  "Au vu du document distribu\u00e9, chacun appr\u00e9ciera le respect r\u00e9el accord\u00e9 aux contribuables Magnycois, \u00e0 l\u2019environnement et \u00e0 l\u2019opposition."
+                  "Ce suppl\u00e9ment financ\u00e9 par l\u2019argent public illustre une nouvelle fois le m\u00e9pris de la majorit\u00e9 municipale pour la transparence et le d\u00e9bat d\u00e9mocratique. En ne fournissant pas \u00e0 l\u2019opposition les \u00e9l\u00e9ments n\u00e9cessaires pour sa tribune, la municipalit\u00e9 prouve que la concertation dont elle se gargarise n\u2019est qu\u2019une fa\u00e7ade."
+                }
+              </span>
+              <React.Fragment>{"\n\n"}</React.Fragment>
+              <span
+                className={"plasmic_default__all plasmic_default__span"}
+                style={{ fontWeight: 700 }}
+              >
+                {
+                  "Les Magnycois m\u00e9ritent mieux qu\u2019une communication partisane d\u00e9guis\u00e9e en document \u00ab p\u00e9dagogique \u00bb. Ils m\u00e9ritent une gestion respectueuse de leurs imp\u00f4ts, un dialogue honn\u00eate et une v\u00e9ritable consid\u00e9ration pour toutes les voix de la commune."
                 }
               </span>
             </React.Fragment>
