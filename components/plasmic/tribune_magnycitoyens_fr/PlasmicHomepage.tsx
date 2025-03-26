@@ -357,9 +357,7 @@ function PlasmicHomepage__RenderFunc(props: {
                                 sty.link___7EnY
                               )}
                               component={Link}
-                              href={
-                                "https://tribune.magnycitoyens.fr/plasmic/tribune_magnycitoyens_fr/images/mail-supp.png"
-                              }
+                              href={`/sup-mail`}
                               platform={"nextjs"}
                               target={"_blank"}
                             >
@@ -414,9 +412,7 @@ function PlasmicHomepage__RenderFunc(props: {
                                 sty.link__qdXo8
                               )}
                               component={Link}
-                              href={
-                                "https://tribune.magnycitoyens.fr/plasmic/tribune_magnycitoyens_fr/images/mail-supp.png"
-                              }
+                              href={`/sup-mail`}
                               platform={"nextjs"}
                               target={"_blank"}
                             >
@@ -503,9 +499,7 @@ function PlasmicHomepage__RenderFunc(props: {
                                 sty.link__hZTvt
                               )}
                               component={Link}
-                              href={
-                                "https://tribunes.magnycitoyens.fr/plasmic/tribune_magnycitoyens_fr/images/sommaire.png"
-                              }
+                              href={`/sup-sommaire`}
                               platform={"nextjs"}
                               target={"_blank"}
                             >
@@ -650,9 +644,7 @@ function PlasmicHomepage__RenderFunc(props: {
                                 sty.link___7EnY
                               )}
                               component={Link}
-                              href={
-                                "https://tribune.magnycitoyens.fr/plasmic/tribune_magnycitoyens_fr/images/mail-supp.png"
-                              }
+                              href={`/sup-mail`}
                               platform={"nextjs"}
                               target={"_blank"}
                             >
@@ -707,9 +699,7 @@ function PlasmicHomepage__RenderFunc(props: {
                                 sty.link__qdXo8
                               )}
                               component={Link}
-                              href={
-                                "https://tribune.magnycitoyens.fr/plasmic/tribune_magnycitoyens_fr/images/mail-supp.png"
-                              }
+                              href={`/sup-mail`}
                               platform={"nextjs"}
                               target={"_blank"}
                             >
@@ -796,9 +786,7 @@ function PlasmicHomepage__RenderFunc(props: {
                                 sty.link__hZTvt
                               )}
                               component={Link}
-                              href={
-                                "https://tribunes.magnycitoyens.fr/plasmic/tribune_magnycitoyens_fr/images/sommaire.png"
-                              }
+                              href={`/sup-sommaire`}
                               platform={"nextjs"}
                               target={"_blank"}
                             >

@@ -125,6 +125,34 @@
           "scheme": "blackbox",
           "componentType": "page",
           "path": "/mhtaux"
+        },
+        {
+          "id": "mDg8KiKSTaY6",
+          "name": "SupMail",
+          "type": "managed",
+          "projectId": "8d21MsEaFrjU1q6tvNDHvf",
+          "renderModuleFilePath": "plasmic/tribune_magnycitoyens_fr/PlasmicSupMail.tsx",
+          "importSpec": {
+            "modulePath": "../pages/sup-mail.tsx"
+          },
+          "cssFilePath": "plasmic/tribune_magnycitoyens_fr/PlasmicSupMail.module.css",
+          "scheme": "blackbox",
+          "componentType": "page",
+          "path": "/sup-mail"
+        },
+        {
+          "id": "DPMq_tkF9xQT",
+          "name": "SupSommaire",
+          "type": "managed",
+          "projectId": "8d21MsEaFrjU1q6tvNDHvf",
+          "renderModuleFilePath": "plasmic/tribune_magnycitoyens_fr/PlasmicSupSommaire.tsx",
+          "importSpec": {
+            "modulePath": "../pages/sup-sommaire.tsx"
+          },
+          "cssFilePath": "plasmic/tribune_magnycitoyens_fr/PlasmicSupSommaire.module.css",
+          "scheme": "blackbox",
+          "componentType": "page",
+          "path": "/sup-sommaire"
         }
       ],
       "icons": [],
