@@ -280,7 +280,7 @@ function PlasmicHomepage__RenderFunc(props: {
                         style={{ color: "#535353", fontStyle: "italic" }}
                       >
                         {
-                          "\u00ab Comme c\u2019est le maire qui d\u00e9cide de la fa\u00e7on dont cela se fait en pratique, il est int\u00e9ressant de vous dire qu\u2019au moment o\u00f9 nous \u00e9crivons ces lignes, nous n\u2019avons qu\u2019une tr\u00e8s vague id\u00e9e de ce que ce suppl\u00e9ment contient. Nous devons commenter un document, sans le conna\u00eetre. Comme toujours \u00e0 Magny, la d\u00e9mocratie, la concertation et le respect de l\u2019opposition, c\u2019est en paroles, pas en actes.\u00a0\u00bb\u00a0"
+                          "\u00ab Comme c\u2019est le maire qui d\u00e9cide de la fa\u00e7on dont cela se fait en pratique, il est int\u00e9ressant de vous dire qu\u2019au moment o\u00f9 nous \u00e9crivons ces lignes, nous n\u2019avons qu\u2019une tr\u00e8s vague id\u00e9e de ce que ce suppl\u00e9ment contient. Nous devons commenter un document, sans le conna\u00eetre.\u00a0\u00bb\u00a0"
                         }
                       </span>
                     </React.Fragment>
