@@ -208,6 +208,631 @@ function PlasmicHomepage__RenderFunc(props: {
                 className={"plasmic_default__all plasmic_default__span"}
                 style={{ fontWeight: 700, color: "var(--token-cFmhhOjrWFuI)" }}
               >
+                {"Tribune du suppl\u00e9ment du "}
+              </span>
+              <React.Fragment>{"\n"}</React.Fragment>
+              <span
+                className={"plasmic_default__all plasmic_default__span"}
+                style={{
+                  fontWeight: 700,
+                  fontStyle: "italic",
+                  color: "var(--token-cFmhhOjrWFuI)"
+                }}
+              >
+                {"Magny Mag"}
+              </span>
+              <React.Fragment>{""}</React.Fragment>
+              <span
+                className={"plasmic_default__all plasmic_default__span"}
+                style={{ fontWeight: 700, color: "var(--token-cFmhhOjrWFuI)" }}
+              >
+                {" d'avril 2025"}
+              </span>
+              <React.Fragment>
+                {"\nPubli\u00e9 le 26 mars 2025."}
+              </React.Fragment>
+            </React.Fragment>
+          </div>
+          <div
+            className={classNames(
+              projectcss.all,
+              projectcss.__wab_text,
+              sty.text__reGr8
+            )}
+          >
+            {hasVariant(globalVariants, "screen", "desktopOnly") ? (
+              <React.Fragment>
+                <span
+                  className={"plasmic_default__all plasmic_default__span"}
+                  style={{ fontWeight: 700 }}
+                >
+                  {
+                    "Faute de pouvoir contester la hausse de pr\u00e8s de 25% du taux communal de taxe fonci\u00e8re depuis qu\u2019il est maire, M. Houillon a choisi d\u2019utiliser vos imp\u00f4ts pour financer un document somptuaire de propagande, distribu\u00e9 en avril 2025 \u00e0 tous les habitants de la commune."
+                  }
+                </span>
+                <React.Fragment>
+                  {
+                    "\u00a0\n\nCe document \u00e9tant pay\u00e9 par les contribuables de Magny, la loi impose d\u2019y inclure une tribune de l\u2019opposition. Mais comme nous l\u2019avons \u00e9crit dans cette tribune :\n\n"
+                  }
+                </React.Fragment>
+                {
+                  <blockquote
+                    className={classNames(
+                      projectcss.all,
+                      projectcss.__wab_text,
+                      sty.blockquote__qpZ4W
+                    )}
+                  >
+                    {hasVariant(globalVariants, "screen", "desktopOnly") ? (
+                      <React.Fragment>
+                        <span
+                          className={
+                            "plasmic_default__all plasmic_default__span"
+                          }
+                          style={{ color: "#535353" }}
+                        >
+                          {
+                            "\u00ab Comme c\u2019est le maire qui d\u00e9cide de la fa\u00e7on dont cela se fait en pratique, il est int\u00e9ressant de vous dire qu\u2019au moment o\u00f9 nous \u00e9crivons ces lignes, nous n\u2019avons qu\u2019une tr\u00e8s vague id\u00e9e de ce que ce suppl\u00e9ment contient. Nous devons commenter un document, sans le conna\u00eetre. Comme toujours \u00e0 Magny, la d\u00e9mocratie, la concertation et le respect de l\u2019opposition, c\u2019est en paroles, pas en actes.\u00a0\u00bb\u00a0"
+                          }
+                        </span>
+                      </React.Fragment>
+                    ) : (
+                      <React.Fragment>
+                        <span
+                          className={
+                            "plasmic_default__all plasmic_default__span"
+                          }
+                          style={{ color: "#535353" }}
+                        >
+                          {
+                            "\u00ab Comme c\u2019est le maire qui d\u00e9cide de la fa\u00e7on dont cela se fait en pratique, il est int\u00e9ressant de vous dire qu\u2019au moment o\u00f9 nous \u00e9crivons ces lignes, nous n\u2019avons qu\u2019une tr\u00e8s vague id\u00e9e de ce que ce suppl\u00e9ment contient. Nous devons commenter un document, sans le conna\u00eetre. Comme toujours \u00e0 Magny, la d\u00e9mocratie, la concertation et le respect de l\u2019opposition, c\u2019est en paroles, pas en actes.\u00a0\u00bb\u00a0"
+                          }
+                        </span>
+                      </React.Fragment>
+                    )}
+                  </blockquote>
+                }
+                <React.Fragment>
+                  {"\nLes faits parlent d\u2019eux-m\u00eames :\n\n"}
+                </React.Fragment>
+                {
+                  <ul
+                    className={classNames(
+                      projectcss.all,
+                      projectcss.ul,
+                      sty.ul__qC28
+                    )}
+                  >
+                    <li
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.li,
+                        projectcss.__wab_text,
+                        sty.li__xxEyn
+                      )}
+                    >
+                      {hasVariant(globalVariants, "screen", "desktopOnly") ? (
+                        <React.Fragment>
+                          <React.Fragment>{""}</React.Fragment>
+                          {
+                            <PlasmicLink__
+                              className={classNames(
+                                projectcss.all,
+                                projectcss.a,
+                                projectcss.__wab_text,
+                                projectcss.plasmic_default__inline,
+                                sty.link___5KJj1
+                              )}
+                              component={Link}
+                              href={
+                                "/plasmic/tribune_magnycitoyens_fr/images/mail-supp.png"
+                              }
+                              platform={"nextjs"}
+                            >
+                              {hasVariant(
+                                globalVariants,
+                                "screen",
+                                "desktopOnly"
+                              )
+                                ? "Nous avons \u00e9t\u00e9 inform\u00e9s de la cr\u00e9ation de ce suppl\u00e9ment le vendredi 21 f\u00e9vrier 2025"
+                                : "Nous avons \u00e9t\u00e9 inform\u00e9s de la cr\u00e9ation de ce suppl\u00e9ment le vendredi 21 f\u00e9vrier 2025"}
+                            </PlasmicLink__>
+                          }
+                          <React.Fragment>
+                            {
+                              " et avons d\u00fb soumettre notre tribune avant le vendredi 7 mars 2025."
+                            }
+                          </React.Fragment>
+                        </React.Fragment>
+                      ) : (
+                        <React.Fragment>
+                          <React.Fragment>{""}</React.Fragment>
+                          {
+                            <PlasmicLink__
+                              className={classNames(
+                                projectcss.all,
+                                projectcss.a,
+                                projectcss.__wab_text,
+                                projectcss.plasmic_default__inline,
+                                sty.link___7EnY
+                              )}
+                              component={Link}
+                              href={
+                                "https://tribune.magnycitoyens.fr/plasmic/tribune_magnycitoyens_fr/images/mail-supp.png"
+                              }
+                              platform={"nextjs"}
+                              target={"_blank"}
+                            >
+                              {
+                                "Nous avons \u00e9t\u00e9 inform\u00e9s de la cr\u00e9ation de ce suppl\u00e9ment le vendredi 21 f\u00e9vrier 2025"
+                              }
+                            </PlasmicLink__>
+                          }
+                          <React.Fragment>
+                            {
+                              " et avons d\u00fb soumettre notre tribune avant le vendredi 7 mars 2025."
+                            }
+                          </React.Fragment>
+                        </React.Fragment>
+                      )}
+                    </li>
+                  </ul>
+                }
+                <React.Fragment>{"\n"}</React.Fragment>
+                {
+                  <ul
+                    className={classNames(
+                      projectcss.all,
+                      projectcss.ul,
+                      sty.ul__c2Owy
+                    )}
+                  >
+                    <li
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.li,
+                        projectcss.__wab_text,
+                        sty.li__lvnuv
+                      )}
+                    >
+                      {hasVariant(globalVariants, "screen", "desktopOnly") ? (
+                        "Voici comment ce document nous a \u00e9t\u00e9 pr\u00e9sent\u00e9 dans ce mail :"
+                      ) : (
+                        <React.Fragment>
+                          <React.Fragment>
+                            {
+                              "Voici comment ce document nous a \u00e9t\u00e9 pr\u00e9sent\u00e9 "
+                            }
+                          </React.Fragment>
+                          {
+                            <PlasmicLink__
+                              className={classNames(
+                                projectcss.all,
+                                projectcss.a,
+                                projectcss.__wab_text,
+                                projectcss.plasmic_default__inline,
+                                sty.link__qdXo8
+                              )}
+                              component={Link}
+                              href={
+                                "https://tribune.magnycitoyens.fr/plasmic/tribune_magnycitoyens_fr/images/mail-supp.png"
+                              }
+                              platform={"nextjs"}
+                              target={"_blank"}
+                            >
+                              {"dans ce mail"}
+                            </PlasmicLink__>
+                          }
+                          <React.Fragment>{" :"}</React.Fragment>
+                        </React.Fragment>
+                      )}
+                    </li>
+                  </ul>
+                }
+                <React.Fragment>{"\n"}</React.Fragment>
+                {
+                  <blockquote
+                    className={classNames(
+                      projectcss.all,
+                      projectcss.__wab_text,
+                      sty.blockquote__tGp1C
+                    )}
+                  >
+                    {hasVariant(globalVariants, "screen", "desktopOnly") ? (
+                      <React.Fragment>
+                        <span
+                          className={
+                            "plasmic_default__all plasmic_default__span"
+                          }
+                          style={{ color: "#535353" }}
+                        >
+                          {
+                            "\u00ab\u00a0La commune va \u00e9diter un document en compl\u00e9ment du Magny Mag' d\u2019avril, un document p\u00e9dagogique synth\u00e9tique sur les comp\u00e9tences et missions de la commune, en lien avec les autres collectivit\u00e9s et l\u2019\u00c9tat, ainsi que sur les questions budg\u00e9taires associ\u00e9es. Il compl\u00e8te les dossiers d\u00e9j\u00e0 publi\u00e9s sur ces sujets dans le Magny Mag\u2019.\u00a0\u00bb"
+                          }
+                        </span>
+                      </React.Fragment>
+                    ) : (
+                      <React.Fragment>
+                        <span
+                          className={
+                            "plasmic_default__all plasmic_default__span"
+                          }
+                          style={{ color: "#535353" }}
+                        >
+                          {
+                            "\u00ab\u00a0La commune va \u00e9diter un document en compl\u00e9ment du Magny Mag' d\u2019avril, un document p\u00e9dagogique synth\u00e9tique sur les comp\u00e9tences et missions de la commune, en lien avec les autres collectivit\u00e9s et l\u2019\u00c9tat, ainsi que sur les questions budg\u00e9taires associ\u00e9es. Il compl\u00e8te les dossiers d\u00e9j\u00e0 publi\u00e9s sur ces sujets dans le Magny Mag\u2019.\u00a0\u00bb"
+                          }
+                        </span>
+                      </React.Fragment>
+                    )}
+                  </blockquote>
+                }
+                <React.Fragment>{"\n"}</React.Fragment>
+                {
+                  <ul
+                    className={classNames(
+                      projectcss.all,
+                      projectcss.ul,
+                      sty.ul__lj7Ns
+                    )}
+                  >
+                    <li
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.li,
+                        projectcss.__wab_text,
+                        sty.li___7Pn0N
+                      )}
+                    >
+                      {hasVariant(globalVariants, "screen", "desktopOnly") ? (
+                        "Nous avons alors demand\u00e9 le chemin de fer du document (le plan d\u00e9taill\u00e9 permettant de conna\u00eetre son contenu page par page). En r\u00e9ponse, nous n\u2019avons re\u00e7u que ce sommaire approximatif et incomplet."
+                      ) : (
+                        <React.Fragment>
+                          <React.Fragment>
+                            {
+                              "Nous avons alors demand\u00e9 le chemin de fer du document (le plan d\u00e9taill\u00e9 permettant de conna\u00eetre son contenu page par page). En r\u00e9ponse, "
+                            }
+                          </React.Fragment>
+                          {
+                            <PlasmicLink__
+                              className={classNames(
+                                projectcss.all,
+                                projectcss.a,
+                                projectcss.__wab_text,
+                                projectcss.plasmic_default__inline,
+                                sty.link__hZTvt
+                              )}
+                              component={Link}
+                              href={
+                                "https://tribunes.magnycitoyens.fr/plasmic/tribune_magnycitoyens_fr/images/sommaire.png"
+                              }
+                              platform={"nextjs"}
+                              target={"_blank"}
+                            >
+                              {
+                                "nous n\u2019avons re\u00e7u que ce sommaire approximatif et incomplet."
+                              }
+                            </PlasmicLink__>
+                          }
+                          <React.Fragment>{""}</React.Fragment>
+                        </React.Fragment>
+                      )}
+                    </li>
+                  </ul>
+                }
+                <React.Fragment>
+                  {
+                    "\nAu vu du document distribu\u00e9, chacun appr\u00e9ciera le respect r\u00e9el accord\u00e9 \u00e0 l'opposition, et les conditions d\u00e9plorables dans lesquelles elle doit travailler."
+                  }
+                </React.Fragment>
+              </React.Fragment>
+            ) : (
+              <React.Fragment>
+                <span
+                  className={"plasmic_default__all plasmic_default__span"}
+                  style={{ color: "#000000", fontWeight: 700 }}
+                >
+                  {
+                    "Faute de pouvoir contester la hausse de pr\u00e8s de 25% du taux communal de taxe fonci\u00e8re depuis qu\u2019il est maire, M. Houillon a choisi d\u2019utiliser vos imp\u00f4ts pour financer un document somptuaire de propagande, distribu\u00e9 en avril 2025 \u00e0 tous les habitants de la commune."
+                  }
+                </span>
+                <React.Fragment>{""}</React.Fragment>
+                <span
+                  className={"plasmic_default__all plasmic_default__span"}
+                  style={{ fontWeight: 700 }}
+                >
+                  {"\u00a0"}
+                </span>
+                <React.Fragment>
+                  {
+                    "\n\nCe document \u00e9tant pay\u00e9 par les contribuables de Magny, la loi impose d\u2019y inclure une tribune de l\u2019opposition. Mais comme nous l\u2019avons \u00e9crit dans cette tribune :\n\n"
+                  }
+                </React.Fragment>
+                {
+                  <blockquote
+                    className={classNames(
+                      projectcss.all,
+                      projectcss.__wab_text,
+                      sty.blockquote__qpZ4W
+                    )}
+                  >
+                    {hasVariant(globalVariants, "screen", "desktopOnly") ? (
+                      <React.Fragment>
+                        <span
+                          className={
+                            "plasmic_default__all plasmic_default__span"
+                          }
+                          style={{ color: "#535353" }}
+                        >
+                          {
+                            "\u00ab Comme c\u2019est le maire qui d\u00e9cide de la fa\u00e7on dont cela se fait en pratique, il est int\u00e9ressant de vous dire qu\u2019au moment o\u00f9 nous \u00e9crivons ces lignes, nous n\u2019avons qu\u2019une tr\u00e8s vague id\u00e9e de ce que ce suppl\u00e9ment contient. Nous devons commenter un document, sans le conna\u00eetre. Comme toujours \u00e0 Magny, la d\u00e9mocratie, la concertation et le respect de l\u2019opposition, c\u2019est en paroles, pas en actes.\u00a0\u00bb\u00a0"
+                          }
+                        </span>
+                      </React.Fragment>
+                    ) : (
+                      <React.Fragment>
+                        <span
+                          className={
+                            "plasmic_default__all plasmic_default__span"
+                          }
+                          style={{ color: "#535353" }}
+                        >
+                          {
+                            "\u00ab Comme c\u2019est le maire qui d\u00e9cide de la fa\u00e7on dont cela se fait en pratique, il est int\u00e9ressant de vous dire qu\u2019au moment o\u00f9 nous \u00e9crivons ces lignes, nous n\u2019avons qu\u2019une tr\u00e8s vague id\u00e9e de ce que ce suppl\u00e9ment contient. Nous devons commenter un document, sans le conna\u00eetre. Comme toujours \u00e0 Magny, la d\u00e9mocratie, la concertation et le respect de l\u2019opposition, c\u2019est en paroles, pas en actes.\u00a0\u00bb\u00a0"
+                          }
+                        </span>
+                      </React.Fragment>
+                    )}
+                  </blockquote>
+                }
+                <React.Fragment>
+                  {"\nLes faits parlent d\u2019eux-m\u00eames :\n\n"}
+                </React.Fragment>
+                {
+                  <ul
+                    className={classNames(
+                      projectcss.all,
+                      projectcss.ul,
+                      sty.ul__qC28
+                    )}
+                  >
+                    <li
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.li,
+                        projectcss.__wab_text,
+                        sty.li__xxEyn
+                      )}
+                    >
+                      {hasVariant(globalVariants, "screen", "desktopOnly") ? (
+                        <React.Fragment>
+                          <React.Fragment>{""}</React.Fragment>
+                          {
+                            <PlasmicLink__
+                              className={classNames(
+                                projectcss.all,
+                                projectcss.a,
+                                projectcss.__wab_text,
+                                projectcss.plasmic_default__inline,
+                                sty.link___5KJj1
+                              )}
+                              component={Link}
+                              href={
+                                "/plasmic/tribune_magnycitoyens_fr/images/mail-supp.png"
+                              }
+                              platform={"nextjs"}
+                            >
+                              {hasVariant(
+                                globalVariants,
+                                "screen",
+                                "desktopOnly"
+                              )
+                                ? "Nous avons \u00e9t\u00e9 inform\u00e9s de la cr\u00e9ation de ce suppl\u00e9ment le vendredi 21 f\u00e9vrier 2025"
+                                : "Nous avons \u00e9t\u00e9 inform\u00e9s de la cr\u00e9ation de ce suppl\u00e9ment le vendredi 21 f\u00e9vrier 2025"}
+                            </PlasmicLink__>
+                          }
+                          <React.Fragment>
+                            {
+                              " et avons d\u00fb soumettre notre tribune avant le vendredi 7 mars 2025."
+                            }
+                          </React.Fragment>
+                        </React.Fragment>
+                      ) : (
+                        <React.Fragment>
+                          <React.Fragment>{""}</React.Fragment>
+                          {
+                            <PlasmicLink__
+                              className={classNames(
+                                projectcss.all,
+                                projectcss.a,
+                                projectcss.__wab_text,
+                                projectcss.plasmic_default__inline,
+                                sty.link___7EnY
+                              )}
+                              component={Link}
+                              href={
+                                "https://tribune.magnycitoyens.fr/plasmic/tribune_magnycitoyens_fr/images/mail-supp.png"
+                              }
+                              platform={"nextjs"}
+                              target={"_blank"}
+                            >
+                              {
+                                "Nous avons \u00e9t\u00e9 inform\u00e9s de la cr\u00e9ation de ce suppl\u00e9ment le vendredi 21 f\u00e9vrier 2025"
+                              }
+                            </PlasmicLink__>
+                          }
+                          <React.Fragment>
+                            {
+                              " et avons d\u00fb soumettre notre tribune avant le vendredi 7 mars 2025."
+                            }
+                          </React.Fragment>
+                        </React.Fragment>
+                      )}
+                    </li>
+                  </ul>
+                }
+                <React.Fragment>{"\n"}</React.Fragment>
+                {
+                  <ul
+                    className={classNames(
+                      projectcss.all,
+                      projectcss.ul,
+                      sty.ul__c2Owy
+                    )}
+                  >
+                    <li
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.li,
+                        projectcss.__wab_text,
+                        sty.li__lvnuv
+                      )}
+                    >
+                      {hasVariant(globalVariants, "screen", "desktopOnly") ? (
+                        "Voici comment ce document nous a \u00e9t\u00e9 pr\u00e9sent\u00e9 dans ce mail :"
+                      ) : (
+                        <React.Fragment>
+                          <React.Fragment>
+                            {
+                              "Voici comment ce document nous a \u00e9t\u00e9 pr\u00e9sent\u00e9 "
+                            }
+                          </React.Fragment>
+                          {
+                            <PlasmicLink__
+                              className={classNames(
+                                projectcss.all,
+                                projectcss.a,
+                                projectcss.__wab_text,
+                                projectcss.plasmic_default__inline,
+                                sty.link__qdXo8
+                              )}
+                              component={Link}
+                              href={
+                                "https://tribune.magnycitoyens.fr/plasmic/tribune_magnycitoyens_fr/images/mail-supp.png"
+                              }
+                              platform={"nextjs"}
+                              target={"_blank"}
+                            >
+                              {"dans ce mail"}
+                            </PlasmicLink__>
+                          }
+                          <React.Fragment>{" :"}</React.Fragment>
+                        </React.Fragment>
+                      )}
+                    </li>
+                  </ul>
+                }
+                <React.Fragment>{"\n"}</React.Fragment>
+                {
+                  <blockquote
+                    className={classNames(
+                      projectcss.all,
+                      projectcss.__wab_text,
+                      sty.blockquote__tGp1C
+                    )}
+                  >
+                    {hasVariant(globalVariants, "screen", "desktopOnly") ? (
+                      <React.Fragment>
+                        <span
+                          className={
+                            "plasmic_default__all plasmic_default__span"
+                          }
+                          style={{ color: "#535353" }}
+                        >
+                          {
+                            "\u00ab\u00a0La commune va \u00e9diter un document en compl\u00e9ment du Magny Mag' d\u2019avril, un document p\u00e9dagogique synth\u00e9tique sur les comp\u00e9tences et missions de la commune, en lien avec les autres collectivit\u00e9s et l\u2019\u00c9tat, ainsi que sur les questions budg\u00e9taires associ\u00e9es. Il compl\u00e8te les dossiers d\u00e9j\u00e0 publi\u00e9s sur ces sujets dans le Magny Mag\u2019.\u00a0\u00bb"
+                          }
+                        </span>
+                      </React.Fragment>
+                    ) : (
+                      <React.Fragment>
+                        <span
+                          className={
+                            "plasmic_default__all plasmic_default__span"
+                          }
+                          style={{ color: "#535353" }}
+                        >
+                          {
+                            "\u00ab\u00a0La commune va \u00e9diter un document en compl\u00e9ment du Magny Mag' d\u2019avril, un document p\u00e9dagogique synth\u00e9tique sur les comp\u00e9tences et missions de la commune, en lien avec les autres collectivit\u00e9s et l\u2019\u00c9tat, ainsi que sur les questions budg\u00e9taires associ\u00e9es. Il compl\u00e8te les dossiers d\u00e9j\u00e0 publi\u00e9s sur ces sujets dans le Magny Mag\u2019.\u00a0\u00bb"
+                          }
+                        </span>
+                      </React.Fragment>
+                    )}
+                  </blockquote>
+                }
+                <React.Fragment>{"\n"}</React.Fragment>
+                {
+                  <ul
+                    className={classNames(
+                      projectcss.all,
+                      projectcss.ul,
+                      sty.ul__lj7Ns
+                    )}
+                  >
+                    <li
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.li,
+                        projectcss.__wab_text,
+                        sty.li___7Pn0N
+                      )}
+                    >
+                      {hasVariant(globalVariants, "screen", "desktopOnly") ? (
+                        "Nous avons alors demand\u00e9 le chemin de fer du document (le plan d\u00e9taill\u00e9 permettant de conna\u00eetre son contenu page par page). En r\u00e9ponse, nous n\u2019avons re\u00e7u que ce sommaire approximatif et incomplet."
+                      ) : (
+                        <React.Fragment>
+                          <React.Fragment>
+                            {
+                              "Nous avons alors demand\u00e9 le chemin de fer du document (le plan d\u00e9taill\u00e9 permettant de conna\u00eetre son contenu page par page). En r\u00e9ponse, "
+                            }
+                          </React.Fragment>
+                          {
+                            <PlasmicLink__
+                              className={classNames(
+                                projectcss.all,
+                                projectcss.a,
+                                projectcss.__wab_text,
+                                projectcss.plasmic_default__inline,
+                                sty.link__hZTvt
+                              )}
+                              component={Link}
+                              href={
+                                "https://tribunes.magnycitoyens.fr/plasmic/tribune_magnycitoyens_fr/images/sommaire.png"
+                              }
+                              platform={"nextjs"}
+                              target={"_blank"}
+                            >
+                              {
+                                "nous n\u2019avons re\u00e7u que ce sommaire approximatif et incomplet."
+                              }
+                            </PlasmicLink__>
+                          }
+                          <React.Fragment>{""}</React.Fragment>
+                        </React.Fragment>
+                      )}
+                    </li>
+                  </ul>
+                }
+                <React.Fragment>
+                  {
+                    "\nAu vu du document distribu\u00e9, chacun appr\u00e9ciera le respect r\u00e9el accord\u00e9 \u00e0 l\u2019opposition, et les conditions d\u00e9plorables dans lesquelles elle doit travailler."
+                  }
+                </React.Fragment>
+              </React.Fragment>
+            )}
+          </div>
+          <div
+            className={classNames(
+              projectcss.all,
+              projectcss.__wab_text,
+              sty.text__dxc4R
+            )}
+          >
+            <React.Fragment>
+              <span
+                className={"plasmic_default__all plasmic_default__span"}
+                style={{ fontWeight: 700, color: "var(--token-cFmhhOjrWFuI)" }}
+              >
                 {"Tribune du "}
               </span>
               <React.Fragment>{""}</React.Fragment>
@@ -240,7 +865,7 @@ function PlasmicHomepage__RenderFunc(props: {
               className={classNames(
                 projectcss.all,
                 projectcss.__wab_text,
-                sty.text__reGr8
+                sty.text___6G0VM
               )}
             >
               <React.Fragment>
@@ -297,7 +922,7 @@ function PlasmicHomepage__RenderFunc(props: {
                       projectcss.a,
                       projectcss.__wab_text,
                       projectcss.plasmic_default__inline,
-                      sty.link__ecl9W
+                      sty.link__lOpJ
                     )}
                     component={Link}
                     href={
@@ -346,7 +971,7 @@ function PlasmicHomepage__RenderFunc(props: {
                       projectcss.a,
                       projectcss.__wab_text,
                       projectcss.plasmic_default__inline,
-                      sty.link___061Tx
+                      sty.link__lvoXo
                     )}
                     component={Link}
                     href={"/fb2020"}
@@ -361,7 +986,7 @@ function PlasmicHomepage__RenderFunc(props: {
                     className={classNames(
                       projectcss.all,
                       projectcss.ul,
-                      sty.ul__tHlNf
+                      sty.ul__hmEuj
                     )}
                   >
                     <li
@@ -369,7 +994,7 @@ function PlasmicHomepage__RenderFunc(props: {
                         projectcss.all,
                         projectcss.li,
                         projectcss.__wab_text,
-                        sty.li___6QKWf
+                        sty.li__b2Ck7
                       )}
                     >
                       {"Magny-les-Hameaux : 454 \u20ac par habitant"}
@@ -382,7 +1007,7 @@ function PlasmicHomepage__RenderFunc(props: {
                     className={classNames(
                       projectcss.all,
                       projectcss.ul,
-                      sty.ul__wYh7G
+                      sty.ul__dGy5Z
                     )}
                   >
                     <li
@@ -390,7 +1015,7 @@ function PlasmicHomepage__RenderFunc(props: {
                         projectcss.all,
                         projectcss.li,
                         projectcss.__wab_text,
-                        sty.li__octgq
+                        sty.li___5HyJ6
                       )}
                     >
                       {
@@ -411,7 +1036,7 @@ function PlasmicHomepage__RenderFunc(props: {
                       projectcss.a,
                       projectcss.__wab_text,
                       projectcss.plasmic_default__inline,
-                      sty.link__qqhmb
+                      sty.link___0UoQ
                     )}
                     component={Link}
                     href={"/fb2020"}
@@ -426,7 +1051,7 @@ function PlasmicHomepage__RenderFunc(props: {
                     className={classNames(
                       projectcss.all,
                       projectcss.ul,
-                      sty.ul__vmE3
+                      sty.ul__tYy0K
                     )}
                   >
                     <li
@@ -434,7 +1059,7 @@ function PlasmicHomepage__RenderFunc(props: {
                         projectcss.all,
                         projectcss.li,
                         projectcss.__wab_text,
-                        sty.li__nGvX9
+                        sty.li__tM5I2
                       )}
                     >
                       {"Magny-les-Hameaux : 247 \u20ac par habitant"}
@@ -447,7 +1072,7 @@ function PlasmicHomepage__RenderFunc(props: {
                     className={classNames(
                       projectcss.all,
                       projectcss.ul,
-                      sty.ul___2Uxo2
+                      sty.ul___2TDzK
                     )}
                   >
                     <li
@@ -455,7 +1080,7 @@ function PlasmicHomepage__RenderFunc(props: {
                         projectcss.all,
                         projectcss.li,
                         projectcss.__wab_text,
-                        sty.li__wz88Z
+                        sty.li__v6VFh
                       )}
                     >
                       {
@@ -494,7 +1119,7 @@ function PlasmicHomepage__RenderFunc(props: {
                       projectcss.a,
                       projectcss.__wab_text,
                       projectcss.plasmic_default__inline,
-                      sty.link__zdQow
+                      sty.link__qXid
                     )}
                     component={Link}
                     href={"/fb2023"}
@@ -509,7 +1134,7 @@ function PlasmicHomepage__RenderFunc(props: {
                     className={classNames(
                       projectcss.all,
                       projectcss.ul,
-                      sty.ul___2KmTq
+                      sty.ul__q4Ysf
                     )}
                   >
                     <li
@@ -517,7 +1142,7 @@ function PlasmicHomepage__RenderFunc(props: {
                         projectcss.all,
                         projectcss.li,
                         projectcss.__wab_text,
-                        sty.li__wk9Cj
+                        sty.li__d5UEn
                       )}
                     >
                       {"Magny-les-Hameaux : 718 \u20ac par habitant"}
@@ -530,7 +1155,7 @@ function PlasmicHomepage__RenderFunc(props: {
                     className={classNames(
                       projectcss.all,
                       projectcss.ul,
-                      sty.ul__ogmSj
+                      sty.ul__jPckj
                     )}
                   >
                     <li
@@ -538,7 +1163,7 @@ function PlasmicHomepage__RenderFunc(props: {
                         projectcss.all,
                         projectcss.li,
                         projectcss.__wab_text,
-                        sty.li___1K7Jz
+                        sty.li__gqky7
                       )}
                     >
                       {
@@ -559,7 +1184,7 @@ function PlasmicHomepage__RenderFunc(props: {
                       projectcss.a,
                       projectcss.__wab_text,
                       projectcss.plasmic_default__inline,
-                      sty.link__vnSu
+                      sty.link__fK3Fz
                     )}
                     component={Link}
                     href={"/fb2023"}
@@ -2643,15 +3268,15 @@ type NodeComponentProps<T extends NodeNameType> =
     args?: PlasmicHomepage__ArgsType;
     overrides?: NodeOverridesType<T>;
   } & Omit<PlasmicHomepage__VariantsArgs, ReservedPropsType> & // Specify variants directly as props
-    /* Specify args directly as props*/ Omit<
-      PlasmicHomepage__ArgsType,
-      ReservedPropsType
-    > &
-    /* Specify overrides for each element directly as props*/ Omit<
+    // Specify args directly as props
+    Omit<PlasmicHomepage__ArgsType, ReservedPropsType> &
+    // Specify overrides for each element directly as props
+    Omit<
       NodeOverridesType<T>,
       ReservedPropsType | VariantPropType | ArgPropType
     > &
-    /* Specify props for the root element*/ Omit<
+    // Specify props for the root element
+    Omit<
       Partial<React.ComponentProps<NodeDefaultElementType[T]>>,
       ReservedPropsType | VariantPropType | ArgPropType | DescendantsType<T>
     >;

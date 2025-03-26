@@ -268,6 +268,16 @@
           "id": "lpIJCPYAqz42",
           "name": "PHOTO-2024-10-29-14-15-49.jpg",
           "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/photo20241029141549Jpg.jpg"
+        },
+        {
+          "id": "tMntaKjsyQyb",
+          "name": "mail-supp.png",
+          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/mailSuppPng.png"
+        },
+        {
+          "id": "0rlYkL6nE1g5",
+          "name": "sommaire.png",
+          "filePath": "../public/plasmic/tribune_magnycitoyens_fr/images/sommairePng.png"
         }
       ],
       "indirect": false,
@@ -304,6 +314,6 @@
   "nextjsConfig": {
     "pagesDir": "../pages"
   },
-  "cliVersion": "0.1.334",
-  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.334/dist/plasmic.schema.json"
+  "cliVersion": "0.1.337",
+  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.337/dist/plasmic.schema.json"
 }
