@@ -269,7 +269,7 @@ function PlasmicHomepage__RenderFunc(props: {
                           className={
                             "plasmic_default__all plasmic_default__span"
                           }
-                          style={{ color: "#535353" }}
+                          style={{ color: "#535353", fontStyle: "italic" }}
                         >
                           {
                             "\u00ab Comme c\u2019est le maire qui d\u00e9cide de la fa\u00e7on dont cela se fait en pratique, il est int\u00e9ressant de vous dire qu\u2019au moment o\u00f9 nous \u00e9crivons ces lignes, nous n\u2019avons qu\u2019une tr\u00e8s vague id\u00e9e de ce que ce suppl\u00e9ment contient. Nous devons commenter un document, sans le conna\u00eetre. Comme toujours \u00e0 Magny, la d\u00e9mocratie, la concertation et le respect de l\u2019opposition, c\u2019est en paroles, pas en actes.\u00a0\u00bb\u00a0"
@@ -325,9 +325,24 @@ function PlasmicHomepage__RenderFunc(props: {
                               )}
                               component={Link}
                               href={
-                                "/plasmic/tribune_magnycitoyens_fr/images/mail-supp.png"
+                                hasVariant(
+                                  globalVariants,
+                                  "screen",
+                                  "desktopOnly"
+                                )
+                                  ? `/sup-mail`
+                                  : "/plasmic/tribune_magnycitoyens_fr/images/mail-supp.png"
                               }
                               platform={"nextjs"}
+                              target={
+                                hasVariant(
+                                  globalVariants,
+                                  "screen",
+                                  "desktopOnly"
+                                )
+                                  ? "_blank"
+                                  : undefined
+                              }
                             >
                               {hasVariant(
                                 globalVariants,
@@ -394,7 +409,45 @@ function PlasmicHomepage__RenderFunc(props: {
                       )}
                     >
                       {hasVariant(globalVariants, "screen", "desktopOnly") ? (
-                        "Voici comment ce document nous a \u00e9t\u00e9 pr\u00e9sent\u00e9 dans ce mail :"
+                        <React.Fragment>
+                          <React.Fragment>
+                            {
+                              "Voici comment ce document nous a \u00e9t\u00e9 pr\u00e9sent\u00e9 dans "
+                            }
+                          </React.Fragment>
+                          {
+                            <PlasmicLink__
+                              className={classNames(
+                                projectcss.all,
+                                projectcss.a,
+                                projectcss.__wab_text,
+                                projectcss.plasmic_default__inline,
+                                sty.link__p73V4
+                              )}
+                              component={Link}
+                              href={"/sup-mail"}
+                              platform={"nextjs"}
+                              target={
+                                hasVariant(
+                                  globalVariants,
+                                  "screen",
+                                  "desktopOnly"
+                                )
+                                  ? "_blank"
+                                  : undefined
+                              }
+                            >
+                              {hasVariant(
+                                globalVariants,
+                                "screen",
+                                "desktopOnly"
+                              )
+                                ? "ce mail"
+                                : "ce mail"}
+                            </PlasmicLink__>
+                          }
+                          <React.Fragment>{" :"}</React.Fragment>
+                        </React.Fragment>
                       ) : (
                         <React.Fragment>
                           <React.Fragment>
@@ -440,7 +493,7 @@ function PlasmicHomepage__RenderFunc(props: {
                           className={
                             "plasmic_default__all plasmic_default__span"
                           }
-                          style={{ color: "#535353" }}
+                          style={{ color: "#535353", fontStyle: "italic" }}
                         >
                           {
                             "\u00ab\u00a0La commune va \u00e9diter un document en compl\u00e9ment du Magny Mag' d\u2019avril, un document p\u00e9dagogique synth\u00e9tique sur les comp\u00e9tences et missions de la commune, en lien avec les autres collectivit\u00e9s et l\u2019\u00c9tat, ainsi que sur les questions budg\u00e9taires associ\u00e9es. Il compl\u00e8te les dossiers d\u00e9j\u00e0 publi\u00e9s sur ces sujets dans le Magny Mag\u2019.\u00a0\u00bb"
@@ -481,7 +534,47 @@ function PlasmicHomepage__RenderFunc(props: {
                       )}
                     >
                       {hasVariant(globalVariants, "screen", "desktopOnly") ? (
-                        "Nous avons alors demand\u00e9 le chemin de fer du document (le plan d\u00e9taill\u00e9 permettant de conna\u00eetre son contenu page par page). En r\u00e9ponse, nous n\u2019avons re\u00e7u que ce sommaire approximatif et incomplet."
+                        <React.Fragment>
+                          <React.Fragment>
+                            {
+                              "Nous avons alors demand\u00e9 le chemin de fer du document (le plan d\u00e9taill\u00e9 permettant de conna\u00eetre son contenu page par page). En r\u00e9ponse, nous n\u2019avons re\u00e7u que "
+                            }
+                          </React.Fragment>
+                          {
+                            <PlasmicLink__
+                              className={classNames(
+                                projectcss.all,
+                                projectcss.a,
+                                projectcss.__wab_text,
+                                projectcss.plasmic_default__inline,
+                                sty.link__a4KpQ
+                              )}
+                              component={Link}
+                              href={
+                                hasVariant(
+                                  globalVariants,
+                                  "screen",
+                                  "desktopOnly"
+                                )
+                                  ? `/sup-sommaire`
+                                  : "/sup-sommaire"
+                              }
+                              platform={"nextjs"}
+                              target={
+                                hasVariant(
+                                  globalVariants,
+                                  "screen",
+                                  "desktopOnly"
+                                )
+                                  ? "_blank"
+                                  : undefined
+                              }
+                            >
+                              {"ce sommaire approximatif et incomplet"}
+                            </PlasmicLink__>
+                          }
+                          <React.Fragment>{"."}</React.Fragment>
+                        </React.Fragment>
                       ) : (
                         <React.Fragment>
                           <React.Fragment>
@@ -556,7 +649,7 @@ function PlasmicHomepage__RenderFunc(props: {
                           className={
                             "plasmic_default__all plasmic_default__span"
                           }
-                          style={{ color: "#535353" }}
+                          style={{ color: "#535353", fontStyle: "italic" }}
                         >
                           {
                             "\u00ab Comme c\u2019est le maire qui d\u00e9cide de la fa\u00e7on dont cela se fait en pratique, il est int\u00e9ressant de vous dire qu\u2019au moment o\u00f9 nous \u00e9crivons ces lignes, nous n\u2019avons qu\u2019une tr\u00e8s vague id\u00e9e de ce que ce suppl\u00e9ment contient. Nous devons commenter un document, sans le conna\u00eetre. Comme toujours \u00e0 Magny, la d\u00e9mocratie, la concertation et le respect de l\u2019opposition, c\u2019est en paroles, pas en actes.\u00a0\u00bb\u00a0"
@@ -612,9 +705,24 @@ function PlasmicHomepage__RenderFunc(props: {
                               )}
                               component={Link}
                               href={
-                                "/plasmic/tribune_magnycitoyens_fr/images/mail-supp.png"
+                                hasVariant(
+                                  globalVariants,
+                                  "screen",
+                                  "desktopOnly"
+                                )
+                                  ? `/sup-mail`
+                                  : "/plasmic/tribune_magnycitoyens_fr/images/mail-supp.png"
                               }
                               platform={"nextjs"}
+                              target={
+                                hasVariant(
+                                  globalVariants,
+                                  "screen",
+                                  "desktopOnly"
+                                )
+                                  ? "_blank"
+                                  : undefined
+                              }
                             >
                               {hasVariant(
                                 globalVariants,
@@ -681,7 +789,45 @@ function PlasmicHomepage__RenderFunc(props: {
                       )}
                     >
                       {hasVariant(globalVariants, "screen", "desktopOnly") ? (
-                        "Voici comment ce document nous a \u00e9t\u00e9 pr\u00e9sent\u00e9 dans ce mail :"
+                        <React.Fragment>
+                          <React.Fragment>
+                            {
+                              "Voici comment ce document nous a \u00e9t\u00e9 pr\u00e9sent\u00e9 dans "
+                            }
+                          </React.Fragment>
+                          {
+                            <PlasmicLink__
+                              className={classNames(
+                                projectcss.all,
+                                projectcss.a,
+                                projectcss.__wab_text,
+                                projectcss.plasmic_default__inline,
+                                sty.link__p73V4
+                              )}
+                              component={Link}
+                              href={"/sup-mail"}
+                              platform={"nextjs"}
+                              target={
+                                hasVariant(
+                                  globalVariants,
+                                  "screen",
+                                  "desktopOnly"
+                                )
+                                  ? "_blank"
+                                  : undefined
+                              }
+                            >
+                              {hasVariant(
+                                globalVariants,
+                                "screen",
+                                "desktopOnly"
+                              )
+                                ? "ce mail"
+                                : "ce mail"}
+                            </PlasmicLink__>
+                          }
+                          <React.Fragment>{" :"}</React.Fragment>
+                        </React.Fragment>
                       ) : (
                         <React.Fragment>
                           <React.Fragment>
@@ -727,7 +873,7 @@ function PlasmicHomepage__RenderFunc(props: {
                           className={
                             "plasmic_default__all plasmic_default__span"
                           }
-                          style={{ color: "#535353" }}
+                          style={{ color: "#535353", fontStyle: "italic" }}
                         >
                           {
                             "\u00ab\u00a0La commune va \u00e9diter un document en compl\u00e9ment du Magny Mag' d\u2019avril, un document p\u00e9dagogique synth\u00e9tique sur les comp\u00e9tences et missions de la commune, en lien avec les autres collectivit\u00e9s et l\u2019\u00c9tat, ainsi que sur les questions budg\u00e9taires associ\u00e9es. Il compl\u00e8te les dossiers d\u00e9j\u00e0 publi\u00e9s sur ces sujets dans le Magny Mag\u2019.\u00a0\u00bb"
@@ -768,7 +914,47 @@ function PlasmicHomepage__RenderFunc(props: {
                       )}
                     >
                       {hasVariant(globalVariants, "screen", "desktopOnly") ? (
-                        "Nous avons alors demand\u00e9 le chemin de fer du document (le plan d\u00e9taill\u00e9 permettant de conna\u00eetre son contenu page par page). En r\u00e9ponse, nous n\u2019avons re\u00e7u que ce sommaire approximatif et incomplet."
+                        <React.Fragment>
+                          <React.Fragment>
+                            {
+                              "Nous avons alors demand\u00e9 le chemin de fer du document (le plan d\u00e9taill\u00e9 permettant de conna\u00eetre son contenu page par page). En r\u00e9ponse, nous n\u2019avons re\u00e7u que "
+                            }
+                          </React.Fragment>
+                          {
+                            <PlasmicLink__
+                              className={classNames(
+                                projectcss.all,
+                                projectcss.a,
+                                projectcss.__wab_text,
+                                projectcss.plasmic_default__inline,
+                                sty.link__a4KpQ
+                              )}
+                              component={Link}
+                              href={
+                                hasVariant(
+                                  globalVariants,
+                                  "screen",
+                                  "desktopOnly"
+                                )
+                                  ? `/sup-sommaire`
+                                  : "/sup-sommaire"
+                              }
+                              platform={"nextjs"}
+                              target={
+                                hasVariant(
+                                  globalVariants,
+                                  "screen",
+                                  "desktopOnly"
+                                )
+                                  ? "_blank"
+                                  : undefined
+                              }
+                            >
+                              {"ce sommaire approximatif et incomplet"}
+                            </PlasmicLink__>
+                          }
+                          <React.Fragment>{"."}</React.Fragment>
+                        </React.Fragment>
                       ) : (
                         <React.Fragment>
                           <React.Fragment>
