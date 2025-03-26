@@ -226,7 +226,7 @@ function PlasmicHomepage__RenderFunc(props: {
                 className={"plasmic_default__all plasmic_default__span"}
                 style={{ fontWeight: 700, color: "var(--token-cFmhhOjrWFuI)" }}
               >
-                {" d'avril 2025"}
+                {" d\u2019avril 2025"}
               </span>
               <React.Fragment>
                 {"\nPubli\u00e9 le 26 mars 2025."}
