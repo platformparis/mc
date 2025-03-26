@@ -605,7 +605,7 @@ function PlasmicHomepage__RenderFunc(props: {
                 style={{ fontWeight: 700 }}
               >
                 {
-                  "Les Magnycois m\u00e9ritent mieux qu\u2019une communication partisane d\u00e9guis\u00e9e en document \u00ab p\u00e9dagogique \u00bb. Ils m\u00e9ritent une gestion respectueuse de leurs imp\u00f4ts, un dialogue honn\u00eate et une v\u00e9ritable consid\u00e9ration pour toutes les voix de la commune."
+                  "Les Magnycois m\u00e9ritent mieux qu\u2019une communication partisane d\u00e9guis\u00e9e en document \u00ab\u00a0p\u00e9dagogique\u00a0\u00bb. Ils m\u00e9ritent une gestion respectueuse de leurs imp\u00f4ts, un dialogue honn\u00eate et une v\u00e9ritable consid\u00e9ration pour toutes les voix de la commune."
                 }
               </span>
             </React.Fragment>
