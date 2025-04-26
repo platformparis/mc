@@ -52,23 +52,41 @@
   height: auto;
   max-width: 100%;
   margin-top: 10px;
+  padding-bottom: 0px;
+}
+.text__nmjoF {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  padding-top: 29px;
+  padding-bottom: 0px;
+  min-width: 0;
+  border-bottom: 2px solid var(--token-cFmhhOjrWFuI);
+}
+.text__pi0Zj {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  margin-top: 10px;
   padding-top: 0px;
   padding-bottom: 0px;
 }
-.ul__qC28 {
+.ul__zwriq {
   display: flex;
   flex-direction: column;
 }
-.ul__c2Owy {
+.ul__jssKj {
   display: flex;
   flex-direction: column;
 }
-.blockquote__tGp1C {
+.blockquote__sAayh {
   margin-left: 42px;
   padding-top: 0px;
   padding-bottom: 0px;
 }
-.ul__lj7Ns {
+.ul__pkaX {
   display: flex;
   flex-direction: column;
 }

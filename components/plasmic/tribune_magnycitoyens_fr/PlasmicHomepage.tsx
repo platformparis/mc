@@ -1,6 +1,6 @@
-// @ts-nocheck
 /* eslint-disable */
 /* tslint:disable */
+// @ts-nocheck
 /* prettier-ignore-start */
 
 /** @jsxRuntime classic */
@@ -208,6 +208,94 @@ function PlasmicHomepage__RenderFunc(props: {
                 className={"plasmic_default__all plasmic_default__span"}
                 style={{ fontWeight: 700, color: "var(--token-cFmhhOjrWFuI)" }}
               >
+                {"Compl\u00e9ment \u00e0 la tribune du "}
+              </span>
+              <React.Fragment>{"\n"}</React.Fragment>
+              <span
+                className={"plasmic_default__all plasmic_default__span"}
+                style={{
+                  fontWeight: 700,
+                  fontStyle: "italic",
+                  color: "var(--token-cFmhhOjrWFuI)"
+                }}
+              >
+                {"Magny Mag "}
+              </span>
+              <React.Fragment>{""}</React.Fragment>
+              <span
+                className={"plasmic_default__all plasmic_default__span"}
+                style={{ fontWeight: 700, color: "var(--token-cFmhhOjrWFuI)" }}
+              >
+                {"de mai 2025"}
+              </span>
+              <React.Fragment>
+                {"\nPubli\u00e9 le 26 avril 2025."}
+              </React.Fragment>
+            </React.Fragment>
+          </div>
+          <div
+            className={classNames(
+              projectcss.all,
+              projectcss.__wab_text,
+              sty.text__reGr8
+            )}
+          >
+            <React.Fragment>
+              <span
+                className={"plasmic_default__all plasmic_default__span"}
+                style={{ color: "#000000", fontWeight: 700 }}
+              >
+                {
+                  "Le 17 avril 2025, nous avons re\u00e7u une r\u00e9ponse \u00e0 notre email du 1er avril, dans lequel nous demandions les documents n\u00e9cessaires pour \u00e9valuer le co\u00fbt complet du suppl\u00e9ment d'avril 2025 du "
+                }
+              </span>
+              <React.Fragment>{""}</React.Fragment>
+              <span
+                className={"plasmic_default__all plasmic_default__span"}
+                style={{
+                  color: "#000000",
+                  fontWeight: 700,
+                  fontStyle: "italic"
+                }}
+              >
+                {"Magny Mag"}
+              </span>
+              <React.Fragment>{""}</React.Fragment>
+              <span
+                className={"plasmic_default__all plasmic_default__span"}
+                style={{ color: "#000000", fontWeight: 700 }}
+              >
+                {
+                  ", intitul\u00e9 \u00ab Ce que la ville fait pour vous \u00bb. Les \u00e9l\u00e9ments transmis, bien qu'incomplets, r\u00e9v\u00e8lent d\u00e9j\u00e0 plus de 10\u202f000\u202f\u20ac de d\u00e9penses.  "
+                }
+              </span>
+              <React.Fragment>
+                {
+                  " \u00a0\n\nCommen\u00e7ons par saluer l'envoi de cette r\u00e9ponse : il est malheureusement fr\u00e9quent qu'une saisine pr\u00e9alable de la CADA (Commission d'acc\u00e8s aux documents administratifs) soit n\u00e9cessaire pour obtenir de tels documents, ce qui en retarde l'acc\u00e8s de plusieurs mois.\n\nLes factures fournies chiffrent \u00e0 6\u00a0578\u00a0\u20ac la prestation de l'agence de communication et \u00e0 3\u00a0714\u00a0\u20ac l'impression du document, soit un total de 10\u00a0292\u00a0\u20ac. En revanche, la facture de distribution est manquante, bien que nous ayons explicitement demand\u00e9 \u00ab\u00a0tout document pertinent\u00a0\u00bb permettant d\u2019\u00e9valuer le co\u00fbt complet. Un devis aurait suffi.\n\nSans cette facture manquante, dans l'univers de la communication de M. Houillon on peut toujours soutenir qu'en retranchant la TVA (10% pour l'agence de communication, 20% pour l'imprimeur) on est bien \u00e0 \u00ab\u00a0moins de 10.000 euros\u00a0\u00bb, comme le pr\u00e9tendait le Maire en Conseil municipal.\n\nToutefois, dans le monde r\u00e9el, on est d\u00e9j\u00e0 \u00e0 plus de 10.000 euros, avec ou sans la fraction de TVA \"rembours\u00e9e\", et avant m\u00eame d'avoir \u00e9valu\u00e9 le co\u00fbt des agents qui ont travaill\u00e9 sur ce document.\n\n"
+                }
+              </React.Fragment>
+              <span
+                className={"plasmic_default__all plasmic_default__span"}
+                style={{ fontWeight: 700 }}
+              >
+                {
+                  "On a l\u00e0 l'illustration, via un cas concret, de la marque de fabrique de M. Houillon et de son \u00e9quipe : une communication soigneusement ma\u00eetris\u00e9e pour masquer une gestion tr\u00e8s approximative, o\u00f9 l'affichage prime sur la rigueur et la transparence r\u00e9elle. "
+                }
+              </span>
+            </React.Fragment>
+          </div>
+          <div
+            className={classNames(
+              projectcss.all,
+              projectcss.__wab_text,
+              sty.text__nmjoF
+            )}
+          >
+            <React.Fragment>
+              <span
+                className={"plasmic_default__all plasmic_default__span"}
+                style={{ fontWeight: 700, color: "var(--token-cFmhhOjrWFuI)" }}
+              >
                 {"Tribune du suppl\u00e9ment du "}
               </span>
               <React.Fragment>{"\n"}</React.Fragment>
@@ -237,7 +325,7 @@ function PlasmicHomepage__RenderFunc(props: {
             className={classNames(
               projectcss.all,
               projectcss.__wab_text,
-              sty.text__reGr8
+              sty.text__pi0Zj
             )}
           >
             <React.Fragment>
@@ -259,7 +347,7 @@ function PlasmicHomepage__RenderFunc(props: {
                   className={classNames(
                     projectcss.all,
                     projectcss.__wab_text,
-                    sty.blockquote__qpZ4W
+                    sty.blockquote__mga7Z
                   )}
                 >
                   {hasVariant(globalVariants, "screen", "desktopOnly") ? (
@@ -295,7 +383,7 @@ function PlasmicHomepage__RenderFunc(props: {
                   className={classNames(
                     projectcss.all,
                     projectcss.ul,
-                    sty.ul__qC28
+                    sty.ul__zwriq
                   )}
                 >
                   <li
@@ -303,7 +391,7 @@ function PlasmicHomepage__RenderFunc(props: {
                       projectcss.all,
                       projectcss.li,
                       projectcss.__wab_text,
-                      sty.li__xxEyn
+                      sty.li__pURc1
                     )}
                   >
                     {hasVariant(globalVariants, "screen", "desktopOnly") ? (
@@ -316,7 +404,7 @@ function PlasmicHomepage__RenderFunc(props: {
                               projectcss.a,
                               projectcss.__wab_text,
                               projectcss.plasmic_default__inline,
-                              sty.link___5KJj1
+                              sty.link__wKuJy
                             )}
                             component={Link}
                             href={
@@ -360,7 +448,7 @@ function PlasmicHomepage__RenderFunc(props: {
                               projectcss.a,
                               projectcss.__wab_text,
                               projectcss.plasmic_default__inline,
-                              sty.link___7EnY
+                              sty.link___5HUd
                             )}
                             component={Link}
                             href={`/sup-mail`}
@@ -388,7 +476,7 @@ function PlasmicHomepage__RenderFunc(props: {
                   className={classNames(
                     projectcss.all,
                     projectcss.ul,
-                    sty.ul__c2Owy
+                    sty.ul__jssKj
                   )}
                 >
                   <li
@@ -396,7 +484,7 @@ function PlasmicHomepage__RenderFunc(props: {
                       projectcss.all,
                       projectcss.li,
                       projectcss.__wab_text,
-                      sty.li__lvnuv
+                      sty.li__fgtug
                     )}
                   >
                     {hasVariant(globalVariants, "screen", "desktopOnly") ? (
@@ -413,7 +501,7 @@ function PlasmicHomepage__RenderFunc(props: {
                               projectcss.a,
                               projectcss.__wab_text,
                               projectcss.plasmic_default__inline,
-                              sty.link__p73V4
+                              sty.link__gJwFv
                             )}
                             component={Link}
                             href={"/sup-mail"}
@@ -449,7 +537,7 @@ function PlasmicHomepage__RenderFunc(props: {
                               projectcss.a,
                               projectcss.__wab_text,
                               projectcss.plasmic_default__inline,
-                              sty.link__qdXo8
+                              sty.link__diggn
                             )}
                             component={Link}
                             href={`/sup-mail`}
@@ -471,7 +559,7 @@ function PlasmicHomepage__RenderFunc(props: {
                   className={classNames(
                     projectcss.all,
                     projectcss.__wab_text,
-                    sty.blockquote__tGp1C
+                    sty.blockquote__sAayh
                   )}
                 >
                   {hasVariant(globalVariants, "screen", "desktopOnly") ? (
@@ -505,7 +593,7 @@ function PlasmicHomepage__RenderFunc(props: {
                   className={classNames(
                     projectcss.all,
                     projectcss.ul,
-                    sty.ul__lj7Ns
+                    sty.ul__pkaX
                   )}
                 >
                   <li
@@ -513,7 +601,7 @@ function PlasmicHomepage__RenderFunc(props: {
                       projectcss.all,
                       projectcss.li,
                       projectcss.__wab_text,
-                      sty.li___7Pn0N
+                      sty.li__u8IUn
                     )}
                   >
                     {hasVariant(globalVariants, "screen", "desktopOnly") ? (
@@ -530,7 +618,7 @@ function PlasmicHomepage__RenderFunc(props: {
                               projectcss.a,
                               projectcss.__wab_text,
                               projectcss.plasmic_default__inline,
-                              sty.link__a4KpQ
+                              sty.link__jnJ0L
                             )}
                             component={Link}
                             href={
@@ -572,7 +660,7 @@ function PlasmicHomepage__RenderFunc(props: {
                               projectcss.a,
                               projectcss.__wab_text,
                               projectcss.plasmic_default__inline,
-                              sty.link__hZTvt
+                              sty.link__gMfUq
                             )}
                             component={Link}
                             href={`/sup-sommaire`}
