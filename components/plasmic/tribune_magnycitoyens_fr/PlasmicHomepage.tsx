@@ -245,8 +245,22 @@ function PlasmicHomepage__RenderFunc(props: {
                 style={{ color: "#000000", fontWeight: 700 }}
               >
                 {
-                  "Apr\u00e8s les 10\u00a0620\u20ac presque \u00ab\u00a0tout compris\u00a0\u00bb, M. Houillon aimerait faire dispara\u00eetre la "
+                  "Apr\u00e8s les 10\u00a0620\u20ac presque \u00ab\u00a0tout compris\u00a0\u00bb, "
                 }
+              </span>
+              <React.Fragment>{"\n"}</React.Fragment>
+              <span
+                className={"plasmic_default__all plasmic_default__span"}
+                style={{ color: "#000000", fontWeight: 700 }}
+              >
+                {"M. Houillon aimerait faire dispara\u00eetre"}
+              </span>
+              <React.Fragment>{"\n"}</React.Fragment>
+              <span
+                className={"plasmic_default__all plasmic_default__span"}
+                style={{ color: "#000000", fontWeight: 700 }}
+              >
+                {"la "}
               </span>
               <React.Fragment>{""}</React.Fragment>
               <span
