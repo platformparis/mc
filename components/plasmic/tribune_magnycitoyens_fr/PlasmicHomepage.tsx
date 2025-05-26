@@ -117,6 +117,7 @@ function PlasmicHomepage__RenderFunc(props: {
   };
 
   const __nextRouter = useNextRouter();
+
   const $ctx = useDataEnv?.() || {};
   const refsRef = React.useRef({});
   const $refs = refsRef.current;
@@ -226,6 +227,184 @@ function PlasmicHomepage__RenderFunc(props: {
                 className={"plasmic_default__all plasmic_default__span"}
                 style={{ fontWeight: 700, color: "var(--token-cFmhhOjrWFuI)" }}
               >
+                {"de l'\u00e9t\u00e9 2025"}
+              </span>
+              <React.Fragment>{"\nPubli\u00e9 le 26 mai 2025."}</React.Fragment>
+            </React.Fragment>
+          </div>
+          <div
+            className={classNames(
+              projectcss.all,
+              projectcss.__wab_text,
+              sty.text__reGr8
+            )}
+          >
+            <React.Fragment>
+              <span
+                className={"plasmic_default__all plasmic_default__span"}
+                style={{ color: "#000000", fontWeight: 700 }}
+              >
+                {
+                  "Apr\u00e8s les 10\u00a0620\u20ac presque \u00ab\u00a0tout compris\u00a0\u00bb, M. Houillon aimerait faire dispara\u00eetre la "
+                }
+              </span>
+              <React.Fragment>{""}</React.Fragment>
+              <span
+                className={"plasmic_default__all plasmic_default__span"}
+                style={{ fontWeight: 700 }}
+              >
+                {"tribune de l\u2019opposition"}
+              </span>
+              <React.Fragment>{""}</React.Fragment>
+              {
+                <PlasmicLink__
+                  className={classNames(
+                    projectcss.all,
+                    projectcss.a,
+                    projectcss.__wab_text,
+                    projectcss.plasmic_default__inline,
+                    sty.link__f9SG
+                  )}
+                  component={Link}
+                  href={
+                    "/plasmic/tribune_magnycitoyens_fr/images/tribuneMagnyMag.pdf"
+                  }
+                  platform={"nextjs"}
+                >
+                  {""}
+                </PlasmicLink__>
+              }
+              <React.Fragment>
+                {
+                  "\nL\u2019ensemble de nos informations est confirm\u00e9. Le suppl\u00e9ment de 52 pages \u00e9voqu\u00e9 dans\nnotre pr\u00e9c\u00e9dente tribune vous a finalement co\u00fbt\u00e9 10\u00a0620 \u20ac \u00ab tout compris \u00bb selon le Maire - impression, distribution, agence de communication\u2026 mais toujours sans compter le temps de travail des agents municipaux.\n\nDepuis, une partie des Magnycois a \u00e9galement re\u00e7u une nouvelle communication du Maire,\ncette fois pour affirmer que la situation s\u2019am\u00e9liore au Buisson. Fid\u00e8le \u00e0 ses habitudes, il en\nprofite pour attaquer violemment non pas ceux qui causent les troubles, mais ceux qui ne\npartagent pas sa politique de l\u2019autruche. R\u00e9sultat : la peur de subir ses foudres pousse\nbeaucoup au silence. Pourtant, la r\u00e9alit\u00e9, elle, ne change pas.\n\nMais M. Houillon se heurte d\u00e9sormais \u00e0 un obstacle : six mois avant les \u00e9lections municipales, la loi l\u2019emp\u00eache de faire financer ce genre de communication partisane par le budget communal. Il aimerait donc faire \u00e9galement dispara\u00eetre notre tribune, contre laquelle il mobilise chaque mois ses adjoints et ses soutiens.\n\nTrop gros ? Trop anti-d\u00e9mocratique ? Pas pour M. Houillon. Il nous a m\u00eame \u00e9crit pour nous\nproposer\u2026 de suspendre purement et simplement, d\u00e8s la rentr\u00e9e de septembre et jusqu\u2019aux \u00e9lections municipales de l\u2019an prochain, l\u2019espace d\u2019expression libre du Magny Mag !\n\nOr cette tribune existe pr\u00e9cis\u00e9ment parce que la loi entend garantir un minimum de pluralisme, face \u00e0 la mainmise de la majorit\u00e9 sur les publications municipales. Elle pr\u00e9voit aussi qu\u2019\u00e0 l\u2019approche des \u00e9lections (dans les six mois pr\u00e9c\u00e9dant le scrutin) le Maire et son \u00e9quipe ne puissent plus utiliser les moyens de la commune pour diffuser brochures co\u00fbteuses et tracts vindicatifs.\n\nCes quelques principes ne sont pas accessoires : ils sont le fondement d\u2019un d\u00e9bat d\u00e9mocratique \u00e9quitable. Et nous continuerons \u00e0 les d\u00e9fendre.\n\nNous vous souhaitons un bel \u00e9t\u00e9 et vous donnons rendez-vous en septembre prochain dans cet espace d\u2019expression qui d\u00e9range tant M. Houillon et son \u00e9quipe.\n\nRetrouvez "
+                }
+              </React.Fragment>
+              {
+                <PlasmicLink__
+                  className={classNames(
+                    projectcss.all,
+                    projectcss.a,
+                    projectcss.__wab_text,
+                    projectcss.plasmic_default__inline,
+                    sty.link___8NnE0
+                  )}
+                  component={Link}
+                  href={
+                    "/plasmic/tribune_magnycitoyens_fr/images/tribuneMagnyMag.pdf"
+                  }
+                  platform={"nextjs"}
+                >
+                  {"le courrier lunaire de M. Houillon via ce lien"}
+                </PlasmicLink__>
+              }
+              <React.Fragment>
+                {", et notre r\u00e9ponse ci-apr\u00e8s."}
+              </React.Fragment>
+            </React.Fragment>
+          </div>
+          <div
+            className={classNames(
+              projectcss.all,
+              projectcss.__wab_text,
+              sty.text__smZCo
+            )}
+          >
+            <React.Fragment>
+              <React.Fragment>{""}</React.Fragment>
+              {
+                <PlasmicLink__
+                  className={classNames(
+                    projectcss.all,
+                    projectcss.a,
+                    projectcss.__wab_text,
+                    projectcss.plasmic_default__inline,
+                    sty.link__vKj6D
+                  )}
+                  component={Link}
+                  href={
+                    "/plasmic/tribune_magnycitoyens_fr/images/tribuneMagnyMag.pdf"
+                  }
+                  platform={"nextjs"}
+                >
+                  {""}
+                </PlasmicLink__>
+              }
+              <React.Fragment>
+                {
+                  "Monsieur le Maire,\n\nComme vous le savez, la tribune de l\u2019opposition est de droit. En effet, l\u2019article L.2121-27-1 du CGCT dispose :\n\n\u00ab "
+                }
+              </React.Fragment>
+              <span
+                className={"plasmic_default__all plasmic_default__span"}
+                style={{ fontStyle: "italic" }}
+              >
+                {
+                  "Dans les communes de 1 000 habitants et plus, lorsque des informations g\u00e9n\u00e9rales sur les r\u00e9alisations et sur la gestion du conseil municipal sont diffus\u00e9es par la commune, un espace est r\u00e9serv\u00e9 \u00e0 l'expression des conseillers \u00e9lus sur une liste autre que celle ayant obtenu le plus de voix lors du dernier renouvellement du conseil municipal ou ayant d\u00e9clar\u00e9 ne pas appartenir \u00e0 la majorit\u00e9 municipale."
+                }
+              </span>
+              <React.Fragment>
+                {
+                  " \u00bb\n\nVous avez souhait\u00e9, par la voie du r\u00e8glement int\u00e9rieur, que cette obligation l\u00e9gale soit agr\u00e9ment\u00e9e de tribunes de la majorit\u00e9 municipale. Aucun texte de loi ne le pr\u00e9voit, c\u2019est au contraire pour compenser le contr\u00f4le par la majorit\u00e9 des publications municipales que le l\u00e9gislateur a introduit cette obligation l\u00e9gale.\n\nD\u00e8s lors, en p\u00e9riode \u00e9lectorale, ces tribunes de la majorit\u00e9 posent probl\u00e8me, du fait de l\u2019article L52-8 du code \u00e9lectoral qui dispose : \u00ab "
+                }
+              </React.Fragment>
+              <span
+                className={"plasmic_default__all plasmic_default__span"}
+                style={{ fontStyle: "italic" }}
+              >
+                {
+                  "Les personnes morales, \u00e0 l'exception des partis ou groupements politiques, ne peuvent participer au financement de la campagne \u00e9lectorale d'un candidat, ni en lui consentant des dons sous quelque forme que ce soit, ni en lui fournissant des biens, services ou autres avantages directs ou indirects \u00e0 des prix inf\u00e9rieurs \u00e0 ceux qui sont habituellement pratiqu\u00e9s."
+                }
+              </span>
+              <React.Fragment>
+                {
+                  " \u00bb\n\nPour ce qui concerne la tribune de l\u2019opposition, le Conseil d\u2019\u00c9tat a arr\u00eat\u00e9 (CE, 7 mai 2012, Elections cantonales de Saint-Cloud n\u00b0 353536) :\n\n\u00ab "
+                }
+              </React.Fragment>
+              <span
+                className={"plasmic_default__all plasmic_default__span"}
+                style={{ fontStyle: "italic" }}
+              >
+                {
+                  "Consid\u00e9rant qu'il r\u00e9sulte des dispositions de l'article L. 2121-27-1 du code g\u00e9n\u00e9ral des collectivit\u00e9s territoriales que la commune est tenue de r\u00e9server dans son bulletin d'information municipale, lorsqu'elle diffuse un tel bulletin, un espace d'expression r\u00e9serv\u00e9 \u00e0 l'opposition municipale ; que la commune ne saurait contr\u00f4ler le contenu des articles publi\u00e9s dans ce cadre, qui n'engagent que la responsabilit\u00e9 de leurs auteurs ; que dans ces conditions, si de tels articles sont susceptibles d'\u00eatre regard\u00e9s, en fonction de leur contenu et de leur date de parution, comme des \u00e9l\u00e9ments de propagande \u00e9lectorale de leurs auteurs, ils ne sauraient \u00eatre assimil\u00e9s \u00e0 des dons \u00e9manant de la commune, personne morale, au sens des dispositions de l'article L. 52-8 du code \u00e9lectoral ;"
+                }
+              </span>
+              <React.Fragment>
+                {
+                  " \u00bb\n\nNous prenons acte de votre souhait d\u2019interrompre les tribunes de la majorit\u00e9 au regard des risques juridiques qu\u2019elles vous font courir. N\u00e9anmoins, ces risques ne concernent pas la tribune de l\u2019opposition.\n\nNous poursuivrons donc nos envois de la tribune d'opposition chaque mois. \n\nVeuillez agr\u00e9er mes salutations les meilleures"
+                }
+              </React.Fragment>
+            </React.Fragment>
+          </div>
+          <div
+            className={classNames(
+              projectcss.all,
+              projectcss.__wab_text,
+              sty.text__xcv4Q
+            )}
+          >
+            <React.Fragment>
+              <span
+                className={"plasmic_default__all plasmic_default__span"}
+                style={{ fontWeight: 700, color: "var(--token-cFmhhOjrWFuI)" }}
+              >
+                {"Compl\u00e9ment \u00e0 la tribune du "}
+              </span>
+              <React.Fragment>{"\n"}</React.Fragment>
+              <span
+                className={"plasmic_default__all plasmic_default__span"}
+                style={{
+                  fontWeight: 700,
+                  fontStyle: "italic",
+                  color: "var(--token-cFmhhOjrWFuI)"
+                }}
+              >
+                {"Magny Mag "}
+              </span>
+              <React.Fragment>{""}</React.Fragment>
+              <span
+                className={"plasmic_default__all plasmic_default__span"}
+                style={{ fontWeight: 700, color: "var(--token-cFmhhOjrWFuI)" }}
+              >
                 {"de mai 2025"}
               </span>
               <React.Fragment>
@@ -237,7 +416,7 @@ function PlasmicHomepage__RenderFunc(props: {
             className={classNames(
               projectcss.all,
               projectcss.__wab_text,
-              sty.text__reGr8
+              sty.text__kv1Cv
             )}
           >
             <React.Fragment>
