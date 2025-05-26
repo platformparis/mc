@@ -242,7 +242,7 @@ function PlasmicHomepage__RenderFunc(props: {
             <React.Fragment>
               <span
                 className={"plasmic_default__all plasmic_default__span"}
-                style={{ color: "#000000", fontWeight: 700 }}
+                style={{ fontWeight: 700, color: "#000000" }}
               >
                 {
                   "Apr\u00e8s les 10\u00a0620\u20ac presque \u00ab\u00a0tout compris\u00a0\u00bb, "
@@ -251,23 +251,16 @@ function PlasmicHomepage__RenderFunc(props: {
               <React.Fragment>{"\n"}</React.Fragment>
               <span
                 className={"plasmic_default__all plasmic_default__span"}
-                style={{ color: "#000000", fontWeight: 700 }}
+                style={{ fontWeight: 700, color: "#000000" }}
               >
                 {"M. Houillon aimerait faire dispara\u00eetre"}
               </span>
               <React.Fragment>{"\n"}</React.Fragment>
               <span
                 className={"plasmic_default__all plasmic_default__span"}
-                style={{ color: "#000000", fontWeight: 700 }}
+                style={{ fontWeight: 700, color: "#000000" }}
               >
-                {"la "}
-              </span>
-              <React.Fragment>{""}</React.Fragment>
-              <span
-                className={"plasmic_default__all plasmic_default__span"}
-                style={{ fontWeight: 700 }}
-              >
-                {"tribune de l\u2019opposition"}
+                {"la tribune de l\u2019opposition"}
               </span>
               <React.Fragment>{""}</React.Fragment>
               {
@@ -284,6 +277,7 @@ function PlasmicHomepage__RenderFunc(props: {
                     "/plasmic/tribune_magnycitoyens_fr/images/tribuneMagnyMag.pdf"
                   }
                   platform={"nextjs"}
+                  target={"_blank"}
                 >
                   {""}
                 </PlasmicLink__>
@@ -307,6 +301,7 @@ function PlasmicHomepage__RenderFunc(props: {
                     "/plasmic/tribune_magnycitoyens_fr/images/tribuneMagnyMag.pdf"
                   }
                   platform={"nextjs"}
+                  target={"_blank"}
                 >
                   {"le courrier lunaire de M. Houillon via ce lien"}
                 </PlasmicLink__>
