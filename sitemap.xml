@@ -21,6 +21,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
+  <!-- Markdown mirror of the tribune -->
+  <url>
+    <loc>https://tribune.magnycitoyens.fr/tribune.md</loc>
+    <lastmod>2025-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
   <!-- Supplement and source pages referenced on the homepage -->
   <url>
     <loc>https://tribune.magnycitoyens.fr/sup-mail/</loc>
