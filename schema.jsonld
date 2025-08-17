@@ -1,0 +1,139 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://tribune.magnycitoyens.fr/#organization",
+      "name": "Magny Citoyens",
+      "url": "https://tribune.magnycitoyens.fr/",
+      "logo": "https://tribune.magnycitoyens.fr/plasmic/tribune_magnycitoyens_fr/images/logoBvrPng.png"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://tribune.magnycitoyens.fr/#website",
+      "url": "https://tribune.magnycitoyens.fr/",
+      "name": "Tribune du Magny Mag",
+      "publisher": {
+        "@id": "https://tribune.magnycitoyens.fr/#organization"
+      },
+      "inLanguage": "fr",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://tribune.magnycitoyens.fr/?s={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://tribune.magnycitoyens.fr/#itemlist",
+      "name": "Tribunes et compléments",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": { "@id": "https://tribune.magnycitoyens.fr/#tribune-ete-2025" }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": { "@id": "https://tribune.magnycitoyens.fr/#tribune-mai-2025" }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": { "@id": "https://tribune.magnycitoyens.fr/#tribune-avril-2025" }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": { "@id": "https://tribune.magnycitoyens.fr/#tribune-decembre-2024" }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": { "@id": "https://tribune.magnycitoyens.fr/#tribune-juin-2024" }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item": { "@id": "https://tribune.magnycitoyens.fr/#tribune-mai-2024" }
+        }
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://tribune.magnycitoyens.fr/#tribune-ete-2025",
+      "url": "https://tribune.magnycitoyens.fr/#tribune-ete-2025",
+      "headline": "Complément à la tribune du Magny Mag — Été 2025",
+      "datePublished": "2025-05-26",
+      "dateModified": "2025-05-26",
+      "inLanguage": "fr",
+      "publisher": { "@id": "https://tribune.magnycitoyens.fr/#organization" },
+      "author": {
+        "@type": "Person",
+        "name": "Groupe d'opposition Magny Citoyens"
+      },
+      "description": "Complément d'été 2025 : analyse des dépenses et proposition de suspendre la tribune."
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://tribune.magnycitoyens.fr/#tribune-mai-2025",
+      "url": "https://tribune.magnycitoyens.fr/#tribune-mai-2025",
+      "headline": "Complément à la tribune du Magny Mag — Mai 2025",
+      "datePublished": "2025-04-26",
+      "dateModified": "2025-04-26",
+      "inLanguage": "fr",
+      "publisher": { "@id": "https://tribune.magnycitoyens.fr/#organization" },
+      "author": { "@type": "Person", "name": "Groupe d'opposition Magny Citoyens" },
+      "description": "Réponse aux questions sur le coût du supplément d'avril 2025, détaillant les dépenses de communication."
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://tribune.magnycitoyens.fr/#tribune-avril-2025",
+      "url": "https://tribune.magnycitoyens.fr/#tribune-avril-2025",
+      "headline": "Tribune du supplément du Magny Mag — Avril 2025",
+      "datePublished": "2025-03-26",
+      "dateModified": "2025-03-26",
+      "inLanguage": "fr",
+      "publisher": { "@id": "https://tribune.magnycitoyens.fr/#organization" },
+      "author": { "@type": "Person", "name": "Groupe d'opposition Magny Citoyens" },
+      "description": "Analyse critique du supplément d'avril 2025 et des hausses d'impôts communaux."
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://tribune.magnycitoyens.fr/#tribune-decembre-2024",
+      "url": "https://tribune.magnycitoyens.fr/#tribune-decembre-2024",
+      "headline": "Tribune du Magny Mag — Décembre 2024 (complément)",
+      "datePublished": "2024-12-01",
+      "dateModified": "2024-12-13",
+      "inLanguage": "fr",
+      "publisher": { "@id": "https://tribune.magnycitoyens.fr/#organization" },
+      "author": { "@type": "Person", "name": "Groupe d'opposition Magny Citoyens" },
+      "description": "Réponse à une lettre ouverte publiée par le maire et discussion sur la fiscalité et les dotations de l'État."
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://tribune.magnycitoyens.fr/#tribune-juin-2024",
+      "url": "https://tribune.magnycitoyens.fr/#tribune-juin-2024",
+      "headline": "Tribune du Magny Mag — Juin 2024",
+      "datePublished": "2024-05-13",
+      "dateModified": "2024-05-13",
+      "inLanguage": "fr",
+      "publisher": { "@id": "https://tribune.magnycitoyens.fr/#organization" },
+      "author": { "@type": "Person", "name": "Groupe d'opposition Magny Citoyens" },
+      "description": "Tribune intitulée \"Enfumage et opacité, la suite\": mise au point sur une plainte classée sans suite et critiques des méthodes de communication du maire."
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://tribune.magnycitoyens.fr/#tribune-mai-2024",
+      "url": "https://tribune.magnycitoyens.fr/#tribune-mai-2024",
+      "headline": "Tribune du Magny Mag — Mai 2024",
+      "datePublished": "2024-03-29",
+      "dateModified": "2024-03-29",
+      "inLanguage": "fr",
+      "publisher": { "@id": "https://tribune.magnycitoyens.fr/#organization" },
+      "author": { "@type": "Person", "name": "Groupe d'opposition Magny Citoyens" },
+      "description": "Tribune budget 2024: critique de l'augmentation des impôts communaux et comparaison des taux."
+    }
+  ]
+}

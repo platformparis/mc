@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- XML sitemap generated for tribune.magnycitoyens.fr. For more URLs, add additional <url> entries. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Homepage -->
+  <url>
+    <loc>https://tribune.magnycitoyens.fr/</loc>
+    <lastmod>2025-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <!-- Machine-readable context files for LLMs -->
+  <url>
+    <loc>https://tribune.magnycitoyens.fr/llms.txt</loc>
+    <lastmod>2025-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://tribune.magnycitoyens.fr/llms-full.txt</loc>
+    <lastmod>2025-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <!-- Supplement and source pages referenced on the homepage -->
+  <url>
+    <loc>https://tribune.magnycitoyens.fr/sup-mail/</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://tribune.magnycitoyens.fr/sup-sommaire/</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://tribune.magnycitoyens.fr/fb2020/</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://tribune.magnycitoyens.fr/fb2023/</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://tribune.magnycitoyens.fr/mhtaux/</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://tribune.magnycitoyens.fr/str2012/</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://tribune.magnycitoyens.fr/str2020/</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://tribune.magnycitoyens.fr/str2021/</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
