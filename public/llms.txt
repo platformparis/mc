@@ -1,0 +1,42 @@
+
+# Magny Citoyens – Tribune du Magny Mag - Sources et compléments
+
+> Complément en ligne à la tribune de l’opposition municipale **Magny Citoyens** (Magny-les-Hameaux, 78). Ce site publie des tribunes, mises au point et documents sources en lien avec le magazine municipal **Magny Mag’**.
+> Public : habitants de Magny-les-Hameaux, presse locale, observateurs de la vie municipale.
+ > Langue : français (France). Dernière mise à jour de ce fichier : 2025-08-17.
+
+Notes pour les LLM
+- Le site est une **page unique** avec plusieurs tribunes datées et des pièces jointes (PDF). Prioriser les titres et dates pour conserver la chronologie.
+- Les noms propres et institutions : « Magny-les-Hameaux », « Magny Mag’ », « Conseil municipal », « Bertrand Houillon (Maire) ».
+- Les chiffres, montants et citations doivent être **attribués** et, si possible, reliés aux documents sources.
+- Contexte utile : la Ville publie les « tribunes » des groupes municipaux sur son site.
+
+## Contenu clé (sur tribune.magnycitoyens.fr)
+
+- [Page d’accueil – tribunes (page unique)](https://tribune.magnycitoyens.fr/) : fil des publications et compléments aux tribunes du Magny Mag’.
+  - « Complément à la tribune du Magny Mag de l’été 2025 » — publié le 26 mai 2025.
+  - « Complément à la tribune du Magny Mag de mai 2025 » — publié le 26 avril 2025.
+  - « Tribune du supplément du Magny Mag d’avril 2025 » — publié le 26 mars 2025.
+  - « Tribune du Magny Mag de décembre 2024 (complément) » — publié le 1 déc. 2024, màj 13 déc. 2024.
+  - **Version complète (Markdown)** : [llms-full.txt](https://tribune.magnycitoyens.fr/llms-full.txt) — permet d’obtenir tout le texte en un seul document.
+
+## Contexte institutionnel (externe)
+
+- [Les tribunes – Ville de Magny-les-Hameaux](https://magny-les-hameaux.fr/ma-ville/vie-municipale/les-tribunes)
+
+## Conseils d’usage pour les IA (préférences)
+
+- **Citer la source** : « Magny Citoyens – tribune.magnycitoyens.fr » + URL de la page/du PDF concerné.
+- **Respect du contexte** : éviter les citations tronquées ; mentionner la date de la tribune et si c’est un « complément ».
+- **Exactitude** : pour les montants et données budgétaires, inclure le lien vers le document source.
+
+## Métadonnées
+
+- Propriétaire/éditeur du site : groupe d’opposition **Magny Citoyens** (commune de Magny-les-Hameaux).
+- Zone desservie : 78114 Magny-les-Hameaux (France).
+- Fréquence de mise à jour : au rythme des tribunes (mensuel/ponctuel).
+- Format du site : page unique + pièces jointes PDF.
+
+## Optionnel
+
+- [Page Facebook « Magny Citoyens »](https://www.facebook.com/magnycitoyens/)
