@@ -1,0 +1,318 @@
+
+# Tribune du Magny Mag — Version complète (Markdown)
+>
+> **Dernière mise à jour :** 2025-08-17
+
+---
+
+## Complément à la tribune du Magny Mag – Été 2025
+**Publié le 26 mai 2025.**
+
+Après les 10 620 € presque « tout compris », M. Houillon aimerait faire disparaître la tribune de l’opposition. L’ensemble de nos informations est confirmé. Le supplément de 52 pages évoqué dans notre précédente tribune vous a finalement coûté 10 620 € « tout compris » selon le Maire : impression, distribution, agence de communication… mais toujours sans compter le temps de travail des agents municipaux.
+
+Depuis, une partie des Magnycois a également reçu une nouvelle communication du Maire, cette fois pour affirmer que la situation s’améliore au Buisson. Fidèle à ses habitudes, il en profite pour attaquer violemment non pas ceux qui causent les troubles, mais ceux qui ne partagent pas sa politique de l’autruche. Résultat : la peur de subir ses foudres pousse beaucoup au silence. Pourtant, la réalité, elle, ne change pas.
+
+Mais M. Houillon se heurte désormais à un obstacle : six mois avant les élections municipales, la loi l’empêche de faire financer ce genre de communication partisane par le budget communal. Il aimerait donc faire également disparaître notre tribune, contre laquelle il mobilise chaque mois ses adjoints et ses soutiens. Trop gros ? Trop anti‑démocratique ? Pas pour M. Houillon. Il nous a même écrit pour nous proposer… de suspendre purement et simplement, dès la rentrée de septembre et jusqu’aux élections municipales de l’an prochain, l’espace d’expression libre du **Magny Mag** !
+
+Or cette tribune existe précisément parce que la loi entend garantir un minimum de pluralisme, face à la mainmise de la majorité sur les publications municipales. Elle prévoit aussi qu’à l’approche des élections (dans les six mois précédant le scrutin) le Maire et son équipe ne puissent plus utiliser les moyens de la commune pour diffuser brochures coûteuses et tracts vindicatifs. Ces quelques principes ne sont pas accessoires : ils sont le fondement d’un débat démocratique équitable. Et nous continuerons à les défendre.
+
+Nous vous souhaitons un bel été et vous donnons rendez-vous en septembre prochain dans cet espace d’expression qui dérange tant M. Houillon et son équipe.
+
+Retrouvez [le courrier lunaire de M. Houillon via ce lien](/plasmic/tribune_magnycitoyens_fr/images/tribuneMagnyMag.pdf), et notre réponse ci-après.
+
+### Lettre adressée au Maire
+Monsieur le Maire,
+
+Comme vous le savez, la tribune de l’opposition est de droit. En effet, l’article **L.2121‑27‑1** du CGCT dispose :
+
+> « Dans les communes de 1 000 habitants et plus, lorsque des informations générales sur les réalisations et sur la gestion du conseil municipal sont diffusées par la commune, un espace est réservé à l'expression des conseillers élus sur une liste autre que celle ayant obtenu le plus de voix lors du dernier renouvellement du conseil municipal ou ayant déclaré ne pas appartenir à la majorité municipale. »
+
+Vous avez souhaité, par la voie du règlement intérieur, que cette obligation légale soit agrémentée de tribunes de la majorité municipale. Aucun texte de loi ne le prévoit ; c’est au contraire pour compenser le contrôle par la majorité des publications municipales que le législateur a introduit cette obligation légale.
+
+Dès lors, en période électorale, ces tribunes de la majorité posent problème, du fait de l’article **L52‑8** du code électoral qui dispose :
+
+> « Les personnes morales, à l'exception des partis ou groupements politiques, ne peuvent participer au financement de la campagne électorale d'un candidat, ni en lui consentant des dons sous quelque forme que ce soit, ni en lui fournissant des biens, services ou autres avantages directs ou indirects à des prix inférieurs à ceux qui sont habituellement pratiqués. »
+
+Pour ce qui concerne la tribune de l’opposition, le **Conseil d’État** a arrêté (CE, 7 mai 2012, *Élections cantonales de Saint‑Cloud* n° 353536) :
+
+> « Considérant qu'il résulte des dispositions de l'article L. 2121‑27‑1 du code général des collectivités territoriales que la commune est tenue de réserver dans son bulletin d'information municipale, lorsqu'elle diffuse un tel bulletin, un espace d'expression réservé à l'opposition municipale ; que la commune ne saurait contrôler le contenu des articles publiés dans ce cadre, qui n'engagent que la responsabilité de leurs auteurs ; que dans ces conditions, si de tels articles sont susceptibles d'être regardés, en fonction de leur contenu et de leur date de parution, comme des éléments de propagande électorale de leurs auteurs, ils ne sauraient être assimilés à des dons émanant de la commune, personne morale, au sens de l'article L. 52‑8 du code électoral ; »
+
+Nous prenons acte de votre souhait d’interrompre les tribunes de la majorité au regard des risques juridiques qu’elles vous font courir. **Néanmoins, ces risques ne concernent pas la tribune de l’opposition.** Nous poursuivrons donc nos envois de la tribune d'opposition chaque mois.
+
+Veuillez agréer mes salutations les meilleures.
+
+---
+
+## Complément à la tribune du Magny Mag – Mai 2025
+**Publié le 26 avril 2025.**
+
+Le **17 avril 2025**, nous avons reçu une réponse à notre email du 1ᵉʳ avril, dans lequel nous demandions les documents nécessaires pour évaluer le coût complet du supplément d’avril 2025 du **Magny Mag**, intitulé « Ce que la ville fait pour vous ». Les éléments transmis, bien qu’incomplets, révèlent déjà **plus de 10 000 €** de dépenses.
+
+Commençons par saluer l’envoi de cette réponse : il est malheureusement fréquent qu’une saisine préalable de la **CADA** (Commission d’accès aux documents administratifs) soit nécessaire pour obtenir de tels documents, ce qui en retarde l’accès de plusieurs mois.
+
+Les factures fournies chiffrent à **6 578 €** la prestation de l’agence de communication et à **3 714 €** l’impression du document, soit un total de **10 292 €**. En revanche, la facture de distribution est manquante, bien que nous ayons explicitement demandé « tout document pertinent » permettant d’évaluer le coût complet. Un devis aurait suffi.
+
+Sans cette facture manquante, dans l’univers de la communication de M. Houillon on peut toujours soutenir qu’en retranchant la TVA (10 % pour l’agence de communication, 20 % pour l’imprimeur) on est bien à « moins de 10 000 euros », comme le prétendait le Maire en Conseil municipal. Toutefois, dans le monde réel, on est déjà à **plus de 10 000 euros**, avec ou sans la fraction de TVA « remboursée », et avant même d’avoir évalué le coût des agents qui ont travaillé sur ce document.
+
+On a là l’illustration, via un cas concret, de la **marque de fabrique** de M. Houillon et de son équipe : une communication soigneusement maîtrisée pour masquer une gestion très approximative, où l’affichage prime sur la rigueur et la transparence réelle.
+
+---
+
+## Tribune du supplément du Magny Mag – Avril 2025
+**Publié le 26 mars 2025.**
+
+Faute de pouvoir contester la **hausse de près de 25 %** du taux communal de taxe foncière depuis qu’il est maire, M. Houillon a choisi d’utiliser vos impôts pour financer un **document somptuaire de propagande**, distribué en avril 2025 à tous les habitants de la commune.
+
+Ce document étant payé par les contribuables de Magny, la loi impose d’y inclure une tribune de l’opposition. Mais comme nous l’avons écrit dans cette tribune :
+
+> « Comme c’est le maire qui décide de la façon dont cela se fait en pratique, il est intéressant de vous dire qu’au moment où nous écrivons ces lignes, nous n’avons qu’une très vague idée de ce que ce supplément contient. Nous devons commenter un document, sans le connaître. »
+
+Les faits sont édifiants :
+
+- **Notification tardive :** Nous avons été informés de la création de ce supplément le **vendredi 21 février 2025** et avons dû soumettre notre tribune avant le **vendredi 7 mars 2025**.
+- **Communication vague :** Voici comment ce document nous a été présenté dans ce mail :  
+  > « La commune va éditer un document en complément du Magny Mag d’avril, un document pédagogique synthétique sur les compétences et missions de la commune, en lien avec les autres collectivités et l’État, ainsi que sur les questions budgétaires associées. Il complète les dossiers déjà publiés sur ces sujets dans le Magny Mag. »
+- **Sommaire incomplet :** Nous avons alors demandé le chemin de fer du document (le plan détaillé permettant de connaître son contenu page par page). En réponse, nous n’avons reçu qu’un sommaire approximatif et incomplet.
+
+Ce supplément coûteux financé par l’argent public, peu respectueux de l’environnement, illustre une nouvelle fois le mépris de la majorité municipale pour la transparence et le débat démocratique. En ne fournissant pas à l’opposition les éléments nécessaires pour sa tribune, la municipalité prouve que la concertation dont elle se gargarise n’est qu’une façade. **Les Magnycois méritent mieux qu’une communication partisane déguisée en document « pédagogique ».** Ils méritent une gestion respectueuse de leurs impôts, un dialogue honnête et une véritable considération pour toutes les voix de la commune.
+
+---
+
+## Tribune du Magny Mag – Décembre 2024 (complément)
+**Complément publié le 1ᵉʳ décembre 2024.** — **Mise à jour le 13 décembre 2024.**
+
+M. Houillon a publié sur son compte Facebook une **lettre ouverte non signée** qui nous était adressée. Nous avons depuis récupéré ce courrier en Mairie et connaissons désormais son auteur. Conformément à son souhait, nous ne diffusons pas son nom. Voici notre réponse.
+
+Cher Monsieur,
+
+Nous avons pris connaissance de votre courrier sous forme de lettre ouverte non signée publiée par M. Houillon sur son compte Facebook. Connaissant désormais assez bien ses méthodes, nous avons attendu la suite de son plan de communication avant de vous répondre. Bien nous en a pris : après la publication non signée de votre courrier, M. Houillon a mobilisé l’édito du **Magny Mag** ainsi qu’une tribune de la majorité municipale, rédigée par Mme Dulac, pour réagir à notre tribune.
+
+Vous constaterez par vous-même qu’à aucun moment ils ne contestent le chiffre de **près de 25 %** de hausse du taux communal de taxe foncière depuis que M. Houillon est maire, ni la baisse de ce même taux sur la même période à **Saint‑Rémy‑lès‑Chevreuse**. Ils ne contestent pas davantage la note peu flatteuse attribuée par l’association **Contribuables Associés** concernant les dépenses de la commune. Bref, un bel exercice de rhétorique, faute de pouvoir contester les faits.
+
+Nous saluons votre esprit critique, qui vous amène à nous reprocher de n’avoir mentionné que la note attribuée par l’association Contribuables Associés pour les dépenses de notre commune (2,6/20). L’espace dont nous disposons dans le **Magny Mag** est en effet très limité (environ 1 400 signes). Cette note illustre parfaitement la problématique abordée dans notre tribune : lorsque les dépenses sont à ce point plus élevées qu’ailleurs, le premier réflexe devrait être de les réduire, plutôt que d’augmenter les impôts, et ce d’autant plus en période d’inflation.
+
+Concernant la **santé financière** de la commune, les « mérites » du faible endettement de Magny reviennent en réalité à la **Communauté d’agglomération de SQY**, qui a historiquement pris en charge les investissements de la commune. Voici ce que dit la **Chambre régionale des comptes** au sujet de la dette de SQY :
+
+> « Ce montant élevé d’endettement est lié à la prise en charge massive par l’ancienne CASQY des investissements de ses communes membres. »
+
+Source p. 4/61 : [Rapport CRC IDF 2021](https://www.ccomptes.fr/sites/default/files/2023-10/IDR2021-10.pdf).
+
+Il s’agit donc d’un simple artifice comptable : la ville a en réalité une dette importante, portée par la communauté d’agglomération, ce qui n’apparaît pas dans ses comptes. De ce fait, sa note de santé financière est très flatteuse, puisque sa dette réelle est portée par une autre entité. C’est une très bonne chose pour Magny, car elle bénéficie ainsi de charges financières nettement inférieures à la moyenne des communes comparables (environ 15 € de moins par habitant), ce qui rend encore moins acceptable que ses dépenses y soient nettement plus élevées que la moyenne.
+
+Nous n’avons donc pas mentionné la bonne note de santé financière de la commune (15,4/20) car il aurait fallu l’accompagner de ce contexte, ce qui n’était pas pertinent dans une tribune où l’espace est aussi restreint et consacrée à la hausse des impôts et à ses causes. Vous noterez, en revanche, que M. Houillon s’est attribué dans son éditorial les mérites de ce faible endettement, sans fournir ce contexte. Pour preuve de notre bonne foi, nous n’avons pas non plus mentionné l’appréciation globale attribuée à la gestion de M. Houillon et de son équipe pour l’ensemble de leur œuvre : « médiocre ». Si l’appréciation globale avait été positive et que nous l’avions passée sous silence, il aurait effectivement été malhonnête de notre part de ne mentionner que la mauvaise note des dépenses. Mais ce n’est pas le cas : l’appréciation globale est mauvaise.
+
+Il est toutefois dommage que votre esprit critique soit plus aiguisé à notre encontre qu’à l’égard du reste du **Magny Mag**. Vous auriez alors remarqué qu’en avril dernier, M. Houillon et son équipe ont consacré une page entière ainsi que l’édito à vanter les nombreux mérites du **budget 2024**, tout en « oubliant » de mentionner l’augmentation d’impôts votée avec. S’il est sain que vous doutiez de ce que l’opposition écrit, il serait peut-être encore plus sain d’appliquer la même vigilance à ce que disent M. Houillon et son équipe. Votre courrier, s’il avait demandé des comptes aux deux parties plutôt qu’à nous seuls, n’en aurait été que meilleur.
+
+Plutôt que la consternation et l’indignation qui ont accompagné la publication par le maire d’une lettre non signée d’attaques contre l’opposition, chacun y aurait vu les honnêtes interrogations d’un citoyen tentant de démêler le vrai du faux entre majorité et opposition concernant sa taxe foncière. Si tout ceci ne suffisait pas, M. Houillon et son équipe ont trouvé le moyen de faire pire. Ne pouvant contester la hausse du taux de taxe foncière à Magny, et sa baisse à **Saint‑Rémy‑lès‑Chevreuse**, ils se sont lancés dans une périlleuse opération pour tenter de la relativiser. Voici ce qu’écrit Mme Dulac :
+
+> « La moyenne de taxe foncière sur le bâti par habitant (avec correctifs de l’État) est de 849 € à Saint‑Rémy‑lès‑Chevreuse, 810 € à Chevreuse et… 699 € à Magny‑les‑Hameaux. »
+
+Que va comprendre le lecteur ? Qu’il y a peut-être eu une légère hausse à Magny, mais que c’est un simple rattrapage et qu’il reste encore de la marge par rapport à Saint‑Rémy. Or, Mme Dulac n’a pas indiqué la date de ces chiffres. **Nous le faisons pour elle : il s’agit de ceux de 2022.** Voici maintenant les chiffres de 2020, que vous pouvez vérifier par vous-même :
+
+- Magny‑les‑Hameaux : **454 €** par habitant  
+- Saint‑Rémy‑lès‑Chevreuse : **275 €** par habitant
+
+Vous avez bien lu : en 2020, le prélèvement de taxe foncière par habitant était **60 % plus élevé à Magny** qu’à Saint‑Rémy. Et soudain, deux ans plus tard, on voudrait nous faire croire que la tendance s’est inversée. Alors que Magny est la seule commune du « panel » de Mme Dulac à avoir augmenté son taux de taxe foncière !
+
+Il est consternant de voir des élus, investis de la confiance des habitants pour gérer les deniers publics, recourir à de telles pratiques. En 2021, la taxe d’habitation a été supprimée, et les communes ont récupéré en compensation la part de la taxe foncière auparavant perçue par le département. Pour éviter que cette suppression n’impacte les budgets des communes, l’État a mis en place un mécanisme complexe de compensation, ce que Mme Dulac appelle « les correctifs de l’État ». Voici la taxe d’habitation qui était prélevée en 2020 :
+
+- Magny‑les‑Hameaux : **247 €** par habitant  
+- Saint‑Rémy‑lès‑Chevreuse : **508 €** par habitant
+
+On comprend donc que le chiffre avancé par Mme Dulac ne reflète pas directement la taxe foncière payée par les habitants, mais le montant perçu par la commune **après** application des « correctifs de l’État ». Ce montant est inférieur à celui de Saint‑Rémy parce que la taxe d’habitation était historiquement plus faible à Magny.
+
+Qu’est-ce qui a réellement été prélevé sur les habitants en 2023 ? Vous pouvez le vérifier par vous-même :
+
+- Magny‑les‑Hameaux : **718 €** par habitant  
+- Saint‑Rémy‑lès‑Chevreuse : **607 €** par habitant
+
+Et qu’en est-il de la moyenne des communes comparables à Magny ? Elle s’élève à **548 €** par habitant, un chiffre que vous pouvez également vérifier.
+
+> **Conclusion :** Le lecteur du Magny Mag, après avoir été tenu dans l’ignorance de la hausse du taux de sa taxe foncière, repart tout heureux de la tribune de Mme Dulac, persuadé que sa commune prélève 150 € de moins sur ses habitants que sa voisine. En réalité, **Magny prélève 100 € de plus**, et **170 € de plus** que la moyenne des communes comparables. Pour une population estimée à 9 569 habitants, cela représente **1,6 million d’euros** !
+
+Au-delà de ce que cela révèle des méthodes de communication de M. Houillon et de son équipe, cela illustre de façon absolument limpide leur orientation idéologique d’extrême‑gauche, très éloignée de l’image de modérés qu’ils aiment donner d’eux.
+
+Avant la suppression de la taxe d’habitation, ils faisaient porter un effort fiscal disproportionné sur les Magnycois propriétaires de leur logement (pour rappel : **454 €** / habitant de taxe foncière en 2020, contre une moyenne de **277 €** / habitant). Et ils continuent de plus belle depuis, malgré l’inflation et alors que l’immense majorité des communes n’a pas augmenté ses taux d’imposition. Au rythme où vont les choses, les Magnycois propriétaires de leur logement vont bientôt payer une taxe foncière plus élevée que ce qu’ils versaient auparavant pour la taxe foncière et la taxe d’habitation réunies, alors même que la commune est compensée pour cette suppression.
+
+Reconnaissons une certaine habileté à M. Houillon et à son équipe : leur « astuce » des « correctifs de l’État » est difficile à démonter en 1 400 signes. Pour y parvenir ici, il nous a fallu plus du double. Nous avons donc préféré, dans le **Magny Mag**, répondre sur la martingale de M. Houillon, celle qu’il utilise systématiquement pour justifier toutes ses augmentations d’impôts depuis le début de ses mandats.
+
+> **Morale :** Ici aussi, la réalité diffère des fables de M. Houillon et de son équipe, dont la morale reste invariablement : « c’est pas nous, c’est les autres ».
+
+Le propos peut paraître hérétique aux oreilles magnycoises, bercées depuis des années par ces récits, mais, à ce jour, la seule personne à avoir baissé les dotations de l’État est **M. Hollande**. Son successeur, **M. Macron**, les a même très légèrement augmentées :
+
+![Dotations de l’État (image)](/plasmic/tribune_magnycitoyens_fr/images/_1Png.png)
+
+*Source : Rapport de la Cour des Comptes sur la dotation globale de fonctionnement, 15/07/2024 – [PDF](https://www.ccomptes.fr/sites/default/files/2024-10/20241009-S2024-1137-Dotation-globale-de-fonctionnement-DGF.pdf).*
+
+En revanche, les critères de répartition (ce que les spécialistes appellent la *péréquation*) ont favorisé les communes pauvres et/ou rurales, ce qui a entraîné des baisses pour les autres. Comme il est plus commode d’incriminer l’État que de s’en prendre aux communes moins favorisées, M. Houillon et son équipe ont redéfini la notion de « baisse des dotations de l’État ». À Magny, il s’agit des dotations de l’État au sens comptable, moins toutes les contributions de solidarité avec les communes moins favorisées que la nôtre. Cette interprétation permet d’obtenir le très impressionnant graphique suivant, mis à jour chaque année :
+
+![Graphique DGF 2023 (image)](/plasmic/tribune_magnycitoyens_fr/images/imgBa06E51Dfa691Jpeg.jpg)
+
+*Source : Rapport d’orientation budgétaire 2023, Commune de Magny-les-Hameaux.*
+
+Le problème avec une ficelle, c’est que plus elle est grosse, plus elle semble crédible. Nous y avons nous-mêmes cru, avant de comprendre à qui nous avions affaire. Mais une ficelle, aussi grosse soit-elle, finit par s’user et rompre à force d’être tirée.
+
+En 2023, les dotations de l’État à Magny ont augmenté, notamment du fait de son caractère rural. Et même en tenant compte des ponctions de solidarité, M. Houillon et son équipe ne parviennent qu’à une baisse de 8 k€. Pourtant, leur graphique, ci-dessus, prévoyait en 2023 une baisse de **77 k€**. Ce graphique n’est pas anodin : il provient du **rapport d’orientation budgétaire**, document que la loi oblige à fournir à tous les conseillers municipaux pour éclairer leur vote sur le budget de la commune. Ces derniers ont donc été « éclairés » par une prévision de baisse de 77 000 €, qui s’est avérée dix fois moindre. Cette prévision a cependant servi à justifier la hausse de la taxe foncière en 2023 (**608 000 € supplémentaires** dans les caisses communales en 2023). Dans le rapport 2024, le graphique corrige le chiffre de 2023, mais ne s’aventure plus à fournir de prévisions :
+
+![Graphique DGF 2024 (image)](/plasmic/tribune_magnycitoyens_fr/images/img2600Jpg2.jpg)
+
+*Source : Rapport d’orientation budgétaire 2024, Commune de Magny-les-Hameaux.*
+
+Pourtant, l’argument de la baisse des dotations de l’État, accompagné de la hausse du taux de la taxe foncière, perdure. Certains possèdent des boucliers d’invincibilité ; M. Houillon et son équipe, eux, disposent de **« boucliers de défausse »**. Quand ce n’est pas l’opposition, assimilée à l’extrême-droite, quand ce n’est pas la Communauté d’agglomération de SQY, le Département ou la Région, c’est le bouclier ultime et imparable : **l’État**. M. Houillon et ses alliés poursuivent ainsi leur fuite en avant.
+
+Voici quelques idées d’« éléments de langage » pour la suite de leur « story telling », pour reprendre des expressions prisées des communicants :
+
+- « **Certes, il n’y a pas vraiment eu de baisse des dotations en 2023, mais nous avons à nouveau augmenté les impôts en 2024 pour rattraper les baisses des années passées et anticiper les futures.** »
+- « **Un budget ne se construit pas et ne s’analyse pas sur une seule année.** »
+- « **Magny est unique, faire des comparaisons a peu de sens, et c’est petit**. »
+- « **L’opposition critique, mais ne propose rien** », et ainsi de suite.
+
+Le métier de M. Houillon est la communication, qu’il dévoie malheureusement. Depuis que nous l’avons compris, nous observons ce qu’il fait, plutôt que ce qu’il dit ou fait dire dans les différents supports de communication qu’il contrôle.
+
+En matière fiscale et financière, analyser ses choix et ceux de son équipe depuis qu’il est maire, les comparer à ceux d’une commune voisine et aux communes comparables à Magny, est bien plus instructif que de lire le **Magny Mag**. C’est ce que nous faisons via les **services de l’État**, qui fournissent pour chaque grande ligne du budget de Magny la moyenne des communes comparables. C’est aussi ce que fait l’association **Contribuables Associés**, sur la base des données financières publiques de toutes les communes de France. Leur méthodologie est détaillée ici : [Argus des communes – méthodologie](https://arguscommunes.touscontribuables.org/methodologie). Certains critères sont discutables, et le modèle a ses limites, comme tout modèle. Cependant, nous le trouvons intéressant, car il offre un complément pertinent aux comparaisons proposées par les services de l’État.
+
+Quant à leur coller l’étiquette d’extrême-droite, comme vous le faites... Le journal *Le Parisien* s’y est essayé il y a dix ans, avant de devoir publier ce [droit de réponse](https://www.leparisien.fr/archives/droit-de-reponse-de-l-association-contribuables-associes-05-12-2013-3377927.php) du président de l’association. Dix ans plus tard, le même journal publiait cet article : « Dépenses publiques : le train de vie de nos communes passé au crible », montrant l’intérêt de ces comparaisons : [article de 2021](https://www.leparisien.fr/economie/depenses-publiques-le-train-de-vie-de-nos-communes-passe-au-crible-09-03-2021-8427706.php).
+
+Ce qui est intéressant, ce n’est pas tant que vous qualifiez cette association d’extrême-droite dans un courrier privé, mais que M. Houillon ait relayé publiquement cette accusation sur son compte Facebook, tout en évitant soigneusement de les nommer dans le **Magny Mag**. On le comprend : il se serait sinon exposé au même genre de droit de réponse que *Le Parisien* il y a dix ans, bien en évidence sous son éditorial.
+
+En refusant d’assumer leurs choix, en s’attribuant le mérite de tout ce qui est positif et en rejetant systématiquement la responsabilité de tout ce qui est négatif sur autrui, M. Houillon et son équipe tentent d’étouffer tout débat éclairé sur la gestion de notre commune. Ces pratiques ne se limitent évidemment pas aux seules questions financières.
+
+> Il n’y a chez nous aucune animosité personnelle à son encontre, mais un constat clair : lui et son équipe conduisent notre commune dans une direction très préoccupante.
+
+Son prédécesseur — à bien des égards son mentor —, qui présidait son comité de soutien lors de sa première élection comme maire par les Magnycois, est même encore plus dur que nous :
+
+![Article du JDD sur Magny-les-Hameaux (image)](/plasmic/tribune_magnycitoyens_fr/images/_10Jpeg.jpg)
+
+*Source : [Le JDD – « Magny-les-Hameaux : une mosquée, une opposition et des menaces »](https://web.archive.org/web/20240107014250/https://www.lejdd.fr/societe/magny-les-hameaux-une-mosquee-une-opposition-et-des-menaces-140486).* 
+
+Quand on connaît un peu l’histoire de notre commune, c’est tout à fait compréhensible. M. Houillon et son équipe démantèlent progressivement ce que M. Lollioz avait réussi à construire : une commune solidaire, administrée avec équilibre, où chacun avait sa place sans ressentir qu’une catégorie était privilégiée au détriment des autres.
+
+Pour finir — et c’est sans doute l’aspect le plus problématique de sa réaction à notre tribune — M. Houillon a choisi de publier votre courrier sans mentionner le conflit d’intérêts dans lequel il se trouve vis‑à‑vis de vous. En tant que maire, il attribue à votre association des subventions directes, par le biais du budget communal, mais aussi des subventions indirectes, à travers votre mise en valeur et celle de votre association dans le **Magny Mag**.
+
+> Un bon maire doit veiller à ne porter aucun préjudice aux associations qu'il soutient financièrement, en les préservant de ses différents politiques avec l’opposition. Agir autrement risque de fragiliser l’ensemble du tissu associatif de la commune.
+
+Nous sommes favorables à ces subventions, car nous considérons que les associations sont le cœur battant de notre commune. Cependant, il ne faut pas oublier que ce sont les Magnycois qui financent. M. Houillon doit donc veiller à ne pas alimenter le discours de ceux qui estiment en avoir assez de payer pour des associations perçues comme politisées.
+
+> **Conclusion :** Un bon maire se serait abstenu de publier votre courrier dans de telles conditions. Nous l’aurions publié de nous-mêmes ainsi que notre réponse, car ils participent à éclairer le débat public.
+
+Cordialement.
+
+---
+
+## Annexes
+
+### Sources pour l’évolution des taux de fiscalité
+Vous nous avez relancé afin de vérifier par vous-même nos informations sur la **hausse du taux de taxe foncière** à Magny et sa baisse à Saint‑Rémy.
+
+Pour ce qui concerne **Magny**, des références incontestables étaient fournies dans les sources de notre tribune de mai dernier. Elles sont toujours accessibles via [ce lien](#source_taux). Si vous faites le total de chaque hausse (attention, il s’agit de pourcentages), dûment corroborée par la délibération municipale correspondante, vous parviendrez à un **total de 23,48 %** de hausse du taux communal de taxe foncière depuis que M. Houillon est maire.
+
+Comme M. Houillon a fait une partie de ces hausses en forte période d’inflation et que le taux s’applique **après** l’augmentation des bases décidée par le Parlement, l’effet au niveau du contribuable est un peu supérieur. Vous pourrez vous en rendre compte en consultant vos avis de taxe foncière ces trois dernières années, disponibles dans votre espace impots.gouv : la **hausse de la part communale de la taxe foncière** est de **25,6 % en 3 ans**, alors que l’augmentation des bases votée par le Parlement sur la période était de **15 %**. La différence correspond à l’augmentation du taux par M. Houillon sur ces 3 années (**3 % chaque année**). Parler de **près de 25 % de hausse** depuis qu’il est maire offre l’avantage de prendre en compte cet effet, tout en étant exact.
+
+### Comparaison avec Saint‑Rémy‑lès‑Chevreuse
+En ce qui concerne **Saint‑Rémy‑lès‑Chevreuse**, comparer le taux de 2012 à celui d’aujourd’hui ne vous permettra pas de déterminer directement si le taux communal de taxe foncière a augmenté ou pas, puisque depuis la suppression de la taxe d’habitation en 2021, l’ancien taux départemental est ajouté au taux communal.
+
+- Taux en **2012** à Saint‑Rémy : **13,19 %**  
+- En **2020**, dernière année avant suppression de la taxe d’habitation : **12,90 %**  
+  — [Communication de la commune de Saint Rémy sur la baisse des impôts locaux](https://www.ville-st-remy-chevreuse.fr/actualite/baisse-des-impots-locaux)
+- Depuis **2021** : **24,36 %** (et n’a pas bougé depuis). Confirmé par [cette délibération du 18 mars 2021](https://www.ville-st-remy-chevreuse.fr/wp-content/uploads/2021/03/CR-du-CM-du-18-mars-2021.pdf).
+
+Le taux communal de la taxe foncière à Magny‑les‑Hameaux :
+
+- **2012** : **19,35 %**  
+- **2020** : **23,19 %**  
+- **2021** (après suppression de la taxe d’habitation) : **34,77 %**  
+- **2024** : **37,99 %**
+
+Bien que ces évolutions de taux entre les deux communes confirment de manière spectaculaire notre analyse, il reste préférable de procéder comme nous l’avons fait, en examinant les délibérations des Conseils municipaux. En effet, en 2016, le taux communal de la taxe foncière a augmenté à Magny. Cependant, après vérification de la délibération correspondante, cette hausse n’est pas imputable à la municipalité cette année‑là. Nous ne l’avons donc pas prise en compte dans notre calcul.
+
+> **Conclusion :** Ce sont bien les habitants de Magny à qui M. Houillon et son équipe ont infligé une hausse de près de **25 %**, pendant que ceux de Saint‑Rémy ont bénéficié d’une **baisse de 3 %**.
+
+### Liste non exhaustive des attaques de M. Houillon et de son équipe
+Vous prônez un débat public courtois et sans attaques personnelles. Pourtant, ici aussi, votre courrier aurait gagné en équilibre en mentionnant également les attaques que ceux qui ne partagent pas l’avis de la majorité municipale ont dû subir. Nous nous permettons donc de compléter avec une liste non exhaustive :
+
+- M. Houillon a qualifié un ancien élu, pourtant issu de la même majorité que lui, de **« petit facho »**.
+- Un tract distribué dans toute la ville, aux frais des contribuables magnycois, signé par l’ensemble de la majorité municipale, comportait les propos suivants :  
+  > « Cette haine est orchestrée par une opposition très politique qui cherche à s’implanter sur notre commune en faisant mention d’informations mensongères et en attisant les peurs, sur fond de xénophobie. C’est abject. »  
+  Bien que M. Houillon ait affirmé en Conseil municipal que ces propos ne nous visaient pas, ce n’est pas ainsi qu’ils ont été interprétés. Certains d’entre nous ont même subi des répercussions dans leur vie personnelle à cause de ce texte.
+
+M. Houillon a publié votre courrier en se posant en victime de son opposition, mais semble peu enclin à appliquer à lui-même ou à son équipe votre appel au débat courtois. Voici quelques exemples supplémentaires depuis lors :
+
+- M. Houillon, dans le **Magny Mag** de **novembre 2024** :  
+  > « À l’heure où certains démagogues locaux utilisent des sites adeptes de fausses informations et tenants de la destruction du service public, pour mettre violemment en cause la gestion communale. »  
+  Comme dans le cas du tract, aucun nom ni précision n’accompagne ces propos, laissant libre cours aux interprétations et permettant à l’auteur de se dédouaner de toute responsabilité en cas de contestation.
+- Dans le même numéro du **Magny Mag** :  
+  > **« Incompétence et malhonnêteté »**.  
+  Cette fois, ce propos de Mme Dulac était explicitement dirigé contre nous. Contentons-nous de peu et saluons donc un progrès : voilà au moins quelqu’un qui assume. Et reconnaissons que nous l’avons lu avec amusement, car, quand on y réfléchit, c’est l’un ou l’autre, mais pas les deux en même temps.
+
+---
+
+## La lettre ouverte non signée publiée initialement sur le compte Facebook de M. Houillon
+*Image du courrier (non reproduite ici pour alléger le fichier).*  
+**Mise à jour du 13 décembre 2024 :** l'auteur de ce courrier nous a contactés le 12 décembre 2024 pour demander une rectification de notre introduction. Nous réaffirmons avoir découvert son courrier, sous forme non signée, sur le compte Facebook de M. Houillon, dans une publication datée du **27 octobre 2024**. Nous n'avons identifié l'auteur qu'après avoir récupéré son courrier en Mairie, à la suite de cette publication par M. Houillon. Si l'auteur souhaite contribuer au débat public de manière transparente, nous ajouterons très volontiers son nom à son courrier.
+
+---
+
+## Tribune du Magny Mag – Juin 2024
+**Rédigée le 13 mai 2024.**
+
+### Enfumage et opacité, la suite
+Pour garantir un minimum de démocratie locale, la loi impose au maire de publier notre tribune. Mais même ce modeste espace est de trop pour M. Houillon. Alors il nous écrit pour s’en plaindre et exiger des excuses. **Nous ne nous laisserons pas intimider !**
+
+Dans son courrier, qui reprend l’une de ses publications Facebook, M. Houillon confirme en réalité ce que nous écrivions en mars 2024. **La plainte qu’il a déposée contre un ancien membre de la majorité municipale a bien été classée sans suite.** Face à une telle déconvenue, beaucoup seraient passés à des choses plus utiles pour les Magnycois. Pas M. Houillon, qui s’entête et préfère jouer sur les mots. Il indique ainsi avoir reçu un « avis de classement à victime » ce qui, selon lui, serait « bien différent ». C’est pourtant très exactement la procédure judiciaire du classement sans suite : la personne qui a porté plainte reçoit généralement un avis de classement *à victime*, et celle qui a fait l’objet de la plainte un avis de classement *à auteur*.
+
+M. Houillon « oublie » également d’apporter un autre élément capital. **Il a traité son ancien collègue, sur les réseaux sociaux, de « petit facho »**, sans que celui‑ci ne dépose plainte pour cette insulte évidente. C’est donc bien M. Houillon qui entraîne notre commune dans ce que nous dénoncions : *« un risque évident de judiciarisation de la vie politique, où les conflits politiques ne se règlent plus devant les électeurs, mais devant les tribunaux. »*
+
+De la même façon, où sont les excuses de M. Houillon pour avoir diffusé un tract dans toute la commune, aux frais des Magnycois, avec des accusations très graves sur « une opposition très politique » ? Nous avons été amalgamés à cela, ce qui a eu des conséquences personnelles douloureuses pour certains d’entre nous, au point d’envisager de cesser leur engagement pour la commune.
+
+> **Ces méthodes d’extrême‑gauche qui consistent à traiter tout opposant de facho, et à se faire passer ensuite pour la victime doivent cesser.**
+
+### Les sources de notre tribune
+#### Le tweet où M. Houillon traite son ancien collègue de « petit facho »
+*(Image non reproduite ici ; voir page d’origine.)*
+
+#### La démonstration que M. Houillon joue sur les mots
+L’« avis de classement à victime » dont il se prévaut confirme ce que nous écrivions : **sa plainte a bien été classée sans suite** par le Procureur de la République. Dès lors, nul ne peut prétendre que l’adversaire de M. Houillon est coupable de quoi que ce soit. Ce serait, pour le coup, diffamatoire, et même une atteinte à ses droits fondamentaux.
+
+*(Image du document non reproduite ici.)*  
+Source : [avocat-lexvox.com – Avis à victime de se constituer partie civile](https://www.avocat-lexvox.com/avis-a-victime-de-se-constituer-partie-civile_ad1451.html).
+
+#### Le courrier de M. Houillon
+Afin que chacun se fasse sa propre opinion, nous publions le courrier que nous a adressé M. Houillon. Il y reprend l’essentiel de ce qu’il avait déjà publié sur son compte Facebook il y a plusieurs mois.  
+Source : [Courrier de M. Houillon (Google Drive)](https://drive.google.com/file/d/13wVgvGPrhmh_T13oYGBOlV9iPHEw-J0b/view).
+
+---
+
+## Tribune du Magny Mag – Mai 2024
+### Budget 2024 : la majorité municipale vote une nouvelle hausse de vos impôts communaux
+Le mois dernier, le **Magny Mag** s’est livré à un formidable numéro de propagande. Vous vanter les mérites du **budget voté mercredi 27 mars 2024** (pages 3 et 10) sans jamais vous fournir une information capitale : **la nouvelle hausse de votre fiscalité communale** décidée par la majorité municipale. On vous abreuve de chiffres sur ce qui sera réalisé (avec votre argent), mais on « oublie » de vous dire combien ça va vous coûter.
+
+Intrigués par cet « oubli », nous nous sommes plongés dans ce que l’on trouve hors des publications municipales. **L’étude sur les taux de fiscalité votés en 2023** par la direction générale des finances publiques constate par exemple que **85 à 90 % des communes de France n’avaient pas augmenté leur taux de fiscalité**, et que même **3 % l’avaient baissé**. Il faut bien se rendre à l’évidence : Magny faisait partie l’an dernier de **l’infime minorité** à avoir augmenté ses taux de fiscalité communale.
+
+Et pour cause : le Parlement compense chaque année les effets de l’inflation en **revalorisant les bases fiscales**. Pour **2023**, il les a augmentées de **7,1 %** ! L’immense majorité des maires a donc eu la sagesse de ne pas alourdir encore la facture. Mais à Magny, ce n’était pas assez. Et, non contents de cette « performance », la majorité remet le couvert cette année encore. Les **+3,9 %** votés par le Parlement pour **2024**, ce n’est toujours pas assez.
+
+Reconnaissons que ces hausses sont distillées avec beaucoup d’habileté en début de mandat. Mais quand on fait les comptes depuis que M. Houillon est maire, les choses deviennent très claires : **+13 % en 2015**, **+3 % en 2022**, **+3 % en 2023** et **+3 % en 2024**. La réalité est que **M. Houillon et ses acolytes ne savent pas tenir un budget sans augmenter continuellement la pression fiscale.** Et ce n’est bien sûr jamais assumé avant les élections, et jamais de leur faute ensuite.
+
+### Les sources de notre tribune
+#### L’étude de la Direction générale des finances publiques
+Cette étude montre que **Magny est l’une des rares communes à avoir voté une augmentation de ses taux d’imposition en 2023**.  
+[➡️ Lire l’étude complète (PDF)](https://www.impots.gouv.fr/sites/default/files/media/9_statistiques/data_colloc/analyse_fdl/2023/taux_votes_2023_communes_epci.pdf)
+
+#### Les augmentations d’impôts communaux à Magny décidées par M. Houillon depuis qu’il est maire
+La majorité municipale invoque notamment l’inflation pour faire « passer la pilule » de ces hausses. Or les bases fiscales sont **revalorisées chaque année** par le Parlement pour compenser les effets de l’inflation (voir ci‑après). La réalité est que **ces augmentations sont de la pression fiscale supplémentaire** imposée aux contribuables magnycois par M. Houillon et son équipe.
+
+- **2024** : augmentation de **3 %** — [Délibération du Conseil municipal du 27/03/2024 (PDF)](https://magny-les-hameaux.fr/sites/magny-les-hameaux/files/document/2024-03/deliberation-n-2024-012-vote-des-taux-de-fiscalite-2024_0.pdf)
+- **2023** : augmentation de **3 %** — [Procès-verbal du Conseil municipal du 27/03/2023 (PDF)](https://magny-les-hameaux.fr/sites/magny-les-hameaux/files/document/2023-05/proces-verbal-du-conseil-municipal-du-27-mars-2023.pdf)
+- **2022** : augmentation de **3 %** — [Compte-rendu du Conseil municipal du 29/03/2022 (PDF)](https://magny-les-hameaux.fr/sites/magny-les-hameaux/files/document/2022-03/C.R._sommaire_Conseil_Municipal_du_28_mars_2022.pdf)
+- **2015** : augmentation de **13 %** — [Compte-rendu du Conseil municipal du 8/04/2015 (PDF)](https://magny-les-hameaux.fr/sites/magny-les-hameaux/files/document/2020-09/compte-rendu_cm_du_8_avril_2015.pdf)
+
+#### La revalorisation automatique des bases votée par le Parlement pour compenser les effets de l’inflation
+- **2023** : augmentation de **7,1 %** — [Notice de l’administration fiscale du 3 août 2023](https://www.impots.gouv.fr/particulier/questions/comment-est-calculee-ma-taxe-fonciere-pourquoi-t-elle-augmente-en-2023)
+- **2024** : augmentation de **3,9 %** — [Présentation de la loi de finances, Association des maires de France, 8 février 2024 (PDF)](https://www.amf.asso.fr/webinaire%20finances%208%20fev%2024_MH.pdf)
+
+---
+
+## Notes techniques et édition
+- Les images du site original (graphiques, coupures de presse, captures de tweet, etc.) sont indiquées ici comme liens ou mentions et ne sont pas reproduites dans ce fichier pour alléger sa taille. Les liens pointent vers les sources originales lorsque possible.
+- Les citations juridiques (articles du CGCT, du code électoral, décisions du Conseil d’État) sont reproduites intégralement.
+- Les dates et chiffres sont conservés fidèlement.
+- Cette version complète regroupe l’ensemble des textes visibles de la page unique au 17 août 2025 et reflète les mises à jour successives apportées (mai 2025, avril 2025, décembre 2024, juin 2024 et mai 2024).
