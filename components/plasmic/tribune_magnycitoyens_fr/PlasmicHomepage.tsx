@@ -3420,8 +3420,8 @@ export const PlasmicHomepage = Object.assign(
 
     // Page metadata
     pageMetadata: {
-      title: "Magny Citoyens - Tribune du Magny Mag",
-      description: "Les sources de la tribune de l'opposition",
+      title: "Magny Citoyens - Tribune du Magny Mag - Sources et compléments",
+      description: "Les sources et compléments de la tribune de l'opposition",
       ogImageSrc: "",
       canonical: ""
     }
