@@ -309,3 +309,5 @@
 .__wab_expr_html_text {
   white-space: normal;
 }
+:where(.root_reset) {
+}

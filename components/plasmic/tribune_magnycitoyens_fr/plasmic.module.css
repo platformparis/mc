@@ -151,6 +151,8 @@
   background: none;
   background-size: 100% 100%;
   background-repeat: no-repeat;
+  row-gap: 0px;
+  column-gap: 0px;
   box-shadow: none;
   box-sizing: border-box;
   text-decoration-line: none;
@@ -164,6 +166,8 @@
   background: none;
   background-size: 100% 100%;
   background-repeat: no-repeat;
+  row-gap: 0px;
+  column-gap: 0px;
   box-shadow: none;
   box-sizing: border-box;
   margin: 0;
@@ -624,7 +628,7 @@ ol:where(.root_reset_tags) {
   padding-left: var(--mixin-TM9EnKarqVcf_padding-left);
   position: var(--mixin-TM9EnKarqVcf_position);
   list-style-type: var(--mixin-TM9EnKarqVcf_list-style-type);
-  flex-column-gap: var(--mixin-TM9EnKarqVcf_flex-column-gap);
+  column-gap: var(--mixin-TM9EnKarqVcf_column-gap);
 }
 
 :where(.root_reset) ul:where(.ul),
@@ -640,7 +644,7 @@ ul:where(.root_reset_tags) {
   padding-left: var(--mixin-D5YFGumTLjeH_padding-left);
   position: var(--mixin-D5YFGumTLjeH_position);
   list-style-type: var(--mixin-D5YFGumTLjeH_list-style-type);
-  flex-column-gap: var(--mixin-D5YFGumTLjeH_flex-column-gap);
+  column-gap: var(--mixin-D5YFGumTLjeH_column-gap);
 }
 
 :where(.root_reset) a:where(.a):hover,

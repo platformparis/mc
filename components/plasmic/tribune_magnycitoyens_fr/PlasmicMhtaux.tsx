@@ -33,7 +33,6 @@ import {
   classNames,
   createPlasmicElementProxy,
   deriveRenderOpts,
-  ensureGlobalVariants,
   generateOnMutateForSpec,
   generateStateOnChangeProp,
   generateStateOnChangePropForCodeComponents,
@@ -58,6 +57,9 @@ import {
   useDataEnv,
   useGlobalActions
 } from "@plasmicapp/react-web/lib/host";
+
+import { _useGlobalVariants } from "./plasmic"; // plasmic-import: 8d21MsEaFrjU1q6tvNDHvf/projectModule
+import { _useStyleTokens } from "./PlasmicStyleTokensProvider"; // plasmic-import: 8d21MsEaFrjU1q6tvNDHvf/styleTokensProvider
 
 import "@plasmicapp/react-web/lib/plasmic.css";
 
@@ -120,6 +122,8 @@ function PlasmicMhtaux__RenderFunc(props: {
   const refsRef = React.useRef({});
   const $refs = refsRef.current;
 
+  const styleTokensClassNames = _useStyleTokens();
+
   return (
     <React.Fragment>
       <Head></Head>
@@ -141,7 +145,7 @@ function PlasmicMhtaux__RenderFunc(props: {
             projectcss.root_reset,
             projectcss.plasmic_default_styles,
             projectcss.plasmic_mixins,
-            projectcss.plasmic_tokens,
+            styleTokensClassNames,
             sty.root
           )}
         >

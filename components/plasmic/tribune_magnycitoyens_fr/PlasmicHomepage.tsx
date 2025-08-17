@@ -33,7 +33,6 @@ import {
   classNames,
   createPlasmicElementProxy,
   deriveRenderOpts,
-  ensureGlobalVariants,
   generateOnMutateForSpec,
   generateStateOnChangeProp,
   generateStateOnChangePropForCodeComponents,
@@ -59,7 +58,9 @@ import {
   useGlobalActions
 } from "@plasmicapp/react-web/lib/host";
 
-import { useScreenVariants as useScreenVariants_9Hyy9KzWn8QX } from "./PlasmicGlobalVariant__Screen"; // plasmic-import: 9hyy9kzWn8qX/globalVariant
+import { Embed } from "@plasmicpkgs/plasmic-basic-components";
+import { _useGlobalVariants } from "./plasmic"; // plasmic-import: 8d21MsEaFrjU1q6tvNDHvf/projectModule
+import { _useStyleTokens } from "./PlasmicStyleTokensProvider"; // plasmic-import: 8d21MsEaFrjU1q6tvNDHvf/styleTokensProvider
 
 import "@plasmicapp/react-web/lib/plasmic.css";
 
@@ -79,6 +80,7 @@ export const PlasmicHomepage__ArgProps = new Array<ArgPropType>();
 
 export type PlasmicHomepage__OverridesType = {
   root?: Flex__<"div">;
+  embedHtml?: Flex__<typeof Embed>;
 };
 
 export interface DefaultHomepageProps {}
@@ -122,9 +124,8 @@ function PlasmicHomepage__RenderFunc(props: {
   const refsRef = React.useRef({});
   const $refs = refsRef.current;
 
-  const globalVariants = ensureGlobalVariants({
-    screen: useScreenVariants_9Hyy9KzWn8QX()
-  });
+  const globalVariants = _useGlobalVariants();
+  const styleTokensClassNames = _useStyleTokens();
 
   return (
     <React.Fragment>
@@ -175,7 +176,7 @@ function PlasmicHomepage__RenderFunc(props: {
             projectcss.root_reset,
             projectcss.plasmic_default_styles,
             projectcss.plasmic_mixins,
-            projectcss.plasmic_tokens,
+            styleTokensClassNames,
             sty.root
           )}
         >
@@ -3323,6 +3324,14 @@ function PlasmicHomepage__RenderFunc(props: {
                 "\u27a1\ufe0f Pr\u00e9sentation de la loi de finances, association des maires des France, 8/2/24 (PDF)"
               }
             </PlasmicLink__>
+            <Embed
+              data-plasmic-name={"embedHtml"}
+              data-plasmic-override={overrides.embedHtml}
+              className={classNames("__wab_instance", sty.embedHtml)}
+              code={
+                '<script type="application/ld+json">\n{\n  "@context": "https://schema.org",\n  "@graph": [\n    {\n      "@type": "Organization",\n      "@id": "https://tribune.magnycitoyens.fr/#organization",\n      "name": "Magny Citoyens",\n      "url": "https://tribune.magnycitoyens.fr/",\n      "logo": "https://tribune.magnycitoyens.fr/plasmic/tribune_magnycitoyens_fr/images/logoBvrPng.png"\n    },\n    {\n      "@type": "WebSite",\n      "@id": "https://tribune.magnycitoyens.fr/#website",\n      "url": "https://tribune.magnycitoyens.fr/",\n      "name": "Tribune du Magny",\n      "publisher": { "@id": "https://tribune.magnycitoyens.fr/#organization" }\n    },\n    {\n      "@type": "ItemList",\n      "@id": "https://tribune.magnycitoyens.fr/#tribunes",\n      "name": "Tribunes de Magny Citoyens",\n      "itemListOrder": "Descending",\n      "itemListElement": [\n        {\n          "@type": "BlogPosting",\n          "headline": "Compl\u00e9ment \u00e0 la tribune du Magny Mag \u2013 \u00c9t\u00e9 2025",\n          "url": "https://tribune.magnycitoyens.fr/#ete-2025",\n          "datePublished": "2025-05-26",\n          "inLanguage": "fr",\n          "publisher": { "@id": "https://tribune.magnycitoyens.fr/#organization" },\n          "author": { "@id": "https://tribune.magnycitoyens.fr/#organization" },\n          "description": "Compl\u00e9ment \u00e0 la tribune du Magny Mag de l\u2019\u00e9t\u00e9 2025."\n        },\n        {\n          "@type": "BlogPosting",\n          "headline": "Compl\u00e9ment \u00e0 la tribune du Magny Mag \u2013 Mai 2025",\n          "url": "https://tribune.magnycitoyens.fr/#mai-2025",\n          "datePublished": "2025-04-26",\n          "inLanguage": "fr",\n          "publisher": { "@id": "https://tribune.magnycitoyens.fr/#organization" },\n          "author": { "@id": "https://tribune.magnycitoyens.fr/#organization" },\n          "description": "Compl\u00e9ment \u00e0 la tribune du Magny Mag de mai 2025."\n        },\n        {\n          "@type": "BlogPosting",\n          "headline": "Tribune du suppl\u00e9ment du Magny Mag \u2013 Avril 2025",\n          "url": "https://tribune.magnycitoyens.fr/#avril-2025",\n          "datePublished": "2025-03-26",\n          "inLanguage": "fr",\n          "publisher": { "@id": "https://tribune.magnycitoyens.fr/#organization" },\n          "author": { "@id": "https://tribune.magnycitoyens.fr/#organization" },\n          "description": "Tribune du suppl\u00e9ment du Magny Mag \u2013 Avril 2025."\n        },\n        {\n          "@type": "BlogPosting",\n          "headline": "Tribune du Magny Mag \u2013 D\u00e9cembre 2024 (compl\u00e9ment)",\n          "url": "https://tribune.magnycitoyens.fr/#decembre-2024",\n          "datePublished": "2024-12-01",\n          "dateModified": "2024-12-13",\n          "inLanguage": "fr",\n          "publisher": { "@id": "https://tribune.magnycitoyens.fr/#organization" },\n          "author": { "@id": "https://tribune.magnycitoyens.fr/#organization" },\n          "description": "Tribune du Magny Mag \u2013 D\u00e9cembre 2024 (compl\u00e9ment)."\n        },\n        {\n          "@type": "BlogPosting",\n          "headline": "Tribune du Magny Mag \u2013 Juin 2024",\n          "url": "https://tribune.magnycitoyens.fr/#juin-2024",\n          "datePublished": "2024-06-01",\n          "inLanguage": "fr",\n          "publisher": { "@id": "https://tribune.magnycitoyens.fr/#organization" },\n          "author": { "@id": "https://tribune.magnycitoyens.fr/#organization" },\n          "description": "Tribune du Magny Mag \u2013 Juin 2024."\n        },\n        {\n          "@type": "BlogPosting",\n          "headline": "Tribune du Magny Mag \u2013 Mai 2024",\n          "url": "https://tribune.magnycitoyens.fr/#mai-2024",\n          "datePublished": "2024-05-01",\n          "inLanguage": "fr",\n          "publisher": { "@id": "https://tribune.magnycitoyens.fr/#organization" },\n          "author": { "@id": "https://tribune.magnycitoyens.fr/#organization" },\n          "description": "Tribune du Magny Mag \u2013 Mai 2024."\n        }\n      ]\n    }\n  ]\n}\n</script>\n'
+              }
+            />
           </section>
         </div>
       </div>
@@ -3331,13 +3340,15 @@ function PlasmicHomepage__RenderFunc(props: {
 }
 
 const PlasmicDescendants = {
-  root: ["root"]
+  root: ["root", "embedHtml"],
+  embedHtml: ["embedHtml"]
 } as const;
 type NodeNameType = keyof typeof PlasmicDescendants;
 type DescendantsType<T extends NodeNameType> =
   (typeof PlasmicDescendants)[T][number];
 type NodeDefaultElementType = {
   root: "div";
+  embedHtml: typeof Embed;
 };
 
 type ReservedPropsType = "variants" | "args" | "overrides";
@@ -3400,6 +3411,7 @@ export const PlasmicHomepage = Object.assign(
   makeNodeComponent("root"),
   {
     // Helper components rendering sub-elements
+    embedHtml: makeNodeComponent("embedHtml"),
 
     // Metadata about props expected for PlasmicHomepage
     internalVariantProps: PlasmicHomepage__VariantProps,
